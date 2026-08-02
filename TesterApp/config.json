@@ -1,0 +1,6 @@
+{
+  "scenariosFile": "/data/scenarios.csv",
+  "questionsFile": "/data/questions-factual_recall.csv",
+  "apiUrl": "http://127.0.0.1:11434/api/chat",
+  "model": ""
+}
