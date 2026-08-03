@@ -35,7 +35,7 @@ public class ExperimentAction
 		await Parallel.ForEachAsync(_scenarios, async (scenario, ct) =>
 		{
 			Console.WriteLine("Processing scenario {0}...", scenario.ScenarioId);
-			await Parallel.ForEachAsync(_questions[scenario.ScenarioId - 1], ct, async (q, ict) =>
+			await Parallel.ForEachAsync(_questions[scenario.ScenarioId], ct, async (q, ict) =>
 			{
 				Console.WriteLine("Processing question {0}...", q.QuestionId);
 				var payload = new
