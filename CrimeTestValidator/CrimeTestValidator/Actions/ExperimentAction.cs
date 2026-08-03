@@ -35,7 +35,7 @@ public class ExperimentAction
 		await Parallel.ForEachAsync(_scenarios, async (scenario, ct) =>
 		{
 			Console.WriteLine("Processing scenario {0}...", scenario.ScenarioId);
-			await Parallel.ForEachAsync(_questions[scenario.ScenarioId], ct, async (q, ict) =>
+			await Parallel.ForEachAsync(_questions[scenario.ScenarioId - 1], ct, async (q, ict) =>
 			{
 				Console.WriteLine("Processing question {0}...", q.QuestionId);
 				var payload = new
@@ -97,7 +97,7 @@ public class ExperimentAction
 		using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
 		var questions = csv.GetRecords<QuestionDto>().ToList();
 		_questions = questions
-				.GroupBy(q => q.QuestionId, q => q)
+				.GroupBy(q => q.ScenarioId, q => q)
 				.ToDictionary(g => g.Key, g => g.ToList());
 		Console.WriteLine("Loaded {0} questions", _questions.Values.Count);
 	}
