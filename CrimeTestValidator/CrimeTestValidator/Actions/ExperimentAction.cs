@@ -49,7 +49,8 @@ public class ExperimentAction
 										content = $"SCENARIO: {scenario.Scenario} \n\n {scenario.Prompt}"
 								},
 								new { role = "user", content = q.Question }
-						}
+						},
+						stream = false
 				};
 
 				var json = JsonSerializer.Serialize(payload);
