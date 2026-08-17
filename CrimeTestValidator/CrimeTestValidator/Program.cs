@@ -2,7 +2,12 @@
 
 using System.Text.Json;
 using CrimeTestValidator.Actions;
-using CrimeTestValidator.Dtos;
+using CrimeTestValidator.Configs;
+
+JsonSerializerOptions jsonOptions = new()
+{
+		PropertyNameCaseInsensitive = true,
+};
 
 if (args.Length == 0 || !int.TryParse(args[0], out int actionNum))
 {
@@ -10,34 +15,35 @@ if (args.Length == 0 || !int.TryParse(args[0], out int actionNum))
 	return;
 }
 
+var configJson = File.ReadAllText("config.json");
+Console.WriteLine($"Config: {configJson}");
+var appConfig = JsonSerializer.Deserialize<AppConfig>(configJson, jsonOptions);
+
+if (appConfig == null)
+{
+	Console.WriteLine("Config is invalid or missing");
+	return;
+}
+
 switch ((ActionType)actionNum)
 {
 	case ActionType.Experiment:
-		if (args.Length < 2 || string.IsNullOrEmpty(args[1]))
-		{
-			Console.WriteLine("Invalid arguments");
-			return;
-		}
+	{
+		if(args.Length <= 2 || args[1] is not { } model)
+			throw new ArgumentException("Model is mising");
 
-		var modelName = args[1];
-		var configJson = File.ReadAllText("config.json");
-		Console.WriteLine($"Config: {configJson}");
-		var config = JsonSerializer.Deserialize<ExperimentConfig>(configJson,
-				new JsonSerializerOptions() { PropertyNameCaseInsensitive = true });
-
-		if (config == null)
-		{
-			Console.WriteLine("Invalid config");
-			return;
-		}
-
-		config.Model = modelName;
-		var experimentAction = new ExperimentAction(config);
+		appConfig.ExperimentConfig.Model = model;
+		var experimentAction = new ExperimentAction(appConfig.ExperimentConfig);
 		await experimentAction.RunExperimentsAsync();
 		break;
+	}
 	case ActionType.Validate:
+	{
+		var validationAction = new ValidationAction(appConfig.ValidationConfig);
+		await validationAction.RunValidationsAsync();
 		break;
+	}
 	default:
-		Console.WriteLine("Wrong input");
+		Console.WriteLine("There isn't such action");
 		return;
 }

@@ -1,6 +1,6 @@
-namespace CrimeTestValidator.Dtos;
+namespace CrimeTestValidator.Configs;
 
-public class ExperimentConfig
+public class ExperimentConfig : IConfig
 {
 	public string ScenariosFile { get; set; } = null!;
 
@@ -33,6 +33,6 @@ public class ExperimentConfig
 			invalidMsg += "Model is missing";
 		}
 
-		return (invalidCount <= 0,  invalidMsg);
+		return (invalidCount == 0,  invalidMsg);
 	}
 }
