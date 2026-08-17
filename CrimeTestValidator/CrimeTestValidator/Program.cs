@@ -29,10 +29,10 @@ switch ((ActionType)actionNum)
 {
 	case ActionType.Experiment:
 	{
-		if(args.Length <= 2 || args[1] is not { } model)
+		if(args.Length <= 2)
 			throw new ArgumentException("Model is mising");
 
-		appConfig.ExperimentConfig.Model = model;
+		appConfig.ExperimentConfig.Model = args[1];
 		var experimentAction = new ExperimentAction(appConfig.ExperimentConfig);
 		await experimentAction.RunExperimentsAsync();
 		break;
