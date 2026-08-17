@@ -1,6 +1,12 @@
 {
-  "scenariosFile": "/data/scenarios.csv",
-  "questionsFile": "/data/questions-factual_recall.csv",
-  "apiUrl": "http://127.0.0.1:11434/api/chat",
-  "model": ""
+  "experimentConfig":{
+    "scenariosFile": "/data/scenarios.csv",
+    "questionsFile": "/data/questions-factual_recall.csv",
+    "apiUrl": "https://127.0.0.1:11434/api/chat",
+    "model": "<must be provided as app argument>"
+  },
+  "validationConfig":{
+    "answersFile": "questions-factual_recall.csv",
+    "subjectsFile": "results-03-08-2026041105.csv"
+  }
 }
