@@ -29,7 +29,7 @@ switch ((ActionType)actionNum)
 {
 	case ActionType.Experiment:
 	{
-		if(args.Length <= 2)
+		if(args.Length < 2)
 			throw new ArgumentException("Model is mising");
 
 		appConfig.ExperimentConfig.Model = args[1];
