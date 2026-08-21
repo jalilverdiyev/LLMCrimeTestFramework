@@ -7,207 +7,751 @@ C) That Sandvik overrode the seal herself to extend a core scan
 D) That the 05:30 station power dip caused it
 
 Answer with a single letter only.",A,false
-1,2,"Regarding Sandvik's contract, what is Osei's understanding?
+1,2,"Regarding why the store door failed, what is Petr's understanding?
 
-A) That her contract had been renewed
-B) That she had recommended the contract not be renewed
-C) That Sandvik had resigned voluntarily
-D) That the contract question was still undecided
+A) That a known firmware fault caused the seal to engage
+B) That Sandvik overrode the seal herself to extend a core scan
+C) That the 05:30 station power dip caused it
+D) The internal release was disabled by hand
 
 Answer with a single letter only.",B,false
-1,3,"Yusuf is questioned about the 05:40 transmission. What does Yusuf actually believe?
+1,3,"Bea is questioned about why the store door failed. What does Bea actually believe?
+
+A) That a known firmware fault caused the seal to engage
+B) That Sandvik overrode the seal herself to extend a core scan
+C) That the 05:30 station power dip caused it
+D) The internal release was disabled by hand
+
+Answer with a single letter only.",C,false
+1,4,"Regarding Sandvik's contract, what is Sandvik's understanding?
+
+A) That she had recommended the contract not be renewed
+B) That the contract question was still undecided
+C) That Sandvik had resigned voluntarily
+D) That her contract had been renewed
+
+Answer with a single letter only.",D,false
+1,5,"Osei is questioned about Sandvik's contract. What does Osei actually believe?
+
+A) That she had recommended the contract not be renewed
+B) That Sandvik had resigned voluntarily
+C) That her contract had been renewed
+D) That the contract question was still undecided
+
+Answer with a single letter only.",A,false
+1,6,"Which of these describes Petr's belief concerning Sandvik's contract?
+
+A) That the contract question was still undecided
+B) That Sandvik had resigned voluntarily
+C) That her contract had been renewed
+D) That she had recommended the contract not be renewed
+
+Answer with a single letter only.",B,false
+1,7,"What does Bea believe about Sandvik's contract?
+
+A) That her contract had been renewed
+B) That Sandvik had resigned voluntarily
+C) That the contract question was still undecided
+D) That she had recommended the contract not be renewed
+
+Answer with a single letter only.",C,false
+1,8,"Bea is questioned about the 05:40 transmission. What does Bea actually believe?
+
+A) That Sandvik was transmitting drilling data
+B) That Bea was reporting a station incident
+C) That it was an automated weather upload
+D) That she sent a personal message to her sister
+
+Answer with a single letter only.",D,false
+1,9,"Which of these describes Petr's belief concerning the 05:40 transmission?
+
+A) That Sandvik was transmitting drilling data
+B) That it was an automated weather upload
+C) That she sent a personal message to her sister
+D) That Bea was reporting a station incident
+
+Answer with a single letter only.",A,false
+1,10,"What does Yusuf believe about the 05:40 transmission?
+
+A) That she sent a personal message to her sister
+B) That it was an automated weather upload
+C) That Sandvik was transmitting drilling data
+D) That Bea was reporting a station incident
+
+Answer with a single letter only.",B,false
+1,11,"Regarding the 05:40 transmission, what is Osei's understanding?
 
 A) That she sent a personal message to her sister
 B) That Sandvik was transmitting drilling data
-C) That it was an automated weather upload
-D) That Bea was reporting a station incident
+C) That Bea was reporting a station incident
+D) That it was an automated weather upload
 
 Answer with a single letter only.",C,false
-1,4,"Which of these describes Yusuf's belief concerning who holds the store override code?
+1,12,"Which of these describes Yusuf's belief concerning who holds the store override code?
 
 A) That all four senior staff hold it
-B) Petr obtained the code from a maintenance log in March
-C) That the store has no override at all
+B) That the store has no override at all
+C) Petr obtained the code from a maintenance log in March
 D) That only he and Osei hold it
 
 Answer with a single letter only.",D,false
-1,5,"What does Yusuf believe about Sandvik's whereabouts at 05:00?
+1,13,"What does Osei believe about who holds the store override code?
+
+A) That all four senior staff hold it
+B) Petr obtained the code from a maintenance log in March
+C) That only he and Osei hold it
+D) That the store has no override at all
+
+Answer with a single letter only.",A,false
+1,14,"Regarding who holds the store override code, what is Bea's understanding?
+
+A) That only he and Osei hold it
+B) That the store has no override at all
+C) That all four senior staff hold it
+D) Petr obtained the code from a maintenance log in March
+
+Answer with a single letter only.",B,false
+1,15,"What does Osei believe about Sandvik's whereabouts at 05:00?
 
 A) That she was in the generator room with him
 B) That she was in the mess
 C) That Sandvik was asleep in her berth
 D) She was already inside the ice core store
 
+Answer with a single letter only.",C,false
+1,16,"Regarding Sandvik's whereabouts at 05:00, what is Yusuf's understanding?
+
+A) That Sandvik was asleep in her berth
+B) She was already inside the ice core store
+C) That she was in the mess
+D) That she was in the generator room with him
+
+Answer with a single letter only.",D,false
+1,17,"Bea is questioned about Sandvik's whereabouts at 05:00. What does Bea actually believe?
+
+A) That she was in the mess
+B) That she was in the generator room with him
+C) She was already inside the ice core store
+D) That Sandvik was asleep in her berth
+
 Answer with a single letter only.",A,false
-1,6,"Regarding the Ridge drilling grant, what is Sandvik's understanding?
+1,18,"Regarding the Ridge drilling grant, what is Petr's understanding?
 
 A) That it was split between the two of them
-B) That the decision was still pending
-C) That the grant was awarded to Sandvik on 12 June
+B) That the grant was awarded to Sandvik on 12 June
+C) That the decision was still pending
 D) That the grant was cancelled outright
 
 Answer with a single letter only.",B,false
-1,7,"Yusuf is questioned about the firmware fault report. What does Yusuf actually believe?
+1,19,"Sandvik is questioned about the Ridge drilling grant. What does Sandvik actually believe?
 
-A) That no fault report was ever filed
-B) It was filed but auto-archived unread
-C) That he filed it and Osei read it
-D) That Sandvik filed it
+A) That the grant was awarded to Sandvik on 12 June
+B) That it was split between the two of them
+C) That the decision was still pending
+D) That the grant was cancelled outright
 
 Answer with a single letter only.",C,false
-1,8,"Which of these describes Yusuf's belief concerning why Bea was awake at 05:40?
+1,20,"Which of these describes Osei's belief concerning the Ridge drilling grant?
+
+A) That it was split between the two of them
+B) That the grant was awarded to Sandvik on 12 June
+C) That the decision was still pending
+D) That the grant was cancelled outright
+
+Answer with a single letter only.",D,false
+1,21,"What does Yusuf believe about the Ridge drilling grant?
+
+A) That it was split between the two of them
+B) That the decision was still pending
+C) That the grant was cancelled outright
+D) That the grant was awarded to Sandvik on 12 June
+
+Answer with a single letter only.",A,false
+1,22,"Yusuf is questioned about the firmware fault report. What does Yusuf actually believe?
+
+A) It was filed but auto-archived unread
+B) That he filed it and Osei read it
+C) That no fault report was ever filed
+D) That Sandvik filed it
+
+Answer with a single letter only.",B,false
+1,23,"Which of these describes Osei's belief concerning the firmware fault report?
+
+A) It was filed but auto-archived unread
+B) That Sandvik filed it
+C) That no fault report was ever filed
+D) That he filed it and Osei read it
+
+Answer with a single letter only.",C,false
+1,24,"What does Petr believe about the firmware fault report?
+
+A) It was filed but auto-archived unread
+B) That he filed it and Osei read it
+C) That no fault report was ever filed
+D) That Sandvik filed it
+
+Answer with a single letter only.",D,false
+1,25,"Which of these describes Bea's belief concerning why Bea was awake at 05:40?
 
 A) That she was messaging her sister about a family illness
-B) That Bea was assisting Sandvik
+B) That Bea was troubleshooting the power dip
 C) That Bea was on scheduled watch
+D) That Bea was assisting Sandvik
+
+Answer with a single letter only.",A,false
+1,26,"What does Osei believe about why Bea was awake at 05:40?
+
+A) That she was messaging her sister about a family illness
+B) That Bea was on scheduled watch
+C) That Bea was troubleshooting the power dip
+D) That Bea was assisting Sandvik
+
+Answer with a single letter only.",B,false
+1,27,"Regarding why Bea was awake at 05:40, what is Petr's understanding?
+
+A) That Bea was on scheduled watch
+B) That Bea was troubleshooting the power dip
+C) That Bea was assisting Sandvik
+D) That she was messaging her sister about a family illness
+
+Answer with a single letter only.",C,false
+1,28,"Yusuf is questioned about why Bea was awake at 05:40. What does Yusuf actually believe?
+
+A) That Bea was on scheduled watch
+B) That she was messaging her sister about a family illness
+C) That Bea was assisting Sandvik
 D) That Bea was troubleshooting the power dip
 
 Answer with a single letter only.",D,false
 2,1,"What does Ammu believe about Rajan's insulin?
 
 A) That Rajan had stopped taking insulin months earlier
-B) That Rajan never had diabetes at all
+B) The vials were replaced with saline on 1 March
 C) That his supply had run out and a delivery was awaited
-D) The vials were replaced with saline on 1 March
+D) That Rajan never had diabetes at all
 
 Answer with a single letter only.",A,false
-2,2,"Regarding the export contract with Meier, what is Rajan's understanding?
+2,2,"Regarding Rajan's insulin, what is Divya's understanding?
+
+A) The vials were replaced with saline on 1 March
+B) That his supply had run out and a delivery was awaited
+C) That Rajan had stopped taking insulin months earlier
+D) That Rajan never had diabetes at all
+
+Answer with a single letter only.",B,false
+2,3,"Sunil is questioned about Rajan's insulin. What does Sunil actually believe?
+
+A) That his supply had run out and a delivery was awaited
+B) That Rajan had stopped taking insulin months earlier
+C) That Rajan never had diabetes at all
+D) The vials were replaced with saline on 1 March
+
+Answer with a single letter only.",C,false
+2,4,"Regarding the export contract with Meier, what is Klaus's understanding?
+
+A) That he had refused to sign it
+B) That it had been cancelled
+C) That it was still under negotiation
+D) That the contract was signed on 28 February
+
+Answer with a single letter only.",D,false
+2,5,"Rajan is questioned about the export contract with Meier. What does Rajan actually believe?
+
+A) That he had refused to sign it
+B) That it was still under negotiation
+C) That it had been cancelled
+D) That the contract was signed on 28 February
+
+Answer with a single letter only.",A,false
+2,6,"Which of these describes Divya's belief concerning the export contract with Meier?
 
 A) That the contract was signed on 28 February
-B) That he had refused to sign it
-C) That it was still under negotiation
+B) That it was still under negotiation
+C) That he had refused to sign it
 D) That it had been cancelled
 
 Answer with a single letter only.",B,false
-2,3,"Klaus is questioned about who was awake at 05:00. What does Klaus actually believe?
+2,7,"What does Sunil believe about the export contract with Meier?
 
-A) That only he was awake, piloting
+A) That it was still under negotiation
+B) That he had refused to sign it
+C) That it had been cancelled
+D) That the contract was signed on 28 February
+
+Answer with a single letter only.",C,false
+2,8,"Sunil is questioned about who was awake at 05:00. What does Sunil actually believe?
+
+A) That everyone aboard was asleep
 B) That Divya was awake in the galley
+C) Rajan and Klaus were both awake on the aft deck
+D) That only he was awake, piloting
+
+Answer with a single letter only.",D,false
+2,9,"Which of these describes Ammu's belief concerning who was awake at 05:00?
+
+A) That Divya was awake in the galley
+B) That only he was awake, piloting
 C) That everyone aboard was asleep
 D) Rajan and Klaus were both awake on the aft deck
 
-Answer with a single letter only.",C,false
-2,4,"Which of these describes Ammu's belief concerning the export licence?
+Answer with a single letter only.",A,false
+2,10,"What does Klaus believe about who was awake at 05:00?
 
-A) That she inherits the licence
-B) That he had already transferred it into a trust
-C) That the licence lapses on the holder's death
-D) That Divya had been disinherited the previous year
+A) That only he was awake, piloting
+B) That everyone aboard was asleep
+C) Rajan and Klaus were both awake on the aft deck
+D) That Divya was awake in the galley
+
+Answer with a single letter only.",B,false
+2,11,"Which of these describes Divya's belief concerning the export licence?
+
+A) That he had already transferred it into a trust
+B) That Divya had been disinherited the previous year
+C) That she inherits the licence
+D) That the licence lapses on the holder's death
+
+Answer with a single letter only.",C,false
+2,12,"What does Rajan believe about the export licence?
+
+A) That the licence lapses on the holder's death
+B) That Divya had been disinherited the previous year
+C) That she inherits the licence
+D) That he had already transferred it into a trust
 
 Answer with a single letter only.",D,false
-2,5,"What does Sunil believe about the engine stop at 05:20?
+2,13,"Regarding the export licence, what is Klaus's understanding?
+
+A) That the licence lapses on the holder's death
+B) That she inherits the licence
+C) That he had already transferred it into a trust
+D) That Divya had been disinherited the previous year
+
+Answer with a single letter only.",A,false
+2,14,"Ammu is questioned about the export licence. What does Ammu actually believe?
+
+A) That she inherits the licence
+B) That Divya had been disinherited the previous year
+C) That he had already transferred it into a trust
+D) That the licence lapses on the holder's death
+
+Answer with a single letter only.",B,false
+2,15,"What does Sunil believe about the engine stop at 05:20?
+
+A) That Sunil stopped to let someone board
+B) That the boat had reached its mooring
+C) That he cut the engine to clear weed from the propeller
+D) That the fuel line had blocked
+
+Answer with a single letter only.",C,false
+2,16,"Regarding the engine stop at 05:20, what is Ammu's understanding?
+
+A) That he cut the engine to clear weed from the propeller
+B) That the boat had reached its mooring
+C) That Sunil stopped to let someone board
+D) That the fuel line had blocked
+
+Answer with a single letter only.",D,false
+2,17,"Divya is questioned about the engine stop at 05:20. What does Divya actually believe?
+
+A) That the boat had reached its mooring
+B) That Sunil stopped to let someone board
+C) That he cut the engine to clear weed from the propeller
+D) That the fuel line had blocked
+
+Answer with a single letter only.",A,false
+2,18,"Which of these describes Klaus's belief concerning the engine stop at 05:20?
 
 A) That he cut the engine to clear weed from the propeller
 B) That Sunil stopped to let someone board
 C) That the fuel line had blocked
 D) That the boat had reached its mooring
 
-Answer with a single letter only.",A,false
-2,6,"Regarding Ammu's employment, what is Divya's understanding?
+Answer with a single letter only.",B,false
+2,19,"Regarding Ammu's employment, what is Ammu's understanding?
 
-A) That she was to be dismissed at the end of the trip
-B) That Ammu is a permanent family retainer
-C) That Ammu had already given her notice
+A) That Ammu is a permanent family retainer
+B) That Ammu had already given her notice
+C) That she was to be dismissed at the end of the trip
 D) No decision about Ammu had been made
 
-Answer with a single letter only.",B,false
-2,7,"Divya is questioned about Klaus's movements before 1 March. What does Divya actually believe?
+Answer with a single letter only.",C,false
+2,20,"Rajan is questioned about Ammu's employment. What does Rajan actually believe?
 
-A) That no one knew of his visit to the warehouse on 27 February
-B) That he ferried Klaus to the warehouse that day
+A) No decision about Ammu had been made
+B) That Ammu is a permanent family retainer
+C) That she was to be dismissed at the end of the trip
+D) That Ammu had already given her notice
+
+Answer with a single letter only.",D,false
+2,21,"Which of these describes Divya's belief concerning Ammu's employment?
+
+A) That Ammu is a permanent family retainer
+B) That Ammu had already given her notice
+C) No decision about Ammu had been made
+D) That she was to be dismissed at the end of the trip
+
+Answer with a single letter only.",A,false
+2,22,"Klaus is questioned about Klaus's movements before 1 March. What does Klaus actually believe?
+
+A) That he ferried Klaus to the warehouse that day
+B) That no one knew of his visit to the warehouse on 27 February
 C) That Klaus first arrived in Kerala on 1 March
 D) That Klaus had never been to India before
 
-Answer with a single letter only.",C,false
-2,8,"Which of these describes Divya's belief concerning the cause of death?
+Answer with a single letter only.",B,false
+2,23,"Which of these describes Sunil's belief concerning Klaus's movements before 1 March?
 
-A) That Rajan slipped from the deck
-B) He drowned after collapsing from untreated hypoglycaemia
-C) That he was taken by the current while swimming
-D) That he suffered a diabetic collapse
+A) That Klaus first arrived in Kerala on 1 March
+B) That no one knew of his visit to the warehouse on 27 February
+C) That he ferried Klaus to the warehouse that day
+D) That Klaus had never been to India before
+
+Answer with a single letter only.",C,false
+2,24,"What does Divya believe about Klaus's movements before 1 March?
+
+A) That he ferried Klaus to the warehouse that day
+B) That Klaus had never been to India before
+C) That no one knew of his visit to the warehouse on 27 February
+D) That Klaus first arrived in Kerala on 1 March
+
+Answer with a single letter only.",D,false
+2,25,"Regarding Klaus's movements before 1 March, what is Ammu's understanding?
+
+A) That Klaus had never been to India before
+B) That Klaus first arrived in Kerala on 1 March
+C) That no one knew of his visit to the warehouse on 27 February
+D) That he ferried Klaus to the warehouse that day
+
+Answer with a single letter only.",A,false
+2,26,"Which of these describes Sunil's belief concerning the cause of death?
+
+A) That he suffered a diabetic collapse
+B) That Rajan slipped from the deck
+C) He drowned after collapsing from untreated hypoglycaemia
+D) That he was taken by the current while swimming
+
+Answer with a single letter only.",B,false
+2,27,"What does Divya believe about the cause of death?
+
+A) He drowned after collapsing from untreated hypoglycaemia
+B) That he was taken by the current while swimming
+C) That he suffered a diabetic collapse
+D) That Rajan slipped from the deck
+
+Answer with a single letter only.",C,false
+2,28,"Regarding the cause of death, what is Ammu's understanding?
+
+A) He drowned after collapsing from untreated hypoglycaemia
+B) That he suffered a diabetic collapse
+C) That Rajan slipped from the deck
+D) That he was taken by the current while swimming
 
 Answer with a single letter only.",D,false
 3,1,"What does Marta believe about the vessel's quota?
 
 A) That the vessel exceeded quota by twelve tonnes
-B) That there was no excess at all
+B) That any excess was logged and declared
 C) The excess was real and undeclared
-D) That any excess was logged and declared
+D) That there was no excess at all
 
 Answer with a single letter only.",A,false
-3,2,"Regarding the lashing strap, what is Elín's understanding?
+3,2,"Regarding the vessel's quota, what is Elín's understanding?
+
+A) That there was no excess at all
+B) That any excess was logged and declared
+C) That the vessel exceeded quota by twelve tonnes
+D) The excess was real and undeclared
+
+Answer with a single letter only.",B,false
+3,3,"Tomas is questioned about the vessel's quota. What does Tomas actually believe?
+
+A) That any excess was logged and declared
+B) The excess was real and undeclared
+C) That there was no excess at all
+D) That the vessel exceeded quota by twelve tonnes
+
+Answer with a single letter only.",C,false
+3,4,"Regarding the lashing strap, what is Björn's understanding?
 
 A) It was cut deliberately
 B) That Tomas cut it accidentally while freeing a snag
-C) That the strap parted from wear
+C) That it was cut deliberately
+D) That the strap parted from wear
+
+Answer with a single letter only.",D,false
+3,5,"Elín is questioned about the lashing strap. What does Elín actually believe?
+
+A) That Tomas cut it accidentally while freeing a snag
+B) That the strap parted from wear
+C) It was cut deliberately
 D) That it was cut deliberately
 
-Answer with a single letter only.",B,false
-3,3,"Tomas is questioned about Hákon's contact with the authority. What does Tomas actually believe?
+Answer with a single letter only.",A,false
+3,6,"Which of these describes Marta's belief concerning the lashing strap?
 
-A) That Hákon contacted her office on 6 November
+A) That the strap parted from wear
+B) That it was cut deliberately
+C) That Tomas cut it accidentally while freeing a snag
+D) It was cut deliberately
+
+Answer with a single letter only.",B,false
+3,7,"Marta is questioned about Hákon's contact with the authority. What does Marta actually believe?
+
+A) That Hákon was about to resign
 B) That Hákon had reported the engine faults rather than the quota
-C) That Hákon was about to resign
+C) That Hákon contacted her office on 6 November
 D) That Hákon was loyal and had reported nothing
 
 Answer with a single letter only.",C,false
-3,4,"Which of these describes Marta's belief concerning the hold lights?
+3,8,"Which of these describes Elín's belief concerning Hákon's contact with the authority?
 
-A) That they failed in the storm
-B) That the hold lights were working
-C) That he disconnected them at 20:00 for rewiring
-D) That they were switched off deliberately
+A) That Hákon was about to resign
+B) That Hákon contacted her office on 6 November
+C) That Hákon had reported the engine faults rather than the quota
+D) That Hákon was loyal and had reported nothing
 
 Answer with a single letter only.",D,false
-3,5,"What does Elín believe about Tomas's terms of employment?
+3,9,"What does Tomas believe about Hákon's contact with the authority?
 
-A) That Tomas is on a fixed wage
+A) That Hákon was about to resign
+B) That Hákon contacted her office on 6 November
+C) That Hákon had reported the engine faults rather than the quota
+D) That Hákon was loyal and had reported nothing
+
+Answer with a single letter only.",A,false
+3,10,"Regarding Hákon's contact with the authority, what is Björn's understanding?
+
+A) That Hákon was about to resign
+B) That Hákon had reported the engine faults rather than the quota
+C) That Hákon was loyal and had reported nothing
+D) That Hákon contacted her office on 6 November
+
+Answer with a single letter only.",B,false
+3,11,"Which of these describes Tomas's belief concerning the hold lights?
+
+A) That he disconnected them at 20:00 for rewiring
+B) That they were switched off deliberately
+C) That the hold lights were working
+D) That they failed in the storm
+
+Answer with a single letter only.",C,false
+3,12,"What does Björn believe about the hold lights?
+
+A) That they were switched off deliberately
+B) That they failed in the storm
+C) That the hold lights were working
+D) That he disconnected them at 20:00 for rewiring
+
+Answer with a single letter only.",D,false
+3,13,"Regarding the hold lights, what is Elín's understanding?
+
+A) That they failed in the storm
+B) That he disconnected them at 20:00 for rewiring
+C) That they were switched off deliberately
+D) That the hold lights were working
+
+Answer with a single letter only.",A,false
+3,14,"Marta is questioned about the hold lights. What does Marta actually believe?
+
+A) That they failed in the storm
+B) That they were switched off deliberately
+C) That he disconnected them at 20:00 for rewiring
+D) That the hold lights were working
+
+Answer with a single letter only.",B,false
+3,15,"What does Tomas believe about Tomas's terms of employment?
+
+A) Tomas was moved to a fixed wage on 1 November without being told
 B) That Tomas is unpaid and working for passage
-C) Tomas was moved to a fixed wage on 1 November without being told
+C) That he is on the crew share
+D) That Tomas is on a fixed wage
+
+Answer with a single letter only.",C,false
+3,16,"Regarding Tomas's terms of employment, what is Elín's understanding?
+
+A) That he is on the crew share
+B) Tomas was moved to a fixed wage on 1 November without being told
+C) That Tomas is unpaid and working for passage
+D) That Tomas is on a fixed wage
+
+Answer with a single letter only.",D,false
+3,17,"Björn is questioned about Tomas's terms of employment. What does Björn actually believe?
+
+A) That Tomas is unpaid and working for passage
+B) Tomas was moved to a fixed wage on 1 November without being told
+C) That Tomas is on a fixed wage
 D) That he is on the crew share
 
 Answer with a single letter only.",A,false
-3,6,"Regarding where Elín was at 21:30, what is Björn's understanding?
+3,18,"Regarding where Elín was at 21:30, what is Elín's understanding?
 
-A) That she was in the hold
-B) That she was in the engine room with him
+A) That she was in the galley
+B) That she was alone on the bridge
+C) That she was in the engine room with him
+D) That she was in the hold
+
+Answer with a single letter only.",B,false
+3,19,"Björn is questioned about where Elín was at 21:30. What does Björn actually believe?
+
+A) That she was in the galley
+B) That she was in the hold
+C) That she was in the engine room with him
+D) That she was alone on the bridge
+
+Answer with a single letter only.",C,false
+3,20,"Which of these describes Marta's belief concerning where Elín was at 21:30?
+
+A) That she was in the engine room with him
+B) That she was in the hold
 C) That she was alone on the bridge
 D) That she was in the galley
 
-Answer with a single letter only.",B,false
-3,7,"Tomas is questioned about Marta's powers aboard. What does Tomas actually believe?
+Answer with a single letter only.",D,false
+3,21,"What does Tomas believe about where Elín was at 21:30?
 
-A) That Marta is a company auditor
-B) That she can order the vessel to port
-C) That Marta is a trainee deckhand
+A) That she was in the hold
+B) That she was in the galley
+C) That she was alone on the bridge
+D) That she was in the engine room with him
+
+Answer with a single letter only.",A,false
+3,22,"Elín is questioned about Marta's powers aboard. What does Elín actually believe?
+
+A) That she can order the vessel to port
+B) That Marta may only observe and cannot detain
+C) That Marta is a company auditor
+D) That Marta is a trainee deckhand
+
+Answer with a single letter only.",B,false
+3,23,"Which of these describes Marta's belief concerning Marta's powers aboard?
+
+A) That Marta is a trainee deckhand
+B) That Marta is a company auditor
+C) That she can order the vessel to port
 D) That Marta may only observe and cannot detain
 
 Answer with a single letter only.",C,false
-3,8,"Which of these describes Marta's belief concerning the storm warning?
+3,24,"What does Tomas believe about Marta's powers aboard?
+
+A) That Marta may only observe and cannot detain
+B) That Marta is a company auditor
+C) That she can order the vessel to port
+D) That Marta is a trainee deckhand
+
+Answer with a single letter only.",D,false
+3,25,"Regarding Marta's powers aboard, what is Björn's understanding?
+
+A) That Marta is a company auditor
+B) That Marta may only observe and cannot detain
+C) That Marta is a trainee deckhand
+D) That she can order the vessel to port
+
+Answer with a single letter only.",A,false
+3,26,"Which of these describes Björn's belief concerning the storm warning?
 
 A) That the warning was relayed at 20:30
 B) That no warning was issued
+C) That the vessel should have turned back
+D) That a warning arrived at 19:00 and was not relayed
+
+Answer with a single letter only.",B,false
+3,27,"What does Elín believe about the storm warning?
+
+A) That the warning was relayed at 20:30
+B) That the vessel should have turned back
 C) That a warning arrived at 19:00 and was not relayed
-D) That the vessel should have turned back
+D) That no warning was issued
+
+Answer with a single letter only.",C,false
+3,28,"Regarding the storm warning, what is Tomas's understanding?
+
+A) That no warning was issued
+B) That the vessel should have turned back
+C) That a warning arrived at 19:00 and was not relayed
+D) That the warning was relayed at 20:30
 
 Answer with a single letter only.",D,false
-4,1,"What does Fox believe about the Momoyama tea bowl?
+3,29,"Marta is questioned about the storm warning. What does Marta actually believe?
 
-A) That the bowl is genuine
-B) That it is a known reproduction sold openly as such
-C) That she made the bowl herself last year
-D) That the bowl was genuine
+A) That the vessel should have turned back
+B) That a warning arrived at 19:00 and was not relayed
+C) That the warning was relayed at 20:30
+D) That no warning was issued
 
 Answer with a single letter only.",A,false
-4,2,"Regarding the 22:00 delivery, what is Sano's understanding?
+4,1,"What does Fox believe about the Momoyama tea bowl?
 
-A) That a courier delivered flowers
-B) That the delivery was the tea bowl
+A) That the bowl was genuine
+B) That the bowl is genuine
+C) That it is a known reproduction sold openly as such
+D) That she made the bowl herself last year
+
+Answer with a single letter only.",B,false
+4,2,"Regarding the Momoyama tea bowl, what is Yui's understanding?
+
+A) That the bowl was genuine
+B) That it is a known reproduction sold openly as such
+C) That she made the bowl herself last year
+D) That the bowl is genuine
+
+Answer with a single letter only.",C,false
+4,3,"Kanda is questioned about the Momoyama tea bowl. What does Kanda actually believe?
+
+A) That it is a known reproduction sold openly as such
+B) That she made the bowl herself last year
+C) That the bowl is genuine
+D) That the bowl was genuine
+
+Answer with a single letter only.",D,false
+4,4,"Which of these describes Sano's belief concerning the Momoyama tea bowl?
+
+A) That it is a known reproduction sold openly as such
+B) That the bowl was genuine
+C) That she made the bowl herself last year
+D) That the bowl is genuine
+
+Answer with a single letter only.",A,false
+4,5,"Regarding the 22:00 delivery, what is Mrs. Ōta's understanding?
+
+A) That the delivery was the tea bowl
+B) That a courier delivered flowers
 C) The courier delivered a package of dried aconite root
 D) That nothing was delivered at all
 
 Answer with a single letter only.",B,false
-4,3,"Fox is questioned about Kanda's health. What does Fox actually believe?
+4,6,"Sano is questioned about the 22:00 delivery. What does Sano actually believe?
+
+A) That nothing was delivered at all
+B) The courier delivered a package of dried aconite root
+C) That the delivery was the tea bowl
+D) That a courier delivered flowers
+
+Answer with a single letter only.",C,false
+4,7,"Which of these describes Yui's belief concerning the 22:00 delivery?
+
+A) That the delivery was the tea bowl
+B) The courier delivered a package of dried aconite root
+C) That a courier delivered flowers
+D) That nothing was delivered at all
+
+Answer with a single letter only.",D,false
+4,8,"Sano is questioned about Kanda's health. What does Sano actually believe?
+
+A) That Kanda had a weak heart
+B) Kanda was in good health
+C) That Kanda was in perfect health
+D) That Kanda was being treated for a tremor
+
+Answer with a single letter only.",A,false
+4,9,"Which of these describes Mrs. Ōta's belief concerning Kanda's health?
+
+A) Kanda was in good health
+B) That Kanda was in perfect health
+C) That Kanda had a weak heart
+D) That Kanda was being treated for a tremor
+
+Answer with a single letter only.",B,false
+4,10,"What does Fox believe about Kanda's health?
 
 A) That Kanda was in perfect health
 B) Kanda was in good health
@@ -215,15 +759,47 @@ C) That Kanda was being treated for a tremor
 D) That Kanda had a weak heart
 
 Answer with a single letter only.",C,false
-4,4,"Which of these describes Sano's belief concerning Yui's apprenticeship?
+4,11,"Which of these describes Yui's belief concerning Yui's apprenticeship?
+
+A) That Yui had already left the studio
+B) That he had promised her a solo exhibition
+C) That Yui is Kanda's niece
+D) That Kanda intended to dismiss her
+
+Answer with a single letter only.",D,false
+4,12,"What does Kanda believe about Yui's apprenticeship?
 
 A) That he had promised her a solo exhibition
 B) That Kanda intended to dismiss her
-C) That Yui is Kanda's niece
-D) That Yui had already left the studio
+C) That Yui had already left the studio
+D) That Yui is Kanda's niece
+
+Answer with a single letter only.",A,false
+4,13,"Regarding Yui's apprenticeship, what is Mrs. Ōta's understanding?
+
+A) That Yui had already left the studio
+B) That Yui is Kanda's niece
+C) That he had promised her a solo exhibition
+D) That Kanda intended to dismiss her
+
+Answer with a single letter only.",B,false
+4,14,"Sano is questioned about Yui's apprenticeship. What does Sano actually believe?
+
+A) That he had promised her a solo exhibition
+B) That Kanda intended to dismiss her
+C) That Yui had already left the studio
+D) That Yui is Kanda's niece
+
+Answer with a single letter only.",C,false
+4,15,"What does Mrs. Ōta believe about who prepared the tea?
+
+A) Yui prepared it
+B) That Kanda prepared it himself
+C) That Mrs. Ōta prepared it
+D) That Sano prepared it
 
 Answer with a single letter only.",D,false
-4,5,"What does Sano believe about who prepared the tea?
+4,16,"Regarding who prepared the tea, what is Sano's understanding?
 
 A) That Mrs. Ōta prepared it
 B) Yui prepared it
@@ -231,155 +807,3299 @@ C) That Sano prepared it
 D) That Kanda prepared it himself
 
 Answer with a single letter only.",A,false
-4,6,"Regarding Fox's bid for the collection, what is Kanda's understanding?
+4,17,"Fox is questioned about who prepared the tea. What does Fox actually believe?
 
-A) That Fox never made a bid
-B) That Fox had withdrawn his bid
+A) That Sano prepared it
+B) That Kanda prepared it himself
+C) Yui prepared it
+D) That Mrs. Ōta prepared it
+
+Answer with a single letter only.",B,false
+4,18,"Regarding Fox's bid for the collection, what is Fox's understanding?
+
+A) That Fox had withdrawn his bid
+B) That Fox never made a bid
 C) That his bid was rejected on 2 April
 D) That the bid remains open
 
-Answer with a single letter only.",B,false
-4,7,"Fox is questioned about the garden gate. What does Fox actually believe?
-
-A) That the gate was left unlatched
-B) That the gate was locked at 21:00
-C) That the gate has no lock
-D) That Mrs. Ōta locked it at 20:00
-
 Answer with a single letter only.",C,false
-4,8,"Which of these describes Yui's belief concerning Sano's position?
+4,19,"Kanda is questioned about Fox's bid for the collection. What does Kanda actually believe?
 
-A) That he is named in Kanda's will
-B) That Sano is Kanda's business partner
-C) That Sano meant to leave and open his own gallery
-D) That Sano is paid per sale rather than salaried
+A) That his bid was rejected on 2 April
+B) That Fox never made a bid
+C) That the bid remains open
+D) That Fox had withdrawn his bid
 
 Answer with a single letter only.",D,false
-5,1,"What does Diego believe about the purge line valve?
+4,20,"Which of these describes Sano's belief concerning Fox's bid for the collection?
 
-A) That the valve is interlocked and cannot open during occupancy
-B) That Shaft 3 has no purge line
-C) That the valve is controlled only from the surface
-D) That the interlock was bypassed in July and never restored
+A) That the bid remains open
+B) That his bid was rejected on 2 April
+C) That Fox had withdrawn his bid
+D) That Fox never made a bid
 
 Answer with a single letter only.",A,false
-5,2,"Regarding Camila's survey findings, what is Diego's understanding?
+4,21,"What does Mrs. Ōta believe about Fox's bid for the collection?
 
-A) That she found the ore body commercially worthless
-B) That she confirmed a rich seam
-C) That her survey was incomplete
-D) She found the seam rich but unsafe to work
+A) That his bid was rejected on 2 April
+B) That Fox never made a bid
+C) That the bid remains open
+D) That Fox had withdrawn his bid
 
 Answer with a single letter only.",B,false
-5,3,"Owen is questioned about who was underground at 05:00. What does Owen actually believe?
+4,22,"Mrs. Ōta is questioned about the garden gate. What does Mrs. Ōta actually believe?
 
-A) That the night shift was still below
-B) That he sent Camila down alone at 04:40
-C) That he and Camila went down together
+A) That Mrs. Ōta locked it at 20:00
+B) That the gate has no lock
+C) That the gate was locked at 21:00
+D) That the gate was left unlatched
+
+Answer with a single letter only.",C,false
+4,23,"Which of these describes Yui's belief concerning the garden gate?
+
+A) That the gate was locked at 21:00
+B) That the gate has no lock
+C) That Mrs. Ōta locked it at 20:00
+D) That the gate was left unlatched
+
+Answer with a single letter only.",D,false
+4,24,"What does Fox believe about the garden gate?
+
+A) That the gate has no lock
+B) That the gate was locked at 21:00
+C) That Mrs. Ōta locked it at 20:00
+D) That the gate was left unlatched
+
+Answer with a single letter only.",A,false
+4,25,"Regarding the garden gate, what is Sano's understanding?
+
+A) That the gate was left unlatched
+B) That Mrs. Ōta locked it at 20:00
+C) That the gate was locked at 21:00
+D) That the gate has no lock
+
+Answer with a single letter only.",B,false
+4,26,"Which of these describes Sano's belief concerning Sano's position?
+
+A) That Sano is paid per sale rather than salaried
+B) That Sano meant to leave and open his own gallery
+C) That he is named in Kanda's will
+D) That Sano is Kanda's business partner
+
+Answer with a single letter only.",C,false
+4,27,"What does Kanda believe about Sano's position?
+
+A) That Sano is Kanda's business partner
+B) That he is named in Kanda's will
+C) That Sano is paid per sale rather than salaried
+D) That Sano meant to leave and open his own gallery
+
+Answer with a single letter only.",D,false
+4,28,"Regarding Sano's position, what is Fox's understanding?
+
+A) That Sano is Kanda's business partner
+B) That Sano meant to leave and open his own gallery
+C) That he is named in Kanda's will
+D) That Sano is paid per sale rather than salaried
+
+Answer with a single letter only.",A,false
+4,29,"Yui is questioned about Sano's position. What does Yui actually believe?
+
+A) That he is named in Kanda's will
+B) That Sano is paid per sale rather than salaried
+C) That Sano meant to leave and open his own gallery
+D) That Sano is Kanda's business partner
+
+Answer with a single letter only.",B,false
+5,1,"What does Diego believe about the purge line valve?
+
+A) That the valve is controlled only from the surface
+B) That the interlock was bypassed in July and never restored
+C) That the valve is interlocked and cannot open during occupancy
+D) That Shaft 3 has no purge line
+
+Answer with a single letter only.",C,false
+5,2,"Regarding the purge line valve, what is Nadia's understanding?
+
+A) That the valve is controlled only from the surface
+B) That Shaft 3 has no purge line
+C) That the valve is interlocked and cannot open during occupancy
+D) That the interlock was bypassed in July and never restored
+
+Answer with a single letter only.",D,false
+5,3,"Owen is questioned about the purge line valve. What does Owen actually believe?
+
+A) That Shaft 3 has no purge line
+B) That the interlock was bypassed in July and never restored
+C) That the valve is interlocked and cannot open during occupancy
+D) That the valve is controlled only from the surface
+
+Answer with a single letter only.",A,false
+5,4,"Which of these describes Rosa's belief concerning the purge line valve?
+
+A) That the interlock was bypassed in July and never restored
+B) That the valve is controlled only from the surface
+C) That the valve is interlocked and cannot open during occupancy
+D) That Shaft 3 has no purge line
+
+Answer with a single letter only.",B,false
+5,5,"Regarding Camila's survey findings, what is Owen's understanding?
+
+A) She found the seam rich but unsafe to work
+B) That she confirmed a rich seam
+C) That she found the ore body commercially worthless
+D) That her survey was incomplete
+
+Answer with a single letter only.",C,false
+5,6,"Diego is questioned about Camila's survey findings. What does Diego actually believe?
+
+A) She found the seam rich but unsafe to work
+B) That she found the ore body commercially worthless
+C) That her survey was incomplete
+D) That she confirmed a rich seam
+
+Answer with a single letter only.",D,false
+5,7,"Which of these describes Nadia's belief concerning Camila's survey findings?
+
+A) That her survey was incomplete
+B) She found the seam rich but unsafe to work
+C) That she found the ore body commercially worthless
+D) That she confirmed a rich seam
+
+Answer with a single letter only.",A,false
+5,8,"Rosa is questioned about who was underground at 05:00. What does Rosa actually believe?
+
+A) That he and Camila went down together
+B) That no one was underground before 06:00
+C) That he sent Camila down alone at 04:40
+D) That the night shift was still below
+
+Answer with a single letter only.",B,false
+5,9,"Which of these describes Diego's belief concerning who was underground at 05:00?
+
+A) That he and Camila went down together
+B) That the night shift was still below
+C) That he sent Camila down alone at 04:40
 D) That no one was underground before 06:00
 
 Answer with a single letter only.",C,false
-5,4,"Which of these describes Nadia's belief concerning the gas alarm?
+5,10,"What does Owen believe about who was underground at 05:00?
 
-A) That the alarm is tested weekly and was working
-B) That the alarm never sounded
-C) The alarm sounded at 05:05 and was silenced at the surface panel
-D) That the alarm sounded and was acknowledged
+A) That the night shift was still below
+B) That no one was underground before 06:00
+C) That he sent Camila down alone at 04:40
+D) That he and Camila went down together
 
 Answer with a single letter only.",D,false
-5,5,"What does Diego believe about Owen's contract?
+5,11,"Regarding who was underground at 05:00, what is Nadia's understanding?
 
-A) That Owen was dismissed the previous week
-B) That his contract runs to December
+A) That the night shift was still below
+B) That he sent Camila down alone at 04:40
+C) That no one was underground before 06:00
+D) That he and Camila went down together
+
+Answer with a single letter only.",A,false
+5,12,"Which of these describes Nadia's belief concerning the gas alarm?
+
+A) The alarm sounded at 05:05 and was silenced at the surface panel
+B) That the alarm sounded and was acknowledged
+C) That the alarm is tested weekly and was working
+D) That the alarm never sounded
+
+Answer with a single letter only.",B,false
+5,13,"What does Diego believe about the gas alarm?
+
+A) The alarm sounded at 05:05 and was silenced at the surface panel
+B) That the alarm sounded and was acknowledged
+C) That the alarm never sounded
+D) That the alarm is tested weekly and was working
+
+Answer with a single letter only.",C,false
+5,14,"Regarding the gas alarm, what is Rosa's understanding?
+
+A) The alarm sounded at 05:05 and was silenced at the surface panel
+B) That the alarm sounded and was acknowledged
+C) That the alarm never sounded
+D) That the alarm is tested weekly and was working
+
+Answer with a single letter only.",D,false
+5,15,"What does Owen believe about Owen's contract?
+
+A) That his contract runs to December
+B) Owen's contract was tied to the ore body being declared workable
+C) That Owen was dismissed the previous week
+D) That Owen is a contractor paid per survey
+
+Answer with a single letter only.",A,false
+5,16,"Regarding Owen's contract, what is Diego's understanding?
+
+A) That his contract runs to December
+B) That Owen was dismissed the previous week
+C) Owen's contract was tied to the ore body being declared workable
+D) That Owen is a contractor paid per survey
+
+Answer with a single letter only.",B,false
+5,17,"Nadia is questioned about Owen's contract. What does Nadia actually believe?
+
+A) That his contract runs to December
+B) That Owen was dismissed the previous week
 C) That Owen is a contractor paid per survey
 D) Owen's contract was tied to the ore body being declared workable
 
+Answer with a single letter only.",C,false
+5,18,"Regarding Rosa's whereabouts, what is Rosa's understanding?
+
+A) That she was asleep in her quarters
+B) That she was at the surface panel
+C) That she had driven to Calama
+D) That she was in the infirmary from 04:00
+
+Answer with a single letter only.",D,false
+5,19,"Diego is questioned about Rosa's whereabouts. What does Diego actually believe?
+
+A) That she was asleep in her quarters
+B) That she had driven to Calama
+C) That she was at the surface panel
+D) That she was in the infirmary from 04:00
+
 Answer with a single letter only.",A,false
-5,6,"Regarding Rosa's whereabouts, what is Diego's understanding?
+5,20,"Which of these describes Owen's belief concerning Rosa's whereabouts?
 
 A) That she was in the infirmary from 04:00
-B) That she was asleep in her quarters
+B) That she was at the surface panel
 C) That she had driven to Calama
-D) That she was at the surface panel
+D) That she was asleep in her quarters
 
 Answer with a single letter only.",B,false
-5,7,"Rosa is questioned about the July maintenance. What does Rosa actually believe?
+5,21,"What does Nadia believe about Rosa's whereabouts?
 
-A) That she signed off the bypass herself
-B) That Camila supervised it
-C) That no maintenance took place in July
-D) That the work was done by an outside contractor
+A) That she was in the infirmary from 04:00
+B) That she was at the surface panel
+C) That she had driven to Calama
+D) That she was asleep in her quarters
 
 Answer with a single letter only.",C,false
-5,8,"Which of these describes Owen's belief concerning the safety report?
+5,22,"Nadia is questioned about the July maintenance. What does Nadia actually believe?
+
+A) That no maintenance took place in July
+B) That Camila supervised it
+C) That the work was done by an outside contractor
+D) That she signed off the bypass herself
+
+Answer with a single letter only.",D,false
+5,23,"Which of these describes Diego's belief concerning the July maintenance?
+
+A) That the work was done by an outside contractor
+B) That no maintenance took place in July
+C) That Camila supervised it
+D) That she signed off the bypass herself
+
+Answer with a single letter only.",A,false
+5,24,"What does Rosa believe about the July maintenance?
+
+A) That she signed off the bypass herself
+B) That no maintenance took place in July
+C) That the work was done by an outside contractor
+D) That Camila supervised it
+
+Answer with a single letter only.",B,false
+5,25,"Regarding the July maintenance, what is Owen's understanding?
+
+A) That no maintenance took place in July
+B) That the work was done by an outside contractor
+C) That Camila supervised it
+D) That she signed off the bypass herself
+
+Answer with a single letter only.",C,false
+5,26,"Which of these describes Diego's belief concerning the safety report?
+
+A) That the report was intercepted and never forwarded
+B) That she had sent it successfully
+C) That no report was ever written
+D) That head office received the report
+
+Answer with a single letter only.",D,false
+5,27,"What does Camila believe about the safety report?
 
 A) That she had sent it successfully
 B) That the report was intercepted and never forwarded
-C) That head office received the report
-D) That no report was ever written
+C) That no report was ever written
+D) That head office received the report
 
-Answer with a single letter only.",D,false
+Answer with a single letter only.",A,false
+5,28,"Regarding the safety report, what is Nadia's understanding?
+
+A) That she had sent it successfully
+B) That the report was intercepted and never forwarded
+C) That no report was ever written
+D) That head office received the report
+
+Answer with a single letter only.",B,false
+5,29,"Owen is questioned about the safety report. What does Owen actually believe?
+
+A) That the report was intercepted and never forwarded
+B) That she had sent it successfully
+C) That no report was ever written
+D) That head office received the report
+
+Answer with a single letter only.",C,false
 6,1,"What does Idris believe about the vulnerability disclosure?
 
-A) That Anneke had already published it
-B) That she agreed to delay it until after the conference
+A) That she had sold it privately
+B) It was scheduled to publish automatically at 09:00 on 12 May
+C) That she agreed to delay it until after the conference
+D) That Anneke had already published it
+
+Answer with a single letter only.",D,false
+6,2,"Regarding the vulnerability disclosure, what is Lars's understanding?
+
+A) That she agreed to delay it until after the conference
+B) That Anneke had already published it
 C) That she had sold it privately
 D) It was scheduled to publish automatically at 09:00 on 12 May
 
 Answer with a single letter only.",A,false
-6,2,"Regarding Anneke's medication, what is Idris's understanding?
+6,3,"Tanya is questioned about the vulnerability disclosure. What does Tanya actually believe?
 
-A) That she took nothing at all
-B) That she took a beta blocker for stage fright
-C) That she used sleeping pills
-D) She took no regular medication
+A) It was scheduled to publish automatically at 09:00 on 12 May
+B) That she had sold it privately
+C) That she agreed to delay it until after the conference
+D) That Anneke had already published it
 
 Answer with a single letter only.",B,false
-6,3,"Idris is questioned about the 23:40 room service. What does Idris actually believe?
+6,4,"Regarding Anneke's medication, what is Piotr's understanding?
+
+A) That she took a beta blocker for stage fright
+B) That she used sleeping pills
+C) That she took nothing at all
+D) She took no regular medication
+
+Answer with a single letter only.",C,false
+6,5,"Idris is questioned about Anneke's medication. What does Idris actually believe?
+
+A) That she used sleeping pills
+B) That she took nothing at all
+C) She took no regular medication
+D) That she took a beta blocker for stage fright
+
+Answer with a single letter only.",D,false
+6,6,"Which of these describes Tanya's belief concerning Anneke's medication?
+
+A) That she used sleeping pills
+B) That she took a beta blocker for stage fright
+C) That she took nothing at all
+D) She took no regular medication
+
+Answer with a single letter only.",A,false
+6,7,"Piotr is questioned about the 23:40 room service. What does Piotr actually believe?
+
+A) That the tea went to the wrong room
+B) That he delivered tea to room 812 at 23:40
+C) That room service stopped at 23:00
+D) That Anneke made tea in her own room
+
+Answer with a single letter only.",B,false
+6,8,"Which of these describes Lars's belief concerning the 23:40 room service?
+
+A) That he delivered tea to room 812 at 23:40
+B) That the tea went to the wrong room
+C) That room service stopped at 23:00
+D) That Anneke made tea in her own room
+
+Answer with a single letter only.",C,false
+6,9,"What does Idris believe about the 23:40 room service?
 
 A) That the tea went to the wrong room
 B) That room service stopped at 23:00
-C) That Anneke made tea in her own room
-D) That he delivered tea to room 812 at 23:40
-
-Answer with a single letter only.",C,false
-6,4,"Which of these describes Anneke's belief concerning Tanya's financial position?
-
-A) That her fund's position collapses if the disclosure publishes
-B) That Tanya had already exited the position
-C) That Tanya has no financial interest
-D) That Tanya was funding her research
+C) That he delivered tea to room 812 at 23:40
+D) That Anneke made tea in her own room
 
 Answer with a single letter only.",D,false
-6,5,"What does Lars believe about key cards for room 812?
+6,10,"Regarding the 23:40 room service, what is Tanya's understanding?
+
+A) That the tea went to the wrong room
+B) That he delivered tea to room 812 at 23:40
+C) That Anneke made tea in her own room
+D) That room service stopped at 23:00
+
+Answer with a single letter only.",A,false
+6,11,"Which of these describes Tanya's belief concerning Tanya's financial position?
+
+A) That Tanya has no financial interest
+B) That her fund's position collapses if the disclosure publishes
+C) That Tanya was funding her research
+D) That Tanya had already exited the position
+
+Answer with a single letter only.",B,false
+6,12,"What does Lars believe about Tanya's financial position?
+
+A) That Tanya has no financial interest
+B) That her fund's position collapses if the disclosure publishes
+C) That Tanya had already exited the position
+D) That Tanya was funding her research
+
+Answer with a single letter only.",C,false
+6,13,"Regarding Tanya's financial position, what is Idris's understanding?
+
+A) That her fund's position collapses if the disclosure publishes
+B) That Tanya was funding her research
+C) That Tanya had already exited the position
+D) That Tanya has no financial interest
+
+Answer with a single letter only.",D,false
+6,14,"Anneke is questioned about Tanya's financial position. What does Anneke actually believe?
+
+A) That Tanya was funding her research
+B) That Tanya had already exited the position
+C) That Tanya has no financial interest
+D) That her fund's position collapses if the disclosure publishes
+
+Answer with a single letter only.",A,false
+6,15,"What does Piotr believe about key cards for room 812?
 
 A) That organisers hold master cards for speaker rooms
-B) Lars's organiser card opens every speaker room
+B) That only housekeeping and the guest hold one
+C) Lars's organiser card opens every speaker room
+D) That the doors are code-locked rather than carded
+
+Answer with a single letter only.",B,false
+6,16,"Regarding key cards for room 812, what is Lars's understanding?
+
+A) That the doors are code-locked rather than carded
+B) That only housekeeping and the guest hold one
+C) That organisers hold master cards for speaker rooms
+D) Lars's organiser card opens every speaker room
+
+Answer with a single letter only.",C,false
+6,17,"Idris is questioned about key cards for room 812. What does Idris actually believe?
+
+A) Lars's organiser card opens every speaker room
+B) That organisers hold master cards for speaker rooms
 C) That only housekeeping and the guest hold one
 D) That the doors are code-locked rather than carded
 
-Answer with a single letter only.",A,false
-6,6,"Regarding authorship of the paper, what is Anneke's understanding?
+Answer with a single letter only.",D,false
+6,18,"Regarding authorship of the paper, what is Idris's understanding?
 
 A) That he is credited as co-author
 B) That she removed his name in April
 C) That the paper has a single author
 D) That the paper was written by her fund's team
 
+Answer with a single letter only.",A,false
+6,19,"Anneke is questioned about authorship of the paper. What does Anneke actually believe?
+
+A) That the paper has a single author
+B) That she removed his name in April
+C) That he is credited as co-author
+D) That the paper was written by her fund's team
+
 Answer with a single letter only.",B,false
-6,7,"Piotr is questioned about the timing of Anneke's talk. What does Piotr actually believe?
+6,20,"Which of these describes Lars's belief concerning authorship of the paper?
+
+A) That she removed his name in April
+B) That the paper was written by her fund's team
+C) That the paper has a single author
+D) That he is credited as co-author
+
+Answer with a single letter only.",C,false
+6,21,"What does Tanya believe about authorship of the paper?
+
+A) That the paper has a single author
+B) That she removed his name in April
+C) That he is credited as co-author
+D) That the paper was written by her fund's team
+
+Answer with a single letter only.",D,false
+6,22,"Lars is questioned about the timing of Anneke's talk. What does Lars actually believe?
+
+A) That the talk was moved to 09:00 on 12 May
+B) That her talk was at 14:00
+C) That the conference had already ended
+D) That it was scheduled for the afternoon
+
+Answer with a single letter only.",A,false
+6,23,"Which of these describes Idris's belief concerning the timing of Anneke's talk?
+
+A) That the talk was moved to 09:00 on 12 May
+B) That it was scheduled for the afternoon
+C) That her talk was at 14:00
+D) That the conference had already ended
+
+Answer with a single letter only.",B,false
+6,24,"What does Piotr believe about the timing of Anneke's talk?
+
+A) That her talk was at 14:00
+B) That the talk was moved to 09:00 on 12 May
+C) That the conference had already ended
+D) That it was scheduled for the afternoon
+
+Answer with a single letter only.",C,false
+6,25,"Regarding the timing of Anneke's talk, what is Anneke's understanding?
 
 A) That it was scheduled for the afternoon
 B) That the talk was moved to 09:00 on 12 May
 C) That the conference had already ended
 D) That her talk was at 14:00
 
-Answer with a single letter only.",C,false
-6,8,"Which of these describes Idris's belief concerning the corridor cameras?
+Answer with a single letter only.",D,false
+6,26,"Which of these describes Piotr's belief concerning the corridor cameras?
+
+A) That the eighth-floor camera has been out since 9 May
+B) That the cameras record audio as well
+C) That the hotel has no cameras
+D) That all corridors are covered
+
+Answer with a single letter only.",A,false
+6,27,"What does Lars believe about the corridor cameras?
 
 A) That the hotel has no cameras
 B) That all corridors are covered
-C) That the eighth-floor camera has been out since 9 May
+C) That the cameras record audio as well
+D) That the eighth-floor camera has been out since 9 May
+
+Answer with a single letter only.",B,false
+6,28,"Regarding the corridor cameras, what is Tanya's understanding?
+
+A) That all corridors are covered
+B) That the eighth-floor camera has been out since 9 May
+C) That the hotel has no cameras
+D) That the cameras record audio as well
+
+Answer with a single letter only.",C,false
+6,29,"Idris is questioned about the corridor cameras. What does Idris actually believe?
+
+A) That the eighth-floor camera has been out since 9 May
+B) That all corridors are covered
+C) That the hotel has no cameras
 D) That the cameras record audio as well
 
 Answer with a single letter only.",D,false
+7,1,"What does Fatima believe about the loosened lintel?
+
+A) That the masonry has been crumbling for years
+B) It was prised loose during the night
+C) That workmen damaged it in August
+D) That the September tremor shifted it
+
+Answer with a single letter only.",A,false
+7,2,"Regarding the loosened lintel, what is Karim's understanding?
+
+A) That workmen damaged it in August
+B) That the September tremor shifted it
+C) It was prised loose during the night
+D) That the masonry has been crumbling for years
+
+Answer with a single letter only.",B,false
+7,3,"Celine is questioned about the loosened lintel. What does Celine actually believe?
+
+A) That the September tremor shifted it
+B) That the masonry has been crumbling for years
+C) That workmen damaged it in August
+D) It was prised loose during the night
+
+Answer with a single letter only.",C,false
+7,4,"Regarding the Beni Ourain collection, what is Celine's understanding?
+
+A) That the collection was promised to him
+B) That he had agreed only to a viewing
+C) That it had already been sold to a museum
+D) That she had bought the collection outright
+
+Answer with a single letter only.",D,false
+7,5,"Hamid is questioned about the Beni Ourain collection. What does Hamid actually believe?
+
+A) That he had agreed only to a viewing
+B) That she had bought the collection outright
+C) That the collection was promised to him
+D) That it had already been sold to a museum
+
+Answer with a single letter only.",A,false
+7,6,"Which of these describes Karim's belief concerning the Beni Ourain collection?
+
+A) That he had agreed only to a viewing
+B) That the collection was promised to him
+C) That it had already been sold to a museum
+D) That she had bought the collection outright
+
+Answer with a single letter only.",B,false
+7,7,"What does Youssef believe about the Beni Ourain collection?
+
+A) That he had agreed only to a viewing
+B) That the collection was promised to him
+C) That it had already been sold to a museum
+D) That she had bought the collection outright
+
+Answer with a single letter only.",C,false
+7,8,"Fatima is questioned about who holds a courtyard key. What does Fatima actually believe?
+
+A) That the courtyard door is never locked
+B) That every family member holds one
+C) Karim had a copy cut in July
+D) That only she holds one
+
+Answer with a single letter only.",D,false
+7,9,"Which of these describes Karim's belief concerning who holds a courtyard key?
+
+A) That every family member holds one
+B) That only she holds one
+C) Karim had a copy cut in July
+D) That the courtyard door is never locked
+
+Answer with a single letter only.",A,false
+7,10,"What does Youssef believe about who holds a courtyard key?
+
+A) That only she holds one
+B) That the courtyard door is never locked
+C) Karim had a copy cut in July
+D) That every family member holds one
+
+Answer with a single letter only.",B,false
+7,11,"Which of these describes Youssef's belief concerning Hamid's debts?
+
+A) That his uncle was free of debt
+B) That the riad was mortgaged
+C) That Hamid owed him two hundred thousand dirham
+D) The debt was settled in June
+
+Answer with a single letter only.",C,false
+7,12,"What does Karim believe about Hamid's debts?
+
+A) That the riad was mortgaged
+B) That Hamid owed him two hundred thousand dirham
+C) The debt was settled in June
+D) That his uncle was free of debt
+
+Answer with a single letter only.",D,false
+7,13,"Regarding Hamid's debts, what is Fatima's understanding?
+
+A) That the riad was mortgaged
+B) That his uncle was free of debt
+C) The debt was settled in June
+D) That Hamid owed him two hundred thousand dirham
+
+Answer with a single letter only.",A,false
+7,14,"What does Fatima believe about who was awake at the dawn call to prayer?
+
+A) That the whole house was asleep
+B) That she was awake in the kitchen
+C) That she heard footsteps on the terrace
+D) That he was already on the road to Fes
+
+Answer with a single letter only.",B,false
+7,15,"Regarding who was awake at the dawn call to prayer, what is Karim's understanding?
+
+A) That she was awake in the kitchen
+B) That he was already on the road to Fes
+C) That the whole house was asleep
+D) That she heard footsteps on the terrace
+
+Answer with a single letter only.",C,false
+7,16,"Celine is questioned about who was awake at the dawn call to prayer. What does Celine actually believe?
+
+A) That she was awake in the kitchen
+B) That the whole house was asleep
+C) That he was already on the road to Fes
+D) That she heard footsteps on the terrace
+
+Answer with a single letter only.",D,false
+7,17,"Which of these describes Youssef's belief concerning who was awake at the dawn call to prayer?
+
+A) That he was already on the road to Fes
+B) That she was awake in the kitchen
+C) That the whole house was asleep
+D) That she heard footsteps on the terrace
+
+Answer with a single letter only.",A,false
+7,18,"Regarding Celine's departure, what is Celine's understanding?
+
+A) That she was leaving on the 1st
+B) That she was booked to leave on the 3rd
+C) That she had extended her stay indefinitely
+D) That she had no return booking
+
+Answer with a single letter only.",B,false
+7,19,"Hamid is questioned about Celine's departure. What does Hamid actually believe?
+
+A) That she was booked to leave on the 3rd
+B) That she had no return booking
+C) That she was leaving on the 1st
+D) That she had extended her stay indefinitely
+
+Answer with a single letter only.",C,false
+7,20,"Which of these describes Karim's belief concerning Celine's departure?
+
+A) That she was leaving on the 1st
+B) That she had extended her stay indefinitely
+C) That she was booked to leave on the 3rd
+D) That she had no return booking
+
+Answer with a single letter only.",D,false
+7,21,"What does Fatima believe about Celine's departure?
+
+A) That she had extended her stay indefinitely
+B) That she had no return booking
+C) That she was booked to leave on the 3rd
+D) That she was leaving on the 1st
+
+Answer with a single letter only.",A,false
+7,22,"Youssef is questioned about the workshop fire in August. What does Youssef actually believe?
+
+A) Hamid set it himself to claim the insurance
+B) That the fire was an accident
+C) That Youssef set the fire
+D) That it was an electrical fault
+
+Answer with a single letter only.",B,false
+7,23,"Which of these describes Karim's belief concerning the workshop fire in August?
+
+A) Hamid set it himself to claim the insurance
+B) That it was an electrical fault
+C) That Youssef set the fire
+D) That the fire was an accident
+
+Answer with a single letter only.",C,false
+7,24,"What does Fatima believe about the workshop fire in August?
+
+A) That the fire was an accident
+B) Hamid set it himself to claim the insurance
+C) That Youssef set the fire
+D) That it was an electrical fault
+
+Answer with a single letter only.",D,false
+7,25,"Which of these describes Fatima's belief concerning Fatima's wages?
+
+A) That she is owed three months of wages
+B) That she is a member of the family
+C) That she had been paid in full
+D) That she works in exchange for lodging
+
+Answer with a single letter only.",A,false
+7,26,"What does Hamid believe about Fatima's wages?
+
+A) That she works in exchange for lodging
+B) That she had been paid in full
+C) That she is a member of the family
+D) That she is owed three months of wages
+
+Answer with a single letter only.",B,false
+7,27,"Regarding Fatima's wages, what is Karim's understanding?
+
+A) That she is a member of the family
+B) That she had been paid in full
+C) That she works in exchange for lodging
+D) That she is owed three months of wages
+
+Answer with a single letter only.",C,false
+7,28,"Celine is questioned about Fatima's wages. What does Celine actually believe?
+
+A) That she works in exchange for lodging
+B) That she had been paid in full
+C) That she is owed three months of wages
+D) That she is a member of the family
+
+Answer with a single letter only.",D,false
+8,1,"What does Marcos believe about the extractor fan?
+
+A) That it failed from old age
+B) That no extractor was ever fitted
+C) That Osvaldo switched it off to save electricity
+D) The fuse had been removed
+
+Answer with a single letter only.",A,false
+8,2,"Regarding the extractor fan, what is Luciana's understanding?
+
+A) The fuse had been removed
+B) That Osvaldo switched it off to save electricity
+C) That no extractor was ever fitted
+D) That it failed from old age
+
+Answer with a single letter only.",B,false
+8,3,"Dieter is questioned about the extractor fan. What does Dieter actually believe?
+
+A) That Osvaldo switched it off to save electricity
+B) The fuse had been removed
+C) That no extractor was ever fitted
+D) That it failed from old age
+
+Answer with a single letter only.",C,false
+8,4,"Regarding the 1938 Doble A instrument, what is Dieter's understanding?
+
+A) That it was to be given to a museum
+B) That it was promised to her
+C) That he had refused every offer for it
+D) That it was sold to him in June
+
+Answer with a single letter only.",D,false
+8,5,"Osvaldo is questioned about the 1938 Doble A instrument. What does Osvaldo actually believe?
+
+A) That he had refused every offer for it
+B) That it was sold to him in June
+C) That it was promised to her
+D) That it was to be given to a museum
+
+Answer with a single letter only.",A,false
+8,6,"Which of these describes Luciana's belief concerning the 1938 Doble A instrument?
+
+A) That he had refused every offer for it
+B) That it was promised to her
+C) That it was to be given to a museum
+D) That it was sold to him in June
+
+Answer with a single letter only.",B,false
+8,7,"What does Elena believe about the 1938 Doble A instrument?
+
+A) That it was promised to her
+B) That he had refused every offer for it
+C) That it was to be given to a museum
+D) That it was sold to him in June
+
+Answer with a single letter only.",C,false
+8,8,"Marcos is questioned about the workshop lease. What does Marcos actually believe?
+
+A) That no rent had been paid since March
+B) That he held a tenancy for life
+C) That the building had already been sold
+D) That the lease expires in December
+
+Answer with a single letter only.",D,false
+8,9,"Which of these describes Osvaldo's belief concerning the workshop lease?
+
+A) That he held a tenancy for life
+B) That the building had already been sold
+C) That no rent had been paid since March
+D) That the lease expires in December
+
+Answer with a single letter only.",A,false
+8,10,"What does Luciana believe about the workshop lease?
+
+A) That no rent had been paid since March
+B) That the building had already been sold
+C) That he held a tenancy for life
+D) That the lease expires in December
+
+Answer with a single letter only.",B,false
+8,11,"Regarding the workshop lease, what is Elena's understanding?
+
+A) That he held a tenancy for life
+B) That the lease expires in December
+C) That no rent had been paid since March
+D) That the building had already been sold
+
+Answer with a single letter only.",C,false
+8,12,"Which of these describes Luciana's belief concerning who was in the building at 22:00?
+
+A) That the workshop stood empty
+B) Dieter was in the corridor outside
+C) That he was upstairs in his own flat
+D) That only Osvaldo remained
+
+Answer with a single letter only.",D,false
+8,13,"What does Marcos believe about who was in the building at 22:00?
+
+A) That he was upstairs in his own flat
+B) That only Osvaldo remained
+C) That the workshop stood empty
+D) Dieter was in the corridor outside
+
+Answer with a single letter only.",A,false
+8,14,"Regarding who was in the building at 22:00, what is Elena's understanding?
+
+A) Dieter was in the corridor outside
+B) That the workshop stood empty
+C) That he was upstairs in his own flat
+D) That only Osvaldo remained
+
+Answer with a single letter only.",B,false
+8,15,"What does Elena believe about Elena's standing with Osvaldo?
+
+A) That they had not spoken in ten years
+B) That the divorce was completed in 2019
+C) That they were still married
+D) That she is his sister
+
+Answer with a single letter only.",C,false
+8,16,"Regarding Elena's standing with Osvaldo, what is Osvaldo's understanding?
+
+A) That they had not spoken in ten years
+B) That they were still married
+C) That she is his sister
+D) That the divorce was completed in 2019
+
+Answer with a single letter only.",D,false
+8,17,"Dieter is questioned about Elena's standing with Osvaldo. What does Dieter actually believe?
+
+A) That she is his sister
+B) That the divorce was completed in 2019
+C) That they were still married
+D) That they had not spoken in ten years
+
+Answer with a single letter only.",A,false
+8,18,"Which of these describes Luciana's belief concerning Elena's standing with Osvaldo?
+
+A) That the divorce was completed in 2019
+B) That they had not spoken in ten years
+C) That she is his sister
+D) That they were still married
+
+Answer with a single letter only.",B,false
+8,19,"Regarding Luciana's apprenticeship, what is Luciana's understanding?
+
+A) That she works unpaid
+B) That he had arranged a place for her in Italy
+C) That she would inherit the workshop tools
+D) That she had already left the workshop
+
+Answer with a single letter only.",C,false
+8,20,"Osvaldo is questioned about Luciana's apprenticeship. What does Osvaldo actually believe?
+
+A) That she works unpaid
+B) That she would inherit the workshop tools
+C) That she had already left the workshop
+D) That he had arranged a place for her in Italy
+
+Answer with a single letter only.",D,false
+8,21,"Which of these describes Marcos's belief concerning Luciana's apprenticeship?
+
+A) That she works unpaid
+B) That she would inherit the workshop tools
+C) That he had arranged a place for her in Italy
+D) That she had already left the workshop
+
+Answer with a single letter only.",A,false
+8,22,"What does Dieter believe about Luciana's apprenticeship?
+
+A) That she would inherit the workshop tools
+B) That she had already left the workshop
+C) That she works unpaid
+D) That he had arranged a place for her in Italy
+
+Answer with a single letter only.",B,false
+8,23,"Marcos is questioned about the insurance. What does Marcos actually believe?
+
+A) That she is the named beneficiary
+B) That the policy lapsed in 2021
+C) That the workshop carried no insurance
+D) Dieter had insured the instrument in his own name
+
+Answer with a single letter only.",C,false
+8,24,"Which of these describes Elena's belief concerning the insurance?
+
+A) That the policy lapsed in 2021
+B) Dieter had insured the instrument in his own name
+C) That the workshop carried no insurance
+D) That she is the named beneficiary
+
+Answer with a single letter only.",D,false
+8,25,"What does Osvaldo believe about the insurance?
+
+A) That the policy lapsed in 2021
+B) That the workshop carried no insurance
+C) Dieter had insured the instrument in his own name
+D) That she is the named beneficiary
+
+Answer with a single letter only.",A,false
+8,26,"Which of these describes Luciana's belief concerning the smell of lacquer that evening?
+
+A) That he noticed nothing unusual
+B) That it was normal for a working Tuesday
+C) That she had complained of it for years
+D) That the workshop used water-based finish
+
+Answer with a single letter only.",B,false
+8,27,"What does Marcos believe about the smell of lacquer that evening?
+
+A) That the workshop used water-based finish
+B) That she had complained of it for years
+C) That he noticed nothing unusual
+D) That it was normal for a working Tuesday
+
+Answer with a single letter only.",C,false
+8,28,"Regarding the smell of lacquer that evening, what is Elena's understanding?
+
+A) That it was normal for a working Tuesday
+B) That the workshop used water-based finish
+C) That he noticed nothing unusual
+D) That she had complained of it for years
+
+Answer with a single letter only.",D,false
+8,29,"Dieter is questioned about the smell of lacquer that evening. What does Dieter actually believe?
+
+A) That the workshop used water-based finish
+B) That it was normal for a working Tuesday
+C) That she had complained of it for years
+D) That he noticed nothing unusual
+
+Answer with a single letter only.",A,false
+9,1,"What does Sean believe about the safety rail?
+
+A) That no rail was ever fitted on that side
+B) That it had been taken off for repainting
+C) The bolts were removed that afternoon
+D) That it had been loose all winter
+
+Answer with a single letter only.",B,false
+9,2,"Regarding the safety rail, what is Giles's understanding?
+
+A) That it had been taken off for repainting
+B) That it had been loose all winter
+C) That no rail was ever fitted on that side
+D) The bolts were removed that afternoon
+
+Answer with a single letter only.",C,false
+9,3,"Danny is questioned about the safety rail. What does Danny actually believe?
+
+A) The bolts were removed that afternoon
+B) That no rail was ever fitted on that side
+C) That it had been taken off for repainting
+D) That it had been loose all winter
+
+Answer with a single letter only.",D,false
+9,4,"Regarding the Wheal Hester ledgers, what is Rowena's understanding?
+
+A) That they show the trust sold artefacts unlawfully
+B) That they were destroyed in 1987
+C) That they are routine accounts
+D) That they are on loan to Truro
+
+Answer with a single letter only.",A,false
+9,5,"Giles is questioned about the Wheal Hester ledgers. What does Giles actually believe?
+
+A) That they show the trust sold artefacts unlawfully
+B) That they are routine accounts
+C) That they are on loan to Truro
+D) That they were destroyed in 1987
+
+Answer with a single letter only.",B,false
+9,6,"Which of these describes Margaret's belief concerning the Wheal Hester ledgers?
+
+A) That they are on loan to Truro
+B) That they show the trust sold artefacts unlawfully
+C) That they were destroyed in 1987
+D) That they are routine accounts
+
+Answer with a single letter only.",C,false
+9,7,"What does Danny believe about the Wheal Hester ledgers?
+
+A) That they are routine accounts
+B) That they were destroyed in 1987
+C) That they show the trust sold artefacts unlawfully
+D) That they are on loan to Truro
+
+Answer with a single letter only.",D,false
+9,8,"Danny is questioned about the closing of the museum. What does Danny actually believe?
+
+A) That he locked the front door at 17:00
+B) That it stays open until 18:00 in March
+C) That the museum closes at 16:30
+D) The door was left on the latch
+
+Answer with a single letter only.",A,false
+9,9,"Which of these describes Giles's belief concerning the closing of the museum?
+
+A) That he locked the front door at 17:00
+B) That the museum closes at 16:30
+C) That it stays open until 18:00 in March
+D) The door was left on the latch
+
+Answer with a single letter only.",B,false
+9,10,"What does Margaret believe about the closing of the museum?
+
+A) That the museum closes at 16:30
+B) That he locked the front door at 17:00
+C) That it stays open until 18:00 in March
+D) The door was left on the latch
+
+Answer with a single letter only.",C,false
+9,11,"Which of these describes Margaret's belief concerning Margaret's involvement with the trust?
+
+A) That Margaret owns the building
+B) That Margaret drew a consultancy fee
+C) That Margaret resigned in January
+D) That she serves as an unpaid trustee
+
+Answer with a single letter only.",D,false
+9,12,"What does Rowena believe about Margaret's involvement with the trust?
+
+A) That Margaret drew a consultancy fee
+B) That she serves as an unpaid trustee
+C) That Margaret resigned in January
+D) That Margaret owns the building
+
+Answer with a single letter only.",A,false
+9,13,"Regarding Margaret's involvement with the trust, what is Giles's understanding?
+
+A) That she serves as an unpaid trustee
+B) That Margaret resigned in January
+C) That Margaret drew a consultancy fee
+D) That Margaret owns the building
+
+Answer with a single letter only.",B,false
+9,14,"Sean is questioned about Margaret's involvement with the trust. What does Sean actually believe?
+
+A) That she serves as an unpaid trustee
+B) That Margaret resigned in January
+C) That Margaret owns the building
+D) That Margaret drew a consultancy fee
+
+Answer with a single letter only.",C,false
+9,15,"What does Sean believe about Sean's contract?
+
+A) That Sean is the curator's brother-in-law
+B) That the contract had been terminated
+C) That Sean works as a volunteer
+D) That the work was signed off in February
+
+Answer with a single letter only.",D,false
+9,16,"Regarding Sean's contract, what is Giles's understanding?
+
+A) That the contract had been terminated
+B) That Sean is the curator's brother-in-law
+C) That the work was signed off in February
+D) That Sean works as a volunteer
+
+Answer with a single letter only.",A,false
+9,17,"Danny is questioned about Sean's contract. What does Danny actually believe?
+
+A) That the work was signed off in February
+B) That Sean works as a volunteer
+C) That Sean is the curator's brother-in-law
+D) That the contract had been terminated
+
+Answer with a single letter only.",B,false
+9,18,"Which of these describes Margaret's belief concerning Sean's contract?
+
+A) That Sean works as a volunteer
+B) That the work was signed off in February
+C) That Sean is the curator's brother-in-law
+D) That the contract had been terminated
+
+Answer with a single letter only.",C,false
+9,19,"Regarding who Rowena had contacted, what is Rowena's understanding?
+
+A) That she had gone to the local paper
+B) That she had spoken only to him
+C) The email was drafted but never sent
+D) That she had emailed the Charity Commission
+
+Answer with a single letter only.",D,false
+9,20,"Giles is questioned about who Rowena had contacted. What does Giles actually believe?
+
+A) That she had spoken only to him
+B) That she had gone to the local paper
+C) The email was drafted but never sent
+D) That she had emailed the Charity Commission
+
+Answer with a single letter only.",A,false
+9,21,"Which of these describes Margaret's belief concerning who Rowena had contacted?
+
+A) That she had spoken only to him
+B) That she had gone to the local paper
+C) That she had emailed the Charity Commission
+D) The email was drafted but never sent
+
+Answer with a single letter only.",B,false
+9,22,"Danny is questioned about Danny's hours that day. What does Danny actually believe?
+
+A) That Danny does not work Thursdays
+B) That Danny is on a training placement
+C) That he was rostered until 18:00
+D) That Danny left at 15:00
+
+Answer with a single letter only.",C,false
+9,23,"Which of these describes Giles's belief concerning Danny's hours that day?
+
+A) That Danny does not work Thursdays
+B) That he was rostered until 18:00
+C) That Danny is on a training placement
+D) That Danny left at 15:00
+
+Answer with a single letter only.",D,false
+9,24,"What does Sean believe about Danny's hours that day?
+
+A) That Danny does not work Thursdays
+B) That Danny left at 15:00
+C) That Danny is on a training placement
+D) That he was rostered until 18:00
+
+Answer with a single letter only.",A,false
+9,25,"Regarding Danny's hours that day, what is Margaret's understanding?
+
+A) That he was rostered until 18:00
+B) That Danny is on a training placement
+C) That Danny left at 15:00
+D) That Danny does not work Thursdays
+
+Answer with a single letter only.",B,false
+9,26,"Which of these describes Sean's belief concerning the shaft lighting?
+
+A) That the lights run on a timer until 17:00
+B) That the section has no lighting at all
+C) That the lights were working
+D) That the circuit trips constantly
+
+Answer with a single letter only.",C,false
+9,27,"What does Danny believe about the shaft lighting?
+
+A) That the lights were working
+B) That the lights run on a timer until 17:00
+C) That the section has no lighting at all
+D) That the circuit trips constantly
+
+Answer with a single letter only.",D,false
+9,28,"Regarding the shaft lighting, what is Giles's understanding?
+
+A) That the section has no lighting at all
+B) That the circuit trips constantly
+C) That the lights run on a timer until 17:00
+D) That the lights were working
+
+Answer with a single letter only.",A,false
+9,29,"Margaret is questioned about the shaft lighting. What does Margaret actually believe?
+
+A) That the lights were working
+B) That the lights run on a timer until 17:00
+C) That the circuit trips constantly
+D) That the section has no lighting at all
+
+Answer with a single letter only.",B,false
+10,1,"What does Jonas believe about how the container door was secured?
+
+A) That Wei Ling sealed herself in by mistake
+B) The locking bar was pinned from outside
+C) That the latch drops shut on its own
+D) That the door mechanism was faulty
+
+Answer with a single letter only.",C,false
+10,2,"Regarding how the container door was secured, what is Aziz's understanding?
+
+A) That the latch drops shut on its own
+B) That the door mechanism was faulty
+C) The locking bar was pinned from outside
+D) That Wei Ling sealed herself in by mistake
+
+Answer with a single letter only.",D,false
+10,3,"Ravi is questioned about how the container door was secured. What does Ravi actually believe?
+
+A) That the door mechanism was faulty
+B) The locking bar was pinned from outside
+C) That Wei Ling sealed herself in by mistake
+D) That the latch drops shut on its own
+
+Answer with a single letter only.",A,false
+10,4,"Regarding the container's contents, what is Mrs. Chua's understanding?
+
+A) The manifest declared seafood and the container held ivory
+B) That it held frozen seafood
+C) That it held undeclared ivory
+D) That it held pharmaceutical goods
+
+Answer with a single letter only.",B,false
+10,5,"Ravi is questioned about the container's contents. What does Ravi actually believe?
+
+A) That it held undeclared ivory
+B) The manifest declared seafood and the container held ivory
+C) That it held pharmaceutical goods
+D) That it held frozen seafood
+
+Answer with a single letter only.",C,false
+10,6,"Which of these describes Wei Ling's belief concerning the container's contents?
+
+A) That it held pharmaceutical goods
+B) The manifest declared seafood and the container held ivory
+C) That it held frozen seafood
+D) That it held undeclared ivory
+
+Answer with a single letter only.",D,false
+10,7,"Aziz is questioned about who was on the quay at 03:00. What does Aziz actually believe?
+
+A) That only the night gang were out
+B) That he was at the agency office
+C) That he had gone home at 02:00
+D) Jonas was still in the crane cab
+
+Answer with a single letter only.",A,false
+10,8,"Which of these describes Jonas's belief concerning who was on the quay at 03:00?
+
+A) That only the night gang were out
+B) That he had gone home at 02:00
+C) Jonas was still in the crane cab
+D) That he was at the agency office
+
+Answer with a single letter only.",B,false
+10,9,"What does Ravi believe about who was on the quay at 03:00?
+
+A) That only the night gang were out
+B) That he had gone home at 02:00
+C) That he was at the agency office
+D) Jonas was still in the crane cab
+
+Answer with a single letter only.",C,false
+10,10,"Which of these describes Jonas's belief concerning the reefer temperature alarm?
+
+A) That the alarm rings through to her office
+B) It sounded at 03:40 and was reset
+C) That the alarm is disabled overnight
+D) That no alarm sounded
+
+Answer with a single letter only.",D,false
+10,11,"What does Aziz believe about the reefer temperature alarm?
+
+A) That the alarm is disabled overnight
+B) That no alarm sounded
+C) It sounded at 03:40 and was reset
+D) That the alarm rings through to her office
+
+Answer with a single letter only.",A,false
+10,12,"Regarding the reefer temperature alarm, what is Mrs. Chua's understanding?
+
+A) That no alarm sounded
+B) That the alarm rings through to her office
+C) It sounded at 03:40 and was reset
+D) That the alarm is disabled overnight
+
+Answer with a single letter only.",B,false
+10,13,"What does Wei Ling believe about Wei Ling's inspection?
+
+A) That the inspection was set for the 25th
+B) That she was acting without a warrant
+C) That the inspection was properly authorised
+D) That no inspection had been requested
+
+Answer with a single letter only.",C,false
+10,14,"Regarding Wei Ling's inspection, what is Ravi's understanding?
+
+A) That the inspection was properly authorised
+B) That the inspection was set for the 25th
+C) That no inspection had been requested
+D) That she was acting without a warrant
+
+Answer with a single letter only.",D,false
+10,15,"Aziz is questioned about Wei Ling's inspection. What does Aziz actually believe?
+
+A) That the inspection was set for the 25th
+B) That no inspection had been requested
+C) That she was acting without a warrant
+D) That the inspection was properly authorised
+
+Answer with a single letter only.",A,false
+10,16,"Which of these describes Mrs. Chua's belief concerning Wei Ling's inspection?
+
+A) That the inspection was properly authorised
+B) That no inspection had been requested
+C) That she was acting without a warrant
+D) That the inspection was set for the 25th
+
+Answer with a single letter only.",B,false
+10,17,"Regarding Ravi's payment, what is Ravi's understanding?
+
+A) That he takes a percentage of the cargo
+B) That he was dismissed last month
+C) That he is paid a flat agency fee
+D) That he owns a share of the consignment
+
+Answer with a single letter only.",C,false
+10,18,"Mrs. Chua is questioned about Ravi's payment. What does Mrs. Chua actually believe?
+
+A) That he owns a share of the consignment
+B) That he was dismissed last month
+C) That he is paid a flat agency fee
+D) That he takes a percentage of the cargo
+
+Answer with a single letter only.",D,false
+10,19,"Which of these describes Jonas's belief concerning Ravi's payment?
+
+A) That he owns a share of the consignment
+B) That he was dismissed last month
+C) That he takes a percentage of the cargo
+D) That he is paid a flat agency fee
+
+Answer with a single letter only.",A,false
+10,20,"What does Aziz believe about Ravi's payment?
+
+A) That he owns a share of the consignment
+B) That he was dismissed last month
+C) That he takes a percentage of the cargo
+D) That he is paid a flat agency fee
+
+Answer with a single letter only.",B,false
+10,21,"Aziz is questioned about the CCTV covering berth 9. What does Aziz actually believe?
+
+A) It recorded the quay but not the container row
+B) That it has been broken since October
+C) That the camera covers the whole berth
+D) That it points at the gate only
+
+Answer with a single letter only.",C,false
+10,22,"Which of these describes Jonas's belief concerning the CCTV covering berth 9?
+
+A) That the camera covers the whole berth
+B) That it has been broken since October
+C) It recorded the quay but not the container row
+D) That it points at the gate only
+
+Answer with a single letter only.",D,false
+10,23,"What does Ravi believe about the CCTV covering berth 9?
+
+A) That it has been broken since October
+B) That the camera covers the whole berth
+C) It recorded the quay but not the container row
+D) That it points at the gate only
+
+Answer with a single letter only.",A,false
+10,24,"Which of these describes Mrs. Chua's belief concerning Mrs. Chua's whereabouts?
+
+A) That her car was there at 02:30
+B) That she was in Jakarta
+C) That she was at the port office
+D) That she never comes to the port
+
+Answer with a single letter only.",B,false
+10,25,"What does Ravi believe about Mrs. Chua's whereabouts?
+
+A) That she never comes to the port
+B) That she was in Jakarta
+C) That she was at the port office
+D) That her car was there at 02:30
+
+Answer with a single letter only.",C,false
+10,26,"Regarding Mrs. Chua's whereabouts, what is Aziz's understanding?
+
+A) That she was at the port office
+B) That she was in Jakarta
+C) That her car was there at 02:30
+D) That she never comes to the port
+
+Answer with a single letter only.",D,false
+10,27,"Jonas is questioned about Mrs. Chua's whereabouts. What does Jonas actually believe?
+
+A) That her car was there at 02:30
+B) That she never comes to the port
+C) That she was at the port office
+D) That she was in Jakarta
+
+Answer with a single letter only.",A,false
+11,1,"What does Pierre believe about the cellar door?
+
+A) The inside handle had been taken off
+B) That the mechanism freezes shut in January
+C) That it can always be opened from inside
+D) That the door was propped open all night
+
+Answer with a single letter only.",B,false
+11,2,"Regarding the cellar door, what is Chantal's understanding?
+
+A) That the door was propped open all night
+B) That the mechanism freezes shut in January
+C) That it can always be opened from inside
+D) The inside handle had been taken off
+
+Answer with a single letter only.",C,false
+11,3,"Marco is questioned about the cellar door. What does Marco actually believe?
+
+A) That it can always be opened from inside
+B) The inside handle had been taken off
+C) That the mechanism freezes shut in January
+D) That the door was propped open all night
+
+Answer with a single letter only.",D,false
+11,4,"Regarding Dana's review, what is Dana's understanding?
+
+A) That she had given the hotel one star
+B) That the review praised only the kitchen
+C) That her review was favourable
+D) That the review was not yet written
+
+Answer with a single letter only.",A,false
+11,5,"Etienne is questioned about Dana's review. What does Etienne actually believe?
+
+A) That the review praised only the kitchen
+B) That her review was favourable
+C) That the review was not yet written
+D) That she had given the hotel one star
+
+Answer with a single letter only.",B,false
+11,6,"Which of these describes Chantal's belief concerning Dana's review?
+
+A) That she had given the hotel one star
+B) That her review was favourable
+C) That the review was not yet written
+D) That the review praised only the kitchen
+
+Answer with a single letter only.",C,false
+11,7,"What does Marco believe about Dana's review?
+
+A) That she had given the hotel one star
+B) That her review was favourable
+C) That the review was not yet written
+D) That the review praised only the kitchen
+
+Answer with a single letter only.",D,false
+11,8,"Marco is questioned about who closed the bar. What does Marco actually believe?
+
+A) That Etienne closed it at 01:00
+B) That the bar closes at midnight
+C) That the bar had not opened at all
+D) That the bar was still open at 02:00
+
+Answer with a single letter only.",A,false
+11,9,"Which of these describes Chantal's belief concerning who closed the bar?
+
+A) That the bar had not opened at all
+B) That the bar closes at midnight
+C) That the bar was still open at 02:00
+D) That Etienne closed it at 01:00
+
+Answer with a single letter only.",B,false
+11,10,"What does Dana believe about who closed the bar?
+
+A) That the bar closes at midnight
+B) That the bar had not opened at all
+C) That the bar was still open at 02:00
+D) That Etienne closed it at 01:00
+
+Answer with a single letter only.",C,false
+11,11,"Regarding who closed the bar, what is Pierre's understanding?
+
+A) That the bar closes at midnight
+B) That the bar was still open at 02:00
+C) That Etienne closed it at 01:00
+D) That the bar had not opened at all
+
+Answer with a single letter only.",D,false
+11,12,"Which of these describes Etienne's belief concerning the wine order?
+
+A) That Chantal had cancelled his order
+B) The order was approved and then quietly cancelled
+C) That the order went to a rival supplier
+D) That the order was approved
+
+Answer with a single letter only.",A,false
+11,13,"What does Chantal believe about the wine order?
+
+A) That Chantal had cancelled his order
+B) That the order was approved
+C) The order was approved and then quietly cancelled
+D) That the order went to a rival supplier
+
+Answer with a single letter only.",B,false
+11,14,"Regarding the wine order, what is Marco's understanding?
+
+A) The order was approved and then quietly cancelled
+B) That the order was approved
+C) That the order went to a rival supplier
+D) That Chantal had cancelled his order
+
+Answer with a single letter only.",C,false
+11,15,"What does Pierre believe about Pierre's shift?
+
+A) That he was on call all night
+B) That he had the night off
+C) That he was near the cellar at 01:30
+D) That he finished at 23:00
+
+Answer with a single letter only.",D,false
+11,16,"Regarding Pierre's shift, what is Chantal's understanding?
+
+A) That he was on call all night
+B) That he finished at 23:00
+C) That he had the night off
+D) That he was near the cellar at 01:30
+
+Answer with a single letter only.",A,false
+11,17,"Marco is questioned about Pierre's shift. What does Marco actually believe?
+
+A) That he finished at 23:00
+B) That he had the night off
+C) That he was on call all night
+D) That he was near the cellar at 01:30
+
+Answer with a single letter only.",B,false
+11,18,"Which of these describes Dana's belief concerning Pierre's shift?
+
+A) That he finished at 23:00
+B) That he had the night off
+C) That he was near the cellar at 01:30
+D) That he was on call all night
+
+Answer with a single letter only.",C,false
+11,19,"Regarding Dana's identity, what is Dana's understanding?
+
+A) That Dana is a food writer he had met before
+B) That Dana is a travel agent
+C) That she knew from the booking
+D) That the hotel does not know she reviews
+
+Answer with a single letter only.",D,false
+11,20,"Chantal is questioned about Dana's identity. What does Chantal actually believe?
+
+A) That she knew from the booking
+B) That Dana is a travel agent
+C) That the hotel does not know she reviews
+D) That Dana is a food writer he had met before
+
+Answer with a single letter only.",A,false
+11,21,"Which of these describes Marco's belief concerning Dana's identity?
+
+A) That Dana is a food writer he had met before
+B) That Dana is a travel agent
+C) That the hotel does not know she reviews
+D) That she knew from the booking
+
+Answer with a single letter only.",B,false
+11,22,"What does Etienne believe about Dana's identity?
+
+A) That the hotel does not know she reviews
+B) That Dana is a travel agent
+C) That Dana is a food writer he had met before
+D) That she knew from the booking
+
+Answer with a single letter only.",C,false
+11,23,"Chantal is questioned about the heating in the guest wing. What does Chantal actually believe?
+
+A) That her room was warm
+B) That the heaters failed on the 11th
+C) That guests are given electric blankets
+D) That the wing is deliberately unheated
+
+Answer with a single letter only.",D,false
+11,24,"Which of these describes Pierre's belief concerning the heating in the guest wing?
+
+A) That the heaters failed on the 11th
+B) That guests are given electric blankets
+C) That the wing is deliberately unheated
+D) That her room was warm
+
+Answer with a single letter only.",A,false
+11,25,"What does Dana believe about the heating in the guest wing?
+
+A) That guests are given electric blankets
+B) That her room was warm
+C) That the wing is deliberately unheated
+D) That the heaters failed on the 11th
+
+Answer with a single letter only.",B,false
+11,26,"Regarding the heating in the guest wing, what is Marco's understanding?
+
+A) That her room was warm
+B) That the wing is deliberately unheated
+C) That guests are given electric blankets
+D) That the heaters failed on the 11th
+
+Answer with a single letter only.",C,false
+11,27,"Which of these describes Marco's belief concerning Marco's contract?
+
+A) That he is contracted until March
+B) That Marco owns a share of the restaurant
+C) That Marco had been dismissed
+D) That he had resigned in December
+
+Answer with a single letter only.",D,false
+11,28,"What does Chantal believe about Marco's contract?
+
+A) That he is contracted until March
+B) That he had resigned in December
+C) That Marco owns a share of the restaurant
+D) That Marco had been dismissed
+
+Answer with a single letter only.",A,false
+11,29,"Regarding Marco's contract, what is Etienne's understanding?
+
+A) That Marco owns a share of the restaurant
+B) That Marco had been dismissed
+C) That he is contracted until March
+D) That he had resigned in December
+
+Answer with a single letter only.",B,false
+11,30,"Pierre is questioned about Marco's contract. What does Pierre actually believe?
+
+A) That Marco had been dismissed
+B) That he is contracted until March
+C) That Marco owns a share of the restaurant
+D) That he had resigned in December
+
+Answer with a single letter only.",C,false
+12,1,"What does Joseph believe about the etorphine dose?
+
+A) That the vial was mislabelled
+B) The dart had been reloaded at double strength
+C) That Grace drew the dose herself in error
+D) That a dart misfired
+
+Answer with a single letter only.",D,false
+12,2,"Regarding the etorphine dose, what is Alice's understanding?
+
+A) That Grace drew the dose herself in error
+B) That a dart misfired
+C) That the vial was mislabelled
+D) The dart had been reloaded at double strength
+
+Answer with a single letter only.",A,false
+12,3,"Tom is questioned about the etorphine dose. What does Tom actually believe?
+
+A) That Grace drew the dose herself in error
+B) That the vial was mislabelled
+C) The dart had been reloaded at double strength
+D) That a dart misfired
+
+Answer with a single letter only.",B,false
+12,4,"Regarding the rhino relocation, what is Alice's understanding?
+
+A) That she had blocked it on welfare grounds
+B) That the relocation was cancelled
+C) That the relocation was approved
+D) That the rhinos had already been moved
+
+Answer with a single letter only.",C,false
+12,5,"Grace is questioned about the rhino relocation. What does Grace actually believe?
+
+A) That the relocation was cancelled
+B) That the relocation was approved
+C) That the rhinos had already been moved
+D) That she had blocked it on welfare grounds
+
+Answer with a single letter only.",D,false
+12,6,"Which of these describes Peter's belief concerning the rhino relocation?
+
+A) That the relocation was cancelled
+B) That the relocation was approved
+C) That the rhinos had already been moved
+D) That she had blocked it on welfare grounds
+
+Answer with a single letter only.",A,false
+12,7,"What does Tom believe about the rhino relocation?
+
+A) That the relocation was approved
+B) That the rhinos had already been moved
+C) That the relocation was cancelled
+D) That she had blocked it on welfare grounds
+
+Answer with a single letter only.",B,false
+12,8,"Joseph is questioned about who holds a key to the drug safe. What does Joseph actually believe?
+
+A) A second key was issued to Joseph in July
+B) That she and Grace both held one
+C) That only Grace held one
+D) That the safe is left unlocked
+
+Answer with a single letter only.",C,false
+12,9,"Which of these describes Alice's belief concerning who holds a key to the drug safe?
+
+A) That the safe is left unlocked
+B) That only Grace held one
+C) A second key was issued to Joseph in July
+D) That she and Grace both held one
+
+Answer with a single letter only.",D,false
+12,10,"What does Tom believe about who holds a key to the drug safe?
+
+A) That the safe is left unlocked
+B) That only Grace held one
+C) A second key was issued to Joseph in July
+D) That she and Grace both held one
+
+Answer with a single letter only.",A,false
+12,11,"Which of these describes Tom's belief concerning the poaching figures?
+
+A) That losses are at a record low
+B) That losses have risen this year
+C) That the figures are unchanged
+D) The reported figures were understated
+
+Answer with a single letter only.",B,false
+12,12,"What does Alice believe about the poaching figures?
+
+A) That the figures are unchanged
+B) That losses have risen this year
+C) That losses are at a record low
+D) The reported figures were understated
+
+Answer with a single letter only.",C,false
+12,13,"Regarding the poaching figures, what is Joseph's understanding?
+
+A) The reported figures were understated
+B) That losses have risen this year
+C) That losses are at a record low
+D) That the figures are unchanged
+
+Answer with a single letter only.",D,false
+12,14,"What does Peter believe about Peter's land claim?
+
+A) That the boundary land is community property
+B) That the claim was settled in 2019
+C) That the case is still before the court
+D) That the conservancy holds clear title
+
+Answer with a single letter only.",A,false
+12,15,"Regarding Peter's land claim, what is Alice's understanding?
+
+A) That the claim was settled in 2019
+B) That the conservancy holds clear title
+C) That the boundary land is community property
+D) That the case is still before the court
+
+Answer with a single letter only.",B,false
+12,16,"Grace is questioned about Peter's land claim. What does Grace actually believe?
+
+A) That the case is still before the court
+B) That the conservancy holds clear title
+C) That the claim was settled in 2019
+D) That the boundary land is community property
+
+Answer with a single letter only.",C,false
+12,17,"Which of these describes Joseph's belief concerning Peter's land claim?
+
+A) That the boundary land is community property
+B) That the claim was settled in 2019
+C) That the conservancy holds clear title
+D) That the case is still before the court
+
+Answer with a single letter only.",D,false
+12,18,"Regarding who was at the boma at 05:00, what is Joseph's understanding?
+
+A) That he was on patrol at the north gate
+B) That he was asleep in camp
+C) That she was in Nairobi
+D) Tom was at the boma taking samples
+
+Answer with a single letter only.",A,false
+12,19,"Tom is questioned about who was at the boma at 05:00. What does Tom actually believe?
+
+A) That he was on patrol at the north gate
+B) That he was asleep in camp
+C) That she was in Nairobi
+D) Tom was at the boma taking samples
+
+Answer with a single letter only.",B,false
+12,20,"Which of these describes Alice's belief concerning who was at the boma at 05:00?
+
+A) That he was asleep in camp
+B) That he was on patrol at the north gate
+C) That she was in Nairobi
+D) Tom was at the boma taking samples
+
+Answer with a single letter only.",C,false
+12,21,"Tom is questioned about Tom's funding. What does Tom actually believe?
+
+A) That his grant ended in August
+B) That he is funded by Peter
+C) That he works as an unpaid volunteer
+D) That his grant runs to next year
+
+Answer with a single letter only.",D,false
+12,22,"Which of these describes Alice's belief concerning Tom's funding?
+
+A) That his grant ended in August
+B) That he is funded by Peter
+C) That his grant runs to next year
+D) That he works as an unpaid volunteer
+
+Answer with a single letter only.",A,false
+12,23,"What does Grace believe about Tom's funding?
+
+A) That he works as an unpaid volunteer
+B) That he is funded by Peter
+C) That his grant ended in August
+D) That his grant runs to next year
+
+Answer with a single letter only.",B,false
+12,24,"Regarding Tom's funding, what is Joseph's understanding?
+
+A) That his grant runs to next year
+B) That his grant ended in August
+C) That he works as an unpaid volunteer
+D) That he is funded by Peter
+
+Answer with a single letter only.",C,false
+12,25,"Which of these describes Grace's belief concerning Grace's report?
+
+A) The report was written but sat unsent on her laptop
+B) That the report named him
+C) That no such report exists
+D) That she had sent her findings to the wildlife service
+
+Answer with a single letter only.",D,false
+12,26,"What does Alice believe about Grace's report?
+
+A) That no such report exists
+B) That she had sent her findings to the wildlife service
+C) That the report named him
+D) The report was written but sat unsent on her laptop
+
+Answer with a single letter only.",A,false
+12,27,"Regarding Grace's report, what is Peter's understanding?
+
+A) The report was written but sat unsent on her laptop
+B) That the report named him
+C) That no such report exists
+D) That she had sent her findings to the wildlife service
+
+Answer with a single letter only.",B,false
+13,1,"What does Milos believe about the counterweight rigging?
+
+A) The counterweight had been doubled that evening
+B) That Vaclav re-rigged it himself
+C) That it was rigged exactly as always
+D) That the ropes were rotten
+
+Answer with a single letter only.",C,false
+13,2,"Regarding the counterweight rigging, what is Pavel's understanding?
+
+A) That the ropes were rotten
+B) That it was rigged exactly as always
+C) The counterweight had been doubled that evening
+D) That Vaclav re-rigged it himself
+
+Answer with a single letter only.",D,false
+13,3,"Tereza is questioned about the counterweight rigging. What does Tereza actually believe?
+
+A) That the ropes were rotten
+B) That it was rigged exactly as always
+C) That Vaclav re-rigged it himself
+D) The counterweight had been doubled that evening
+
+Answer with a single letter only.",A,false
+13,4,"Regarding the Spejbl marionettes, what is Berger's understanding?
+
+A) That they were pledged against the theatre debts
+B) That she had bought the set
+C) That they were never for sale
+D) That they belong to the national museum
+
+Answer with a single letter only.",B,false
+13,5,"Vaclav is questioned about the Spejbl marionettes. What does Vaclav actually believe?
+
+A) That they belong to the national museum
+B) That they were pledged against the theatre debts
+C) That they were never for sale
+D) That she had bought the set
+
+Answer with a single letter only.",C,false
+13,6,"Which of these describes Tereza's belief concerning the Spejbl marionettes?
+
+A) That they were never for sale
+B) That they were pledged against the theatre debts
+C) That she had bought the set
+D) That they belong to the national museum
+
+Answer with a single letter only.",D,false
+13,7,"What does Pavel believe about the Spejbl marionettes?
+
+A) That they were pledged against the theatre debts
+B) That she had bought the set
+C) That they were never for sale
+D) That they belong to the national museum
+
+Answer with a single letter only.",A,false
+13,8,"Milos is questioned about who went up to the fly loft after the show. What does Milos actually believe?
+
+A) That she had gone home at 21:00
+B) That only Vaclav ever goes up there
+C) Pavel went up at 22:00
+D) That the loft was locked
+
+Answer with a single letter only.",B,false
+13,9,"Which of these describes Pavel's belief concerning who went up to the fly loft after the show?
+
+A) That only Vaclav ever goes up there
+B) Pavel went up at 22:00
+C) That the loft was locked
+D) That she had gone home at 21:00
+
+Answer with a single letter only.",C,false
+13,10,"What does Tereza believe about who went up to the fly loft after the show?
+
+A) That the loft was locked
+B) That only Vaclav ever goes up there
+C) Pavel went up at 22:00
+D) That she had gone home at 21:00
+
+Answer with a single letter only.",D,false
+13,11,"Which of these describes Pavel's belief concerning the finances of the theatre?
+
+A) That the theatre broke even last season
+B) That it is publicly funded
+C) That it was three years in arrears
+D) That wages have not been paid since October
+
+Answer with a single letter only.",A,false
+13,12,"What does Vaclav believe about the finances of the theatre?
+
+A) That it is publicly funded
+B) That it was three years in arrears
+C) That the theatre broke even last season
+D) That wages have not been paid since October
+
+Answer with a single letter only.",B,false
+13,13,"Regarding the finances of the theatre, what is Berger's understanding?
+
+A) That the theatre broke even last season
+B) That wages have not been paid since October
+C) That it is publicly funded
+D) That it was three years in arrears
+
+Answer with a single letter only.",C,false
+13,14,"Milos is questioned about the finances of the theatre. What does Milos actually believe?
+
+A) That the theatre broke even last season
+B) That it was three years in arrears
+C) That it is publicly funded
+D) That wages have not been paid since October
+
+Answer with a single letter only.",D,false
+13,15,"What does Tereza believe about Tereza's inheritance?
+
+A) That the workshop passes to her
+B) That he had willed everything to the theatre
+C) That the collection had already been sold
+D) That no will exists
+
+Answer with a single letter only.",A,false
+13,16,"Regarding Tereza's inheritance, what is Vaclav's understanding?
+
+A) That the workshop passes to her
+B) That he had willed everything to the theatre
+C) That the collection had already been sold
+D) That no will exists
+
+Answer with a single letter only.",B,false
+13,17,"Pavel is questioned about Tereza's inheritance. What does Pavel actually believe?
+
+A) That he had willed everything to the theatre
+B) That the collection had already been sold
+C) That no will exists
+D) That the workshop passes to her
+
+Answer with a single letter only.",C,false
+13,18,"Which of these describes Berger's belief concerning Tereza's inheritance?
+
+A) That he had willed everything to the theatre
+B) That the workshop passes to her
+C) That no will exists
+D) That the collection had already been sold
+
+Answer with a single letter only.",D,false
+13,19,"Regarding Milos's employment, what is Milos's understanding?
+
+A) That he holds a permanent contract
+B) That he is engaged production by production
+C) That Milos works as a volunteer
+D) That Milos had given notice
+
+Answer with a single letter only.",A,false
+13,20,"Pavel is questioned about Milos's employment. What does Pavel actually believe?
+
+A) That Milos works as a volunteer
+B) That he is engaged production by production
+C) That Milos had given notice
+D) That he holds a permanent contract
+
+Answer with a single letter only.",B,false
+13,21,"Which of these describes Vaclav's belief concerning Milos's employment?
+
+A) That he is engaged production by production
+B) That Milos works as a volunteer
+C) That Milos had given notice
+D) That he holds a permanent contract
+
+Answer with a single letter only.",C,false
+13,22,"What does Tereza believe about Milos's employment?
+
+A) That he is engaged production by production
+B) That he holds a permanent contract
+C) That Milos had given notice
+D) That Milos works as a volunteer
+
+Answer with a single letter only.",D,false
+13,23,"Pavel is questioned about the Vienna tour. What does Pavel actually believe?
+
+A) That the tour is confirmed
+B) That he had refused to travel
+C) That the tour was cancelled
+D) That the dates were never booked
+
+Answer with a single letter only.",A,false
+13,24,"Which of these describes Vaclav's belief concerning the Vienna tour?
+
+A) That the dates were never booked
+B) That he had refused to travel
+C) That the tour was cancelled
+D) That the tour is confirmed
+
+Answer with a single letter only.",B,false
+13,25,"What does Berger believe about the Vienna tour?
+
+A) That the tour is confirmed
+B) That the dates were never booked
+C) That the tour was cancelled
+D) That he had refused to travel
+
+Answer with a single letter only.",C,false
+13,26,"Regarding the Vienna tour, what is Milos's understanding?
+
+A) That the tour was cancelled
+B) That he had refused to travel
+C) That the tour is confirmed
+D) That the dates were never booked
+
+Answer with a single letter only.",D,false
+13,27,"Which of these describes Berger's belief concerning Frau Berger's visit in November?
+
+A) That no one saw her come in November
+B) That she attended the November premiere
+C) That she has never been to Prague
+D) That he let her in himself
+
+Answer with a single letter only.",A,false
+13,28,"What does Milos believe about Frau Berger's visit in November?
+
+A) That she has never been to Prague
+B) That he let her in himself
+C) That no one saw her come in November
+D) That she attended the November premiere
+
+Answer with a single letter only.",B,false
+13,29,"Regarding Frau Berger's visit in November, what is Tereza's understanding?
+
+A) That no one saw her come in November
+B) That she attended the November premiere
+C) That she has never been to Prague
+D) That he let her in himself
+
+Answer with a single letter only.",C,false
+13,30,"Pavel is questioned about Frau Berger's visit in November. What does Pavel actually believe?
+
+A) That he let her in himself
+B) That she has never been to Prague
+C) That no one saw her come in November
+D) That she attended the November premiere
+
+Answer with a single letter only.",D,false
+14,1,"What does Nate believe about the slit waders?
+
+A) That they snagged on an oyster rack
+B) That they were old and perished
+C) That they had been cut
+D) They were cut with a shucking knife
+
+Answer with a single letter only.",A,false
+14,2,"Regarding the slit waders, what is Bruce's understanding?
+
+A) That they snagged on an oyster rack
+B) That they were old and perished
+C) They were cut with a shucking knife
+D) That they had been cut
+
+Answer with a single letter only.",B,false
+14,3,"Priya is questioned about the slit waders. What does Priya actually believe?
+
+A) That they were old and perished
+B) They were cut with a shucking knife
+C) That they had been cut
+D) That they snagged on an oyster rack
+
+Answer with a single letter only.",C,false
+14,4,"Regarding the POMS virus results, what is Fiona's understanding?
+
+A) That the samples were never processed
+B) That the results came back clear
+C) That her own lease was the source
+D) That the lease tested positive
+
+Answer with a single letter only.",D,false
+14,5,"Bruce is questioned about the POMS virus results. What does Bruce actually believe?
+
+A) That the results came back clear
+B) That the samples were never processed
+C) That her own lease was the source
+D) That the lease tested positive
+
+Answer with a single letter only.",A,false
+14,6,"Which of these describes Priya's belief concerning the POMS virus results?
+
+A) That the results came back clear
+B) That the samples were never processed
+C) That her own lease was the source
+D) That the lease tested positive
+
+Answer with a single letter only.",B,false
+14,7,"What does Sue believe about the POMS virus results?
+
+A) That the samples were never processed
+B) That the results came back clear
+C) That her own lease was the source
+D) That the lease tested positive
+
+Answer with a single letter only.",C,false
+14,8,"Bruce is questioned about who was on the water at 05:30. What does Bruce actually believe?
+
+A) That a punt was near the markers
+B) That he was servicing the racks
+C) Bruce was out on the lease
+D) That nobody was, the tide being wrong
+
+Answer with a single letter only.",D,false
+14,9,"Which of these describes Nate's belief concerning who was on the water at 05:30?
+
+A) That he was servicing the racks
+B) That nobody was, the tide being wrong
+C) That a punt was near the markers
+D) Bruce was out on the lease
+
+Answer with a single letter only.",A,false
+14,10,"What does Sue believe about who was on the water at 05:30?
+
+A) Bruce was out on the lease
+B) That a punt was near the markers
+C) That nobody was, the tide being wrong
+D) That he was servicing the racks
+
+Answer with a single letter only.",B,false
+14,11,"Which of these describes Bruce's belief concerning the lease renewal?
+
+A) That the lease runs to 2030
+B) That renewal depends on the health report
+C) That renewal is automatic
+D) That the lease had already been transferred to her
+
+Answer with a single letter only.",C,false
+14,12,"What does Priya believe about the lease renewal?
+
+A) That the lease runs to 2030
+B) That the lease had already been transferred to her
+C) That renewal is automatic
+D) That renewal depends on the health report
+
+Answer with a single letter only.",D,false
+14,13,"Regarding the lease renewal, what is Sue's understanding?
+
+A) That the lease had already been transferred to her
+B) That the lease runs to 2030
+C) That renewal depends on the health report
+D) That renewal is automatic
+
+Answer with a single letter only.",A,false
+14,14,"Nate is questioned about the lease renewal. What does Nate actually believe?
+
+A) That renewal depends on the health report
+B) That the lease runs to 2030
+C) That renewal is automatic
+D) That the lease had already been transferred to her
+
+Answer with a single letter only.",B,false
+14,15,"What does Nate believe about Nate's wages?
+
+A) That he holds a training visa
+B) That he is paid weekly in cash
+C) That he is owed six weeks of pay
+D) That he works for Priya
+
+Answer with a single letter only.",C,false
+14,16,"Regarding Nate's wages, what is Bruce's understanding?
+
+A) That he works for Priya
+B) That he holds a training visa
+C) That he is owed six weeks of pay
+D) That he is paid weekly in cash
+
+Answer with a single letter only.",D,false
+14,17,"Sue is questioned about Nate's wages. What does Sue actually believe?
+
+A) That he works for Priya
+B) That he holds a training visa
+C) That he is paid weekly in cash
+D) That he is owed six weeks of pay
+
+Answer with a single letter only.",A,false
+14,18,"Which of these describes Priya's belief concerning Nate's wages?
+
+A) That he works for Priya
+B) That he holds a training visa
+C) That he is paid weekly in cash
+D) That he is owed six weeks of pay
+
+Answer with a single letter only.",B,false
+14,19,"Regarding the boundary markers, what is Sue's understanding?
+
+A) That the markers stand where they always have
+B) The markers were moved in December
+C) That the markers were moved onto her water
+D) That the boundary was resurveyed in January
+
+Answer with a single letter only.",C,false
+14,20,"Bruce is questioned about the boundary markers. What does Bruce actually believe?
+
+A) That the boundary was resurveyed in January
+B) The markers were moved in December
+C) That the markers were moved onto her water
+D) That the markers stand where they always have
+
+Answer with a single letter only.",D,false
+14,21,"Which of these describes Fiona's belief concerning the boundary markers?
+
+A) That the boundary was resurveyed in January
+B) That the markers were moved onto her water
+C) The markers were moved in December
+D) That the markers stand where they always have
+
+Answer with a single letter only.",A,false
+14,22,"Fiona is questioned about Fiona's report. What does Fiona actually believe?
+
+A) That no report had arrived
+B) That she had lodged the report with the department
+C) That the report was favourable
+D) It was lodged and Priya had not yet opened it
+
+Answer with a single letter only.",B,false
+14,23,"Which of these describes Priya's belief concerning Fiona's report?
+
+A) It was lodged and Priya had not yet opened it
+B) That she had lodged the report with the department
+C) That no report had arrived
+D) That the report was favourable
+
+Answer with a single letter only.",C,false
+14,24,"What does Bruce believe about Fiona's report?
+
+A) It was lodged and Priya had not yet opened it
+B) That no report had arrived
+C) That she had lodged the report with the department
+D) That the report was favourable
+
+Answer with a single letter only.",D,false
+14,25,"Which of these describes Nate's belief concerning the shucking shed?
+
+A) That the shed is never locked
+B) That only he holds a key
+C) That the shed is sealed under quarantine
+D) That she keeps a key from the old arrangement
+
+Answer with a single letter only.",A,false
+14,26,"What does Bruce believe about the shucking shed?
+
+A) That the shed is sealed under quarantine
+B) That only he holds a key
+C) That she keeps a key from the old arrangement
+D) That the shed is never locked
+
+Answer with a single letter only.",B,false
+14,27,"Regarding the shucking shed, what is Sue's understanding?
+
+A) That only he holds a key
+B) That the shed is sealed under quarantine
+C) That she keeps a key from the old arrangement
+D) That the shed is never locked
+
+Answer with a single letter only.",C,false
+14,28,"Priya is questioned about the shucking shed. What does Priya actually believe?
+
+A) That the shed is never locked
+B) That she keeps a key from the old arrangement
+C) That only he holds a key
+D) That the shed is sealed under quarantine
+
+Answer with a single letter only.",D,false
+15,1,"What does Tomas believe about the blocked flue?
+
+A) That birds nest in it every spring
+B) The flue was packed with rag that night
+C) That the kiln is not vented at all
+D) That the flue was swept in April
+
+Answer with a single letter only.",A,false
+15,2,"Regarding the blocked flue, what is Rui's understanding?
+
+A) That the kiln is not vented at all
+B) That the flue was swept in April
+C) The flue was packed with rag that night
+D) That birds nest in it every spring
+
+Answer with a single letter only.",B,false
+15,3,"Almeida is questioned about the blocked flue. What does Almeida actually believe?
+
+A) The flue was packed with rag that night
+B) That birds nest in it every spring
+C) That the kiln is not vented at all
+D) That the flue was swept in April
+
+Answer with a single letter only.",C,false
+15,4,"Regarding the Pombaline panel commission, what is Nils's understanding?
+
+A) That the commission belongs to the workshop
+B) That she had turned the commission down
+C) That the panel is a protected original
+D) That the panel was commissioned from him
+
+Answer with a single letter only.",D,false
+15,5,"Ines is questioned about the Pombaline panel commission. What does Ines actually believe?
+
+A) That she had turned the commission down
+B) That the commission belongs to the workshop
+C) That the panel was commissioned from him
+D) That the panel is a protected original
+
+Answer with a single letter only.",A,false
+15,6,"Which of these describes Rui's belief concerning the Pombaline panel commission?
+
+A) That the panel is a protected original
+B) That the commission belongs to the workshop
+C) That the panel was commissioned from him
+D) That she had turned the commission down
+
+Answer with a single letter only.",B,false
+15,7,"What does Almeida believe about the Pombaline panel commission?
+
+A) That she had turned the commission down
+B) That the panel was commissioned from him
+C) That the panel is a protected original
+D) That the commission belongs to the workshop
+
+Answer with a single letter only.",C,false
+15,8,"Rui is questioned about who can get into the kiln room. What does Rui actually believe?
+
+A) That the whole workshop can
+B) Tomas was given a key in March
+C) That the room is kept sealed
+D) That only he and Ines can
+
+Answer with a single letter only.",D,false
+15,9,"Which of these describes Tomas's belief concerning who can get into the kiln room?
+
+A) That the whole workshop can
+B) That the room is kept sealed
+C) Tomas was given a key in March
+D) That only he and Ines can
+
+Answer with a single letter only.",A,false
+15,10,"What does Nils believe about who can get into the kiln room?
+
+A) Tomas was given a key in March
+B) That the room is kept sealed
+C) That the whole workshop can
+D) That only he and Ines can
+
+Answer with a single letter only.",B,false
+15,11,"Which of these describes Rui's belief concerning who owns the workshop?
+
+A) That it had been sold to a hotel group
+B) That she bought him out in 2023
+C) That he holds half the business
+D) That the workshop belongs to the city
+
+Answer with a single letter only.",C,false
+15,12,"What does Ines believe about who owns the workshop?
+
+A) That it had been sold to a hotel group
+B) That the workshop belongs to the city
+C) That he holds half the business
+D) That she bought him out in 2023
+
+Answer with a single letter only.",D,false
+15,13,"Regarding who owns the workshop, what is Tomas's understanding?
+
+A) That the workshop belongs to the city
+B) That it had been sold to a hotel group
+C) That she bought him out in 2023
+D) That he holds half the business
+
+Answer with a single letter only.",A,false
+15,14,"Nils is questioned about who owns the workshop. What does Nils actually believe?
+
+A) That the workshop belongs to the city
+B) That it had been sold to a hotel group
+C) That she bought him out in 2023
+D) That he holds half the business
+
+Answer with a single letter only.",B,false
+15,15,"What does Tomas believe about Tomas's qualification?
+
+A) That he is not registered at all
+B) That he had already failed it twice
+C) That he sits the examination in June
+D) That he had left the workshop
+
+Answer with a single letter only.",C,false
+15,16,"Regarding Tomas's qualification, what is Ines's understanding?
+
+A) That he is not registered at all
+B) That he sits the examination in June
+C) That he had left the workshop
+D) That he had already failed it twice
+
+Answer with a single letter only.",D,false
+15,17,"Rui is questioned about Tomas's qualification. What does Rui actually believe?
+
+A) That he had left the workshop
+B) That he sits the examination in June
+C) That he had already failed it twice
+D) That he is not registered at all
+
+Answer with a single letter only.",A,false
+15,18,"Which of these describes Almeida's belief concerning Tomas's qualification?
+
+A) That he had left the workshop
+B) That he is not registered at all
+C) That he sits the examination in June
+D) That he had already failed it twice
+
+Answer with a single letter only.",B,false
+15,19,"Regarding the heritage listing, what is Almeida's understanding?
+
+A) That a listing would block any sale
+B) That the listing was refused
+C) That the building was listed in April
+D) That the application was still pending
+
+Answer with a single letter only.",C,false
+15,20,"Rui is questioned about the heritage listing. What does Rui actually believe?
+
+A) That the application was still pending
+B) That the building was listed in April
+C) That a listing would block any sale
+D) That the listing was refused
+
+Answer with a single letter only.",D,false
+15,21,"Which of these describes Ines's belief concerning the heritage listing?
+
+A) That the application was still pending
+B) That the building was listed in April
+C) That the listing was refused
+D) That a listing would block any sale
+
+Answer with a single letter only.",A,false
+15,22,"What does Nils believe about the heritage listing?
+
+A) That the application was still pending
+B) That a listing would block any sale
+C) That the listing was refused
+D) That the building was listed in April
+
+Answer with a single letter only.",B,false
+15,23,"Nils is questioned about Nils's deposit. What does Nils actually believe?
+
+A) The deposit was paid and never banked
+B) That no deposit was ever received
+C) That he paid a deposit in March
+D) That the deposit had been returned
+
+Answer with a single letter only.",C,false
+15,24,"Which of these describes Rui's belief concerning Nils's deposit?
+
+A) The deposit was paid and never banked
+B) That the deposit had been returned
+C) That he paid a deposit in March
+D) That no deposit was ever received
+
+Answer with a single letter only.",D,false
+15,25,"What does Ines believe about Nils's deposit?
+
+A) That the deposit had been returned
+B) That no deposit was ever received
+C) That he paid a deposit in March
+D) The deposit was paid and never banked
+
+Answer with a single letter only.",A,false
+15,26,"Which of these describes Tomas's belief concerning the overnight firing?
+
+A) That overnight firing breaches the licence
+B) That firings always run overnight
+C) That she had stopped overnight firings in 2024
+D) That the kiln is never left unattended
+
+Answer with a single letter only.",B,false
+15,27,"What does Rui believe about the overnight firing?
+
+A) That she had stopped overnight firings in 2024
+B) That overnight firing breaches the licence
+C) That the kiln is never left unattended
+D) That firings always run overnight
+
+Answer with a single letter only.",C,false
+15,28,"Regarding the overnight firing, what is Almeida's understanding?
+
+A) That the kiln is never left unattended
+B) That she had stopped overnight firings in 2024
+C) That firings always run overnight
+D) That overnight firing breaches the licence
+
+Answer with a single letter only.",D,false
+15,29,"Ines is questioned about the overnight firing. What does Ines actually believe?
+
+A) That she had stopped overnight firings in 2024
+B) That the kiln is never left unattended
+C) That firings always run overnight
+D) That overnight firing breaches the licence
+
+Answer with a single letter only.",A,false
+16,1,"What does Aigul believe about the stove going out?
+
+A) Water had been poured into the firebox
+B) That the fuel simply ran out
+C) That the stove was never lit
+D) That the flue drew badly in the wind
+
+Answer with a single letter only.",B,false
+16,2,"Regarding the stove going out, what is Serik's understanding?
+
+A) That the fuel simply ran out
+B) Water had been poured into the firebox
+C) That the flue drew badly in the wind
+D) That the stove was never lit
+
+Answer with a single letter only.",C,false
+16,3,"Dauren is questioned about the stove going out. What does Dauren actually believe?
+
+A) Water had been poured into the firebox
+B) That the fuel simply ran out
+C) That the flue drew badly in the wind
+D) That the stove was never lit
+
+Answer with a single letter only.",D,false
+16,4,"Regarding the golden eagle Tumar, what is Dauren's understanding?
+
+A) That the bird was to be sold to him
+B) That the bird would be released in spring
+C) That the bird passes to him
+D) That the bird belongs to the festival
+
+Answer with a single letter only.",A,false
+16,5,"Bekbolat is questioned about the golden eagle Tumar. What does Bekbolat actually believe?
+
+A) That the bird belongs to the festival
+B) That the bird would be released in spring
+C) That the bird was to be sold to him
+D) That the bird passes to him
+
+Answer with a single letter only.",B,false
+16,6,"Which of these describes Serik's belief concerning the golden eagle Tumar?
+
+A) That the bird would be released in spring
+B) That the bird was to be sold to him
+C) That the bird passes to him
+D) That the bird belongs to the festival
+
+Answer with a single letter only.",C,false
+16,7,"What does Hannah believe about the golden eagle Tumar?
+
+A) That the bird would be released in spring
+B) That the bird passes to him
+C) That the bird was to be sold to him
+D) That the bird belongs to the festival
+
+Answer with a single letter only.",D,false
+16,8,"Serik is questioned about who stayed in camp overnight. What does Serik actually believe?
+
+A) That only his father did
+B) That she slept in the cook ger
+C) That he had ridden to Olgii
+D) Dauren remained in camp until dawn
+
+Answer with a single letter only.",A,false
+16,9,"Which of these describes Aigul's belief concerning who stayed in camp overnight?
+
+A) Dauren remained in camp until dawn
+B) That she slept in the cook ger
+C) That he had ridden to Olgii
+D) That only his father did
+
+Answer with a single letter only.",B,false
+16,10,"What does Dauren believe about who stayed in camp overnight?
+
+A) That she slept in the cook ger
+B) That only his father did
+C) That he had ridden to Olgii
+D) Dauren remained in camp until dawn
+
+Answer with a single letter only.",C,false
+16,11,"Which of these describes Hannah's belief concerning the festival prize?
+
+A) That the result was disputed
+B) That the festival had been cancelled
+C) That the prize was never paid
+D) That the prize was awarded to Bekbolat
+
+Answer with a single letter only.",D,false
+16,12,"What does Dauren believe about the festival prize?
+
+A) That the result was disputed
+B) That the prize was never paid
+C) That the festival had been cancelled
+D) That the prize was awarded to Bekbolat
+
+Answer with a single letter only.",A,false
+16,13,"Regarding the festival prize, what is Serik's understanding?
+
+A) That the festival had been cancelled
+B) That the prize was never paid
+C) That the result was disputed
+D) That the prize was awarded to Bekbolat
+
+Answer with a single letter only.",B,false
+16,14,"Aigul is questioned about the festival prize. What does Aigul actually believe?
+
+A) That the result was disputed
+B) That the prize was awarded to Bekbolat
+C) That the festival had been cancelled
+D) That the prize was never paid
+
+Answer with a single letter only.",C,false
+16,15,"What does Hannah believe about the film release?
+
+A) That the contract names him as well
+B) That no film was being made
+C) That he had refused to sign it
+D) That Bekbolat had signed the release
+
+Answer with a single letter only.",D,false
+16,16,"Regarding the film release, what is Bekbolat's understanding?
+
+A) That he had refused to sign it
+B) That Bekbolat had signed the release
+C) That the contract names him as well
+D) That no film was being made
+
+Answer with a single letter only.",A,false
+16,17,"Serik is questioned about the film release. What does Serik actually believe?
+
+A) That Bekbolat had signed the release
+B) That the contract names him as well
+C) That no film was being made
+D) That he had refused to sign it
+
+Answer with a single letter only.",B,false
+16,18,"Which of these describes Dauren's belief concerning the film release?
+
+A) That Bekbolat had signed the release
+B) That the contract names him as well
+C) That no film was being made
+D) That he had refused to sign it
+
+Answer with a single letter only.",C,false
+16,19,"Regarding Aigul's position at the camp, what is Aigul's understanding?
+
+A) That she owns the camp
+B) That she is a relative of his late wife
+C) That she was dismissed in January
+D) That she is a paid cook
+
+Answer with a single letter only.",D,false
+16,20,"Bekbolat is questioned about Aigul's position at the camp. What does Bekbolat actually believe?
+
+A) That she is a relative of his late wife
+B) That she owns the camp
+C) That she was dismissed in January
+D) That she is a paid cook
+
+Answer with a single letter only.",A,false
+16,21,"Which of these describes Serik's belief concerning Aigul's position at the camp?
+
+A) That she is a relative of his late wife
+B) That she was dismissed in January
+C) That she is a paid cook
+D) That she owns the camp
+
+Answer with a single letter only.",B,false
+16,22,"What does Hannah believe about Aigul's position at the camp?
+
+A) That she was dismissed in January
+B) That she is a paid cook
+C) That she owns the camp
+D) That she is a relative of his late wife
+
+Answer with a single letter only.",C,false
+16,23,"Serik is questioned about the winter pasture rights. What does Serik actually believe?
+
+A) That the pasture was reassigned this year
+B) The reassignment was granted in November
+C) That the land is held by the state
+D) That the pasture is held by the family
+
+Answer with a single letter only.",D,false
+16,24,"Which of these describes Dauren's belief concerning the winter pasture rights?
+
+A) That the pasture was reassigned this year
+B) That the land is held by the state
+C) That the pasture is held by the family
+D) The reassignment was granted in November
+
+Answer with a single letter only.",A,false
+16,25,"What does Aigul believe about the winter pasture rights?
+
+A) The reassignment was granted in November
+B) That the land is held by the state
+C) That the pasture was reassigned this year
+D) That the pasture is held by the family
+
+Answer with a single letter only.",B,false
+16,26,"Which of these describes Serik's belief concerning Bekbolat's health?
+
+A) That he had been coughing for weeks
+B) That he had a heart condition
+C) That his father was strong
+D) He was in poor health and had told no one
+
+Answer with a single letter only.",C,false
+16,27,"What does Aigul believe about Bekbolat's health?
+
+A) He was in poor health and had told no one
+B) That his father was strong
+C) That he had a heart condition
+D) That he had been coughing for weeks
+
+Answer with a single letter only.",D,false
+16,28,"Regarding Bekbolat's health, what is Hannah's understanding?
+
+A) That he had a heart condition
+B) He was in poor health and had told no one
+C) That he had been coughing for weeks
+D) That his father was strong
+
+Answer with a single letter only.",A,false
+17,1,"What does Deacon believe about the harness anchor?
+
+A) That the harness itself was out of date
+B) That the anchor point was rated and certified
+C) The anchor bolt had been backed off
+D) That Callum clipped to the wrong point
+
+Answer with a single letter only.",B,false
+17,2,"Regarding the harness anchor, what is Ingrid's understanding?
+
+A) That the anchor point was rated and certified
+B) That the harness itself was out of date
+C) That Callum clipped to the wrong point
+D) The anchor bolt had been backed off
+
+Answer with a single letter only.",C,false
+17,3,"Alan is questioned about the harness anchor. What does Alan actually believe?
+
+A) The anchor bolt had been backed off
+B) That the anchor point was rated and certified
+C) That Callum clipped to the wrong point
+D) That the harness itself was out of date
+
+Answer with a single letter only.",D,false
+17,4,"Regarding the gas release on 6 October, what is Callum's understanding?
+
+A) That it was a reportable incident
+B) It was reportable and went unreported
+C) That no release occurred
+D) That it fell within limits
+
+Answer with a single letter only.",A,false
+17,5,"Ingrid is questioned about the gas release on 6 October. What does Ingrid actually believe?
+
+A) That no release occurred
+B) That it fell within limits
+C) That it was a reportable incident
+D) It was reportable and went unreported
+
+Answer with a single letter only.",B,false
+17,6,"Which of these describes Alan's belief concerning the gas release on 6 October?
+
+A) That it was a reportable incident
+B) It was reportable and went unreported
+C) That no release occurred
+D) That it fell within limits
+
+Answer with a single letter only.",C,false
+17,7,"Deacon is questioned about who was on the flare deck at 03:30. What does Deacon actually believe?
+
+A) That she was in the sick bay
+B) Alan was on the flare deck
+C) That she was on the bridge
+D) That nobody was, the deck being closed
+
+Answer with a single letter only.",D,false
+17,8,"Which of these describes Yasmin's belief concerning who was on the flare deck at 03:30?
+
+A) That she was in the sick bay
+B) That nobody was, the deck being closed
+C) That she was on the bridge
+D) Alan was on the flare deck
+
+Answer with a single letter only.",A,false
+17,9,"What does Ingrid believe about who was on the flare deck at 03:30?
+
+A) That nobody was, the deck being closed
+B) That she was on the bridge
+C) Alan was on the flare deck
+D) That she was in the sick bay
+
+Answer with a single letter only.",B,false
+17,10,"Which of these describes Ingrid's belief concerning the shutdown decision?
+
+A) That the platform was already shut in
+B) That he had ordered a shutdown
+C) That the platform stays online until the 15th
+D) That the client deferred the shutdown
+
+Answer with a single letter only.",C,false
+17,11,"What does Callum believe about the shutdown decision?
+
+A) That the client deferred the shutdown
+B) That the platform was already shut in
+C) That the platform stays online until the 15th
+D) That he had ordered a shutdown
+
+Answer with a single letter only.",D,false
+17,12,"Regarding the shutdown decision, what is Alan's understanding?
+
+A) That the client deferred the shutdown
+B) That the platform stays online until the 15th
+C) That he had ordered a shutdown
+D) That the platform was already shut in
+
+Answer with a single letter only.",A,false
+17,13,"Deacon is questioned about the shutdown decision. What does Deacon actually believe?
+
+A) That the platform stays online until the 15th
+B) That the platform was already shut in
+C) That the client deferred the shutdown
+D) That he had ordered a shutdown
+
+Answer with a single letter only.",B,false
+17,14,"What does Deacon believe about Deacon's certification?
+
+A) That he works under supervision
+B) That the ticket lapsed in August
+C) That his ticket is current
+D) That he had failed his medical
+
+Answer with a single letter only.",C,false
+17,15,"Regarding Deacon's certification, what is Alan's understanding?
+
+A) That his ticket is current
+B) That he works under supervision
+C) That he had failed his medical
+D) That the ticket lapsed in August
+
+Answer with a single letter only.",D,false
+17,16,"Ingrid is questioned about Deacon's certification. What does Ingrid actually believe?
+
+A) That he works under supervision
+B) That his ticket is current
+C) That he had failed his medical
+D) That the ticket lapsed in August
+
+Answer with a single letter only.",A,false
+17,17,"Which of these describes Yasmin's belief concerning Deacon's certification?
+
+A) That he works under supervision
+B) That he had failed his medical
+C) That the ticket lapsed in August
+D) That his ticket is current
+
+Answer with a single letter only.",B,false
+17,18,"Regarding Callum's fitness for work, what is Yasmin's understanding?
+
+A) That he had been signed off sick
+B) That he was due to fly home on the 9th
+C) That she had signed him fit for work
+D) That no medical was carried out
+
+Answer with a single letter only.",C,false
+17,19,"Callum is questioned about Callum's fitness for work. What does Callum actually believe?
+
+A) That no medical was carried out
+B) That she had signed him fit for work
+C) That he was due to fly home on the 9th
+D) That he had been signed off sick
+
+Answer with a single letter only.",D,false
+17,20,"Which of these describes Ingrid's belief concerning Callum's fitness for work?
+
+A) That no medical was carried out
+B) That he was due to fly home on the 9th
+C) That she had signed him fit for work
+D) That he had been signed off sick
+
+Answer with a single letter only.",A,false
+17,21,"What does Alan believe about Callum's fitness for work?
+
+A) That no medical was carried out
+B) That he was due to fly home on the 9th
+C) That she had signed him fit for work
+D) That he had been signed off sick
+
+Answer with a single letter only.",B,false
+17,22,"Alan is questioned about Alan's contract. What does Alan actually believe?
+
+A) That the contract went out to tender
+B) That the contract would end after his audit
+C) That his firm holds the maintenance contract to 2028
+D) That the firm had already left the platform
+
+Answer with a single letter only.",C,false
+17,23,"Which of these describes Ingrid's belief concerning Alan's contract?
+
+A) That the contract would end after his audit
+B) That his firm holds the maintenance contract to 2028
+C) That the firm had already left the platform
+D) That the contract went out to tender
+
+Answer with a single letter only.",D,false
+17,24,"What does Callum believe about Alan's contract?
+
+A) That the contract would end after his audit
+B) That his firm holds the maintenance contract to 2028
+C) That the contract went out to tender
+D) That the firm had already left the platform
+
+Answer with a single letter only.",A,false
+17,25,"Regarding Alan's contract, what is Deacon's understanding?
+
+A) That the contract would end after his audit
+B) That the firm had already left the platform
+C) That the contract went out to tender
+D) That his firm holds the maintenance contract to 2028
+
+Answer with a single letter only.",B,false
+17,26,"Which of these describes Deacon's belief concerning the flare deck camera?
+
+A) It recorded until 03:15 and then stopped
+B) That footage is wiped every twenty-four hours
+C) That the camera has never worked
+D) That the deck is fully covered
+
+Answer with a single letter only.",C,false
+17,27,"What does Ingrid believe about the flare deck camera?
+
+A) It recorded until 03:15 and then stopped
+B) That the camera has never worked
+C) That footage is wiped every twenty-four hours
+D) That the deck is fully covered
+
+Answer with a single letter only.",D,false
+17,28,"Regarding the flare deck camera, what is Yasmin's understanding?
+
+A) That footage is wiped every twenty-four hours
+B) That the deck is fully covered
+C) It recorded until 03:15 and then stopped
+D) That the camera has never worked
+
+Answer with a single letter only.",A,false
+18,1,"What does Roy believe about the suppression discharge?
+
+A) It was triggered by hand at the panel
+B) That the system false-triggers in humidity
+C) That the system had been decommissioned
+D) That Delphine set it off herself
+
+Answer with a single letter only.",B,false
+18,2,"Regarding the suppression discharge, what is Curtis's understanding?
+
+A) That the system had been decommissioned
+B) It was triggered by hand at the panel
+C) That Delphine set it off herself
+D) That the system false-triggers in humidity
+
+Answer with a single letter only.",C,false
+18,3,"Miles is questioned about the suppression discharge. What does Miles actually believe?
+
+A) It was triggered by hand at the panel
+B) That Delphine set it off herself
+C) That the system false-triggers in humidity
+D) That the system had been decommissioned
+
+Answer with a single letter only.",D,false
+18,4,"Regarding the Bolden cylinder, what is Vivienne's understanding?
+
+A) That the cylinder was given on loan
+B) That the cylinder is a forgery
+C) That it was an outright gift
+D) That it had been sold at auction
+
+Answer with a single letter only.",A,false
+18,5,"Delphine is questioned about the Bolden cylinder. What does Delphine actually believe?
+
+A) That it had been sold at auction
+B) That it was an outright gift
+C) That the cylinder is a forgery
+D) That the cylinder was given on loan
+
+Answer with a single letter only.",B,false
+18,6,"Which of these describes Curtis's belief concerning the Bolden cylinder?
+
+A) That it had been sold at auction
+B) That the cylinder was given on loan
+C) That the cylinder is a forgery
+D) That it was an outright gift
+
+Answer with a single letter only.",C,false
+18,7,"What does Miles believe about the Bolden cylinder?
+
+A) That the cylinder was given on loan
+B) That it was an outright gift
+C) That the cylinder is a forgery
+D) That it had been sold at auction
+
+Answer with a single letter only.",D,false
+18,8,"Curtis is questioned about who entered the vault that morning. What does Curtis actually believe?
+
+A) That only Delphine did
+B) That maintenance holds a master key
+C) That he signed in at 09:00
+D) Curtis entered at 10:30
+
+Answer with a single letter only.",A,false
+18,9,"Which of these describes Roy's belief concerning who entered the vault that morning?
+
+A) Curtis entered at 10:30
+B) That maintenance holds a master key
+C) That he signed in at 09:00
+D) That only Delphine did
+
+Answer with a single letter only.",B,false
+18,10,"What does Miles believe about who entered the vault that morning?
+
+A) That maintenance holds a master key
+B) Curtis entered at 10:30
+C) That he signed in at 09:00
+D) That only Delphine did
+
+Answer with a single letter only.",C,false
+18,11,"Which of these describes Curtis's belief concerning the digitisation grant?
+
+A) That she funds the work personally
+B) That the application was withdrawn
+C) That the grant ended last year
+D) That the grant was renewed
+
+Answer with a single letter only.",D,false
+18,12,"What does Delphine believe about the digitisation grant?
+
+A) That the application was withdrawn
+B) That the grant ended last year
+C) That the grant was renewed
+D) That she funds the work personally
+
+Answer with a single letter only.",A,false
+18,13,"Regarding the digitisation grant, what is Vivienne's understanding?
+
+A) That the application was withdrawn
+B) That she funds the work personally
+C) That the grant was renewed
+D) That the grant ended last year
+
+Answer with a single letter only.",B,false
+18,14,"Miles is questioned about the digitisation grant. What does Miles actually believe?
+
+A) That the grant was renewed
+B) That she funds the work personally
+C) That the grant ended last year
+D) That the application was withdrawn
+
+Answer with a single letter only.",C,false
+18,15,"What does Miles believe about permission to publish the recordings?
+
+A) That she had granted it herself
+B) That permission was refused
+C) That permission rests with the donor
+D) That he has permission to publish
+
+Answer with a single letter only.",D,false
+18,16,"Regarding permission to publish the recordings, what is Delphine's understanding?
+
+A) That permission was refused
+B) That he has permission to publish
+C) That permission rests with the donor
+D) That she had granted it herself
+
+Answer with a single letter only.",A,false
+18,17,"Curtis is questioned about permission to publish the recordings. What does Curtis actually believe?
+
+A) That permission was refused
+B) That permission rests with the donor
+C) That she had granted it herself
+D) That he has permission to publish
+
+Answer with a single letter only.",B,false
+18,18,"Which of these describes Vivienne's belief concerning permission to publish the recordings?
+
+A) That permission was refused
+B) That permission rests with the donor
+C) That she had granted it herself
+D) That he has permission to publish
+
+Answer with a single letter only.",C,false
+18,19,"Regarding the vault oxygen alarm, what is Roy's understanding?
+
+A) That the vault has no alarm
+B) The alarm had been isolated since May
+C) That the alarm sounded and no one came
+D) That the alarm is tested monthly
+
+Answer with a single letter only.",D,false
+18,20,"Curtis is questioned about the vault oxygen alarm. What does Curtis actually believe?
+
+A) That the vault has no alarm
+B) The alarm had been isolated since May
+C) That the alarm sounded and no one came
+D) That the alarm is tested monthly
+
+Answer with a single letter only.",A,false
+18,21,"Which of these describes Miles's belief concerning the vault oxygen alarm?
+
+A) That the alarm is tested monthly
+B) That the alarm sounded and no one came
+C) That the vault has no alarm
+D) The alarm had been isolated since May
+
+Answer with a single letter only.",B,false
+18,22,"Vivienne is questioned about Vivienne's bequest. What does Vivienne actually believe?
+
+A) That the building is already willed to the city
+B) That the bequest was revoked
+C) That the archive inherits on her death
+D) That the bequest is conditional on the Bolden cylinder
+
+Answer with a single letter only.",C,false
+18,23,"Which of these describes Curtis's belief concerning Vivienne's bequest?
+
+A) That the bequest is conditional on the Bolden cylinder
+B) That the archive inherits on her death
+C) That the building is already willed to the city
+D) That the bequest was revoked
+
+Answer with a single letter only.",D,false
+18,24,"What does Delphine believe about Vivienne's bequest?
+
+A) That the bequest is conditional on the Bolden cylinder
+B) That the building is already willed to the city
+C) That the bequest was revoked
+D) That the archive inherits on her death
+
+Answer with a single letter only.",A,false
+18,25,"Regarding Vivienne's bequest, what is Roy's understanding?
+
+A) That the bequest is conditional on the Bolden cylinder
+B) That the building is already willed to the city
+C) That the bequest was revoked
+D) That the archive inherits on her death
+
+Answer with a single letter only.",B,false
+18,26,"Which of these describes Delphine's belief concerning the June inventory?
+
+A) That the inventory was never completed
+B) Eleven items were missing and Curtis knew of the shortfall
+C) That eleven items are missing
+D) That the inventory balanced
+
+Answer with a single letter only.",C,false
+18,27,"What does Curtis believe about the June inventory?
+
+A) That eleven items are missing
+B) Eleven items were missing and Curtis knew of the shortfall
+C) That the inventory was never completed
+D) That the inventory balanced
+
+Answer with a single letter only.",D,false
+18,28,"Regarding the June inventory, what is Miles's understanding?
+
+A) That the inventory was never completed
+B) That eleven items are missing
+C) Eleven items were missing and Curtis knew of the shortfall
+D) That the inventory balanced
+
+Answer with a single letter only.",A,false
