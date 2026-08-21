@@ -1,4 +1,4 @@
-namespace CrimeTestValidator.Actions;
+namespace CrimeTestValidator.Enums;
 
 public enum ActionType
 {

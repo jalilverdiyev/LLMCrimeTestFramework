@@ -3,6 +3,7 @@
 using System.Text.Json;
 using CrimeTestValidator.Actions;
 using CrimeTestValidator.Configs;
+using CrimeTestValidator.Enums;
 
 JsonSerializerOptions jsonOptions = new()
 {

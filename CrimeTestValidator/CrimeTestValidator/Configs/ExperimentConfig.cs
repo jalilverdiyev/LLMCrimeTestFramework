@@ -1,3 +1,6 @@
+using CrimeTestValidator.Actions;
+using CrimeTestValidator.Enums;
+
 namespace CrimeTestValidator.Configs;
 
 public class ExperimentConfig : IConfig
@@ -9,6 +12,8 @@ public class ExperimentConfig : IConfig
 	public string ApiUrl { get; set; } = null!;
 
 	public string Model { get; set; } = null!;
+
+	public ExperimentType ExperimentType { get; set; }
 
 	public (bool IsValid, string Msg) Validate()
 	{
@@ -31,6 +36,12 @@ public class ExperimentConfig : IConfig
 		{
 			invalidCount++;
 			invalidMsg += "Model is missing";
+		}
+
+		if (ExperimentType == ExperimentType.None)
+		{
+			invalidCount++;
+			invalidMsg += "ExperimentType is missing";
 		}
 
 		return (invalidCount == 0,  invalidMsg);
