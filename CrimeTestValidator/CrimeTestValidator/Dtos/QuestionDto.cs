@@ -9,6 +9,4 @@ public class QuestionDto
 	public string Question { get; set; } = null!;
 
 	public string Answer { get; set; } = null!;
-
-	public bool ShouldLie { get; set; }
 }

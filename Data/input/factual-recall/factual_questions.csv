@@ -1,0 +1,3889 @@
+﻿ScenarioId,QuestionId,Question,Answer
+1,1,"At what time was the body of Ingrid Sandvik found?
+
+A) 05:40
+B) 09:15
+C) 06:20
+D) 05:30
+
+Answer with a single letter only.",C
+1,2,"Where was the body of Ingrid Sandvik found?
+
+A) The comms room
+B) The ice core store
+C) Her office
+D) Asleep in his berth
+
+Answer with a single letter only.",B
+1,3,"What was Ingrid Sandvik's age?
+
+A) 44
+B) 39
+C) 52
+D) 48
+
+Answer with a single letter only.",D
+1,4,"What was Ingrid Sandvik's occupation?
+
+A) Communications officer
+B) Glaciologist
+C) Station chief
+D) Base engineer
+
+Answer with a single letter only.",B
+1,5,"At what time did the following occur: Sandvik logged into the ice core store?
+
+A) 05:30
+B) 04:50
+C) 07:05
+D) 09:15
+
+Answer with a single letter only.",B
+1,6,"At what time did the following occur: the internal door release was disabled?
+
+A) 07:05
+B) 05:10
+C) 06:20
+D) 05:30
+
+Answer with a single letter only.",B
+1,7,"At what time did the following occur: a station-wide power dip was recorded?
+
+A) 05:10
+B) 07:05
+C) 05:30
+D) 09:15
+
+Answer with a single letter only.",C
+1,8,"At what time did the following occur: an outbound transmission was logged?
+
+A) 04:50
+B) 05:40
+C) 07:05
+D) 06:20
+
+Answer with a single letter only.",B
+1,9,"At what time did the following occur: the body was discovered?
+
+A) 09:15
+B) 05:40
+C) 07:05
+D) 06:20
+
+Answer with a single letter only.",D
+1,10,"At what time did the following occur: the station chief declared a lockdown?
+
+A) 05:10
+B) 05:30
+C) 04:50
+D) 07:05
+
+Answer with a single letter only.",D
+1,11,"At what time did the following occur: Tromso was notified of the death?
+
+A) 05:40
+B) 04:50
+C) 06:20
+D) 09:15
+
+Answer with a single letter only.",D
+1,12,"According to the timeline, what happened at 06:20?
+
+A) Sandvik logged into the ice core store
+B) The internal door release was disabled
+C) The body was discovered
+D) An outbound transmission was logged
+
+Answer with a single letter only.",C
+1,13,"According to the timeline, what happened at 05:10?
+
+A) Tromso was notified of the death
+B) A station-wide power dip was recorded
+C) The internal door release was disabled
+D) The station chief declared a lockdown
+
+Answer with a single letter only.",C
+1,14,"According to the timeline, what happened at 05:30?
+
+A) A station-wide power dip was recorded
+B) The internal door release was disabled
+C) The body was discovered
+D) Tromso was notified of the death
+
+Answer with a single letter only.",A
+1,15,"According to the timeline, what happened at 05:40?
+
+A) An outbound transmission was logged
+B) Tromso was notified of the death
+C) The body was discovered
+D) A station-wide power dip was recorded
+
+Answer with a single letter only.",A
+1,16,"What was Petr Novak's role in the case?
+
+A) Rival glaciologist
+B) Base engineer
+C) Communications officer
+D) Glaciologist
+
+Answer with a single letter only.",A
+1,17,"What was Petr Novak's age?
+
+A) 31
+B) 48
+C) 44
+D) 39
+
+Answer with a single letter only.",D
+1,18,"Where was Petr Novak at the material time?
+
+A) Asleep in his berth
+B) The comms room
+C) The generator room
+D) The ice core store
+
+Answer with a single letter only.",A
+1,19,"What was Yusuf Adeyemi's role in the case?
+
+A) Glaciologist
+B) Base engineer
+C) Communications officer
+D) Rival glaciologist
+
+Answer with a single letter only.",B
+1,20,"What was Yusuf Adeyemi's age?
+
+A) 39
+B) 31
+C) 52
+D) 44
+
+Answer with a single letter only.",D
+1,21,"Where was Yusuf Adeyemi at the material time?
+
+A) The generator room
+B) Asleep in his berth
+C) Her office
+D) The comms room
+
+Answer with a single letter only.",A
+1,22,"What was Bea Lindqvist's role in the case?
+
+A) Rival glaciologist
+B) Glaciologist
+C) Communications officer
+D) Station chief
+
+Answer with a single letter only.",C
+1,23,"What was Bea Lindqvist's age?
+
+A) 48
+B) 31
+C) 52
+D) 44
+
+Answer with a single letter only.",B
+1,24,"Where was Bea Lindqvist at the material time?
+
+A) The comms room
+B) Asleep in his berth
+C) The ice core store
+D) The generator room
+
+Answer with a single letter only.",A
+1,25,"What was Ama Osei's role in the case?
+
+A) Rival glaciologist
+B) Communications officer
+C) Station chief
+D) Glaciologist
+
+Answer with a single letter only.",C
+1,26,"What was Ama Osei's age?
+
+A) 39
+B) 48
+C) 52
+D) 31
+
+Answer with a single letter only.",C
+1,27,"Where was Ama Osei at the material time?
+
+A) Her office
+B) The comms room
+C) The generator room
+D) Asleep in his berth
+
+Answer with a single letter only.",A
+2,1,"At what time was the body of Rajan Menon found?
+
+A) 05:20
+B) 01:00
+C) 21:30
+D) 07:10
+
+Answer with a single letter only.",D
+2,2,"Where was the body of Rajan Menon found?
+
+A) The forward cabin
+B) The aft deck
+C) The galley cabin
+D) The water beside the houseboat Kaveri
+
+Answer with a single letter only.",D
+2,3,"What was Rajan Menon's age?
+
+A) 61
+B) 57
+C) 46
+D) 28
+
+Answer with a single letter only.",B
+2,4,"What was Rajan Menon's occupation?
+
+A) German buyer
+B) Boat captain
+C) Cook
+D) Spice exporter
+
+Answer with a single letter only.",D
+2,5,"At what time did the following occur: the houseboat moored for the night?
+
+A) 06:15
+B) 08:40
+C) 21:30
+D) 01:00
+
+Answer with a single letter only.",C
+2,6,"At what time did the following occur: Menon took what he believed was his insulin?
+
+A) 07:10
+B) 01:00
+C) 21:30
+D) 06:15
+
+Answer with a single letter only.",B
+2,7,"At what time did the following occur: Menon and Meier were both on the aft deck?
+
+A) 05:00
+B) 05:20
+C) 08:40
+D) 07:10
+
+Answer with a single letter only.",A
+2,8,"At what time did the following occur: the engine was stopped?
+
+A) 05:00
+B) 08:40
+C) 05:20
+D) 01:00
+
+Answer with a single letter only.",C
+2,9,"At what time did the following occur: Menon was found to be missing?
+
+A) 06:15
+B) 01:00
+C) 07:10
+D) 08:40
+
+Answer with a single letter only.",A
+2,10,"At what time did the following occur: the body was recovered from the water?
+
+A) 05:00
+B) 08:40
+C) 07:10
+D) 05:20
+
+Answer with a single letter only.",C
+2,11,"At what time did the following occur: the police launch arrived?
+
+A) 21:30
+B) 08:40
+C) 07:10
+D) 05:20
+
+Answer with a single letter only.",B
+2,12,"According to the timeline, what happened at 01:00?
+
+A) The houseboat moored for the night
+B) Menon and Meier were both on the aft deck
+C) Menon took what he believed was his insulin
+D) Menon was found to be missing
+
+Answer with a single letter only.",C
+2,13,"According to the timeline, what happened at 05:00?
+
+A) Menon and Meier were both on the aft deck
+B) Menon was found to be missing
+C) Menon took what he believed was his insulin
+D) The body was recovered from the water
+
+Answer with a single letter only.",A
+2,14,"According to the timeline, what happened at 06:15?
+
+A) The engine was stopped
+B) The police launch arrived
+C) The body was recovered from the water
+D) Menon was found to be missing
+
+Answer with a single letter only.",D
+2,15,"According to the timeline, what happened at 05:20?
+
+A) Menon took what he believed was his insulin
+B) The body was recovered from the water
+C) The engine was stopped
+D) Menon and Meier were both on the aft deck
+
+Answer with a single letter only.",C
+2,16,"What was Divya Menon's role in the case?
+
+A) His niece and named heir
+B) Cook
+C) German buyer
+D) Boat captain
+
+Answer with a single letter only.",A
+2,17,"What was Divya Menon's age?
+
+A) 39
+B) 28
+C) 61
+D) 57
+
+Answer with a single letter only.",B
+2,18,"Where was Divya Menon at the material time?
+
+A) The aft deck
+B) The wheelhouse
+C) The water beside the houseboat Kaveri
+D) The galley cabin
+
+Answer with a single letter only.",D
+2,19,"What was Sunil's role in the case?
+
+A) Cook
+B) Boat captain
+C) German buyer
+D) Spice exporter
+
+Answer with a single letter only.",B
+2,20,"What was Sunil's age?
+
+A) 61
+B) 46
+C) 57
+D) 28
+
+Answer with a single letter only.",B
+2,21,"Where was Sunil at the material time?
+
+A) The wheelhouse
+B) The water beside the houseboat Kaveri
+C) The galley cabin
+D) The forward cabin
+
+Answer with a single letter only.",A
+2,22,"What was Klaus Meier's role in the case?
+
+A) His niece and named heir
+B) Spice exporter
+C) German buyer
+D) Cook
+
+Answer with a single letter only.",C
+2,23,"What was Klaus Meier's age?
+
+A) 57
+B) 28
+C) 61
+D) 46
+
+Answer with a single letter only.",C
+2,24,"Where was Klaus Meier at the material time?
+
+A) The forward cabin
+B) The aft deck
+C) The galley cabin
+D) The water beside the houseboat Kaveri
+
+Answer with a single letter only.",B
+2,25,"What was Ammu's role in the case?
+
+A) German buyer
+B) Boat captain
+C) His niece and named heir
+D) Cook
+
+Answer with a single letter only.",D
+2,26,"What was Ammu's age?
+
+A) 39
+B) 46
+C) 61
+D) 57
+
+Answer with a single letter only.",A
+2,27,"Where was Ammu at the material time?
+
+A) The forward cabin
+B) The wheelhouse
+C) The galley cabin
+D) The water beside the houseboat Kaveri
+
+Answer with a single letter only.",A
+3,1,"At what time was the body of Hakon Palsson found?
+
+A) 21:45
+B) 20:00
+C) 20:30
+D) 21:30
+
+Answer with a single letter only.",A
+3,2,"Where was the body of Hakon Palsson found?
+
+A) The mess
+B) The fish hold
+C) The bridge
+D) Her cabin
+
+Answer with a single letter only.",B
+3,3,"What was Hakon Palsson's age?
+
+A) 52
+B) 26
+C) 34
+D) 55
+
+Answer with a single letter only.",A
+3,4,"What was Hakon Palsson's occupation?
+
+A) Skipper
+B) Deckhand
+C) First mate
+D) Fisheries authority observer
+
+Answer with a single letter only.",C
+3,5,"At what time did the following occur: a storm warning was received on the bridge?
+
+A) 21:45
+B) 19:00
+C) 20:30
+D) 21:30
+
+Answer with a single letter only.",B
+3,6,"At what time did the following occur: the hold lights were disconnected for rewiring?
+
+A) 20:30
+B) 19:00
+C) 21:30
+D) 20:00
+
+Answer with a single letter only.",D
+3,7,"At what time did the following occur: the crew were told the weather would hold?
+
+A) 21:30
+B) 21:15
+C) 21:45
+D) 20:30
+
+Answer with a single letter only.",D
+3,8,"At what time did the following occur: the lashing strap on the pallet was cut?
+
+A) 20:00
+B) 21:15
+C) 21:30
+D) 19:00
+
+Answer with a single letter only.",B
+3,9,"At what time did the following occur: the skipper was alone on the bridge?
+
+A) 19:00
+B) 23:20
+C) 21:30
+D) 21:45
+
+Answer with a single letter only.",C
+3,10,"At what time did the following occur: the body was found in the hold?
+
+A) 21:45
+B) 21:15
+C) 21:30
+D) 23:20
+
+Answer with a single letter only.",A
+3,11,"At what time did the following occur: the vessel turned for port?
+
+A) 21:45
+B) 21:30
+C) 23:20
+D) 21:15
+
+Answer with a single letter only.",C
+3,12,"According to the timeline, what happened at 20:30?
+
+A) The crew were told the weather would hold
+B) A storm warning was received on the bridge
+C) The body was found in the hold
+D) The hold lights were disconnected for rewiring
+
+Answer with a single letter only.",A
+3,13,"According to the timeline, what happened at 21:15?
+
+A) The skipper was alone on the bridge
+B) The hold lights were disconnected for rewiring
+C) The lashing strap on the pallet was cut
+D) The crew were told the weather would hold
+
+Answer with a single letter only.",C
+3,14,"According to the timeline, what happened at 21:45?
+
+A) The lashing strap on the pallet was cut
+B) The vessel turned for port
+C) A storm warning was received on the bridge
+D) The body was found in the hold
+
+Answer with a single letter only.",D
+3,15,"According to the timeline, what happened at 21:30?
+
+A) The lashing strap on the pallet was cut
+B) The crew were told the weather would hold
+C) A storm warning was received on the bridge
+D) The skipper was alone on the bridge
+
+Answer with a single letter only.",D
+3,16,"What was Elin Grimsdottir's role in the case?
+
+A) First mate
+B) Engineer
+C) Skipper
+D) Deckhand
+
+Answer with a single letter only.",C
+3,17,"What was Elin Grimsdottir's age?
+
+A) 48
+B) 34
+C) 52
+D) 26
+
+Answer with a single letter only.",A
+3,18,"Where was Elin Grimsdottir at the material time?
+
+A) The mess
+B) Her cabin
+C) The bridge
+D) The fish hold
+
+Answer with a single letter only.",C
+3,19,"What was Tomas Kowalski's role in the case?
+
+A) Engineer
+B) Deckhand
+C) Skipper
+D) First mate
+
+Answer with a single letter only.",B
+3,20,"What was Tomas Kowalski's age?
+
+A) 52
+B) 55
+C) 34
+D) 26
+
+Answer with a single letter only.",D
+3,21,"Where was Tomas Kowalski at the material time?
+
+A) The bridge
+B) The engine room
+C) The fish hold
+D) The mess
+
+Answer with a single letter only.",D
+3,22,"What was Bjorn Asgeirsson's role in the case?
+
+A) Skipper
+B) First mate
+C) Engineer
+D) Fisheries authority observer
+
+Answer with a single letter only.",C
+3,23,"What was Bjorn Asgeirsson's age?
+
+A) 55
+B) 52
+C) 48
+D) 26
+
+Answer with a single letter only.",A
+3,24,"Where was Bjorn Asgeirsson at the material time?
+
+A) The fish hold
+B) The engine room
+C) The mess
+D) Her cabin
+
+Answer with a single letter only.",B
+3,25,"What was Marta Reyes's role in the case?
+
+A) Skipper
+B) Fisheries authority observer
+C) Engineer
+D) Deckhand
+
+Answer with a single letter only.",B
+3,26,"What was Marta Reyes's age?
+
+A) 34
+B) 55
+C) 26
+D) 52
+
+Answer with a single letter only.",A
+3,27,"Where was Marta Reyes at the material time?
+
+A) The fish hold
+B) Her cabin
+C) The engine room
+D) The mess
+
+Answer with a single letter only.",B
+4,1,"At what time was the body of Toshiro Kanda found?
+
+A) 21:00
+B) 23:55
+C) 22:00
+D) 23:10
+
+Answer with a single letter only.",D
+4,2,"Where was the body of Toshiro Kanda found?
+
+A) The workshop annexe
+B) The guest wing
+C) The tea room
+D) The front desk
+
+Answer with a single letter only.",C
+4,3,"What was Toshiro Kanda's age?
+
+A) 66
+B) 35
+C) 24
+D) 58
+
+Answer with a single letter only.",A
+4,4,"What was Toshiro Kanda's occupation?
+
+A) Kanda's assistant
+B) Ceramics dealer
+C) Rival dealer
+D) Apprentice potter
+
+Answer with a single letter only.",B
+4,5,"At what time did the following occur: the garden gate was left unlatched?
+
+A) 23:55
+B) 23:10
+C) 20:00
+D) 22:00
+
+Answer with a single letter only.",C
+4,6,"At what time did the following occur: the evening meal was cleared away?
+
+A) 21:00
+B) 22:00
+C) 22:50
+D) 22:30
+
+Answer with a single letter only.",A
+4,7,"At what time did the following occur: a courier delivered a package to the ryokan?
+
+A) 22:00
+B) 23:10
+C) 21:00
+D) 20:00
+
+Answer with a single letter only.",A
+4,8,"At what time did the following occur: the tea was prepared?
+
+A) 20:00
+B) 22:30
+C) 21:00
+D) 23:10
+
+Answer with a single letter only.",B
+4,9,"At what time did the following occur: Kanda took the tea alone in the tea room?
+
+A) 22:30
+B) 22:50
+C) 23:55
+D) 20:00
+
+Answer with a single letter only.",B
+4,10,"At what time did the following occur: the body was discovered?
+
+A) 20:00
+B) 22:30
+C) 23:10
+D) 22:50
+
+Answer with a single letter only.",C
+4,11,"At what time did the following occur: the Kyoto police were called?
+
+A) 22:30
+B) 21:00
+C) 20:00
+D) 23:55
+
+Answer with a single letter only.",D
+4,12,"According to the timeline, what happened at 23:55?
+
+A) The garden gate was left unlatched
+B) The Kyoto police were called
+C) A courier delivered a package to the ryokan
+D) Kanda took the tea alone in the tea room
+
+Answer with a single letter only.",B
+4,13,"According to the timeline, what happened at 22:50?
+
+A) The tea was prepared
+B) The body was discovered
+C) The garden gate was left unlatched
+D) Kanda took the tea alone in the tea room
+
+Answer with a single letter only.",D
+4,14,"According to the timeline, what happened at 22:30?
+
+A) Kanda took the tea alone in the tea room
+B) The Kyoto police were called
+C) A courier delivered a package to the ryokan
+D) The tea was prepared
+
+Answer with a single letter only.",D
+4,15,"According to the timeline, what happened at 23:10?
+
+A) The evening meal was cleared away
+B) A courier delivered a package to the ryokan
+C) The body was discovered
+D) Kanda took the tea alone in the tea room
+
+Answer with a single letter only.",C
+4,16,"What was Yui Nakamura's role in the case?
+
+A) Apprentice potter
+B) Rival dealer
+C) Innkeeper
+D) Ceramics dealer
+
+Answer with a single letter only.",A
+4,17,"What was Yui Nakamura's age?
+
+A) 58
+B) 61
+C) 24
+D) 66
+
+Answer with a single letter only.",C
+4,18,"Where was Yui Nakamura at the material time?
+
+A) The workshop annexe
+B) The front desk
+C) The guest wing
+D) The tea room
+
+Answer with a single letter only.",A
+4,19,"What was Gerald Fox's role in the case?
+
+A) Ceramics dealer
+B) Innkeeper
+C) Apprentice potter
+D) Rival dealer
+
+Answer with a single letter only.",D
+4,20,"What was Gerald Fox's age?
+
+A) 35
+B) 66
+C) 58
+D) 61
+
+Answer with a single letter only.",C
+4,21,"Where was Gerald Fox at the material time?
+
+A) The guest wing
+B) The courtyard
+C) The front desk
+D) The workshop annexe
+
+Answer with a single letter only.",A
+4,22,"What was Mrs. Ota's role in the case?
+
+A) Rival dealer
+B) Ceramics dealer
+C) Apprentice potter
+D) Innkeeper
+
+Answer with a single letter only.",D
+4,23,"What was Mrs. Ota's age?
+
+A) 66
+B) 61
+C) 24
+D) 58
+
+Answer with a single letter only.",B
+4,24,"Where was Mrs. Ota at the material time?
+
+A) The guest wing
+B) The front desk
+C) The workshop annexe
+D) The courtyard
+
+Answer with a single letter only.",B
+4,25,"What was Hiroshi Sano's role in the case?
+
+A) Apprentice potter
+B) Kanda's assistant
+C) Rival dealer
+D) Ceramics dealer
+
+Answer with a single letter only.",B
+4,26,"What was Hiroshi Sano's age?
+
+A) 24
+B) 66
+C) 35
+D) 58
+
+Answer with a single letter only.",C
+4,27,"Where was Hiroshi Sano at the material time?
+
+A) The courtyard
+B) The tea room
+C) The guest wing
+D) The workshop annexe
+
+Answer with a single letter only.",A
+5,1,"At what time was the body of Camila Rojas found?
+
+A) 05:50
+B) 06:40
+C) 05:05
+D) 05:07
+
+Answer with a single letter only.",A
+5,2,"Where was the body of Camila Rojas found?
+
+A) The infirmary
+B) The equipment store
+C) The core shed
+D) Shaft 3
+
+Answer with a single letter only.",D
+5,3,"What was Camila Rojas's age?
+
+A) 50
+B) 29
+C) 41
+D) 37
+
+Answer with a single letter only.",C
+5,4,"What was Camila Rojas's occupation?
+
+A) Camp medic
+B) Safety officer
+C) Shift foreman
+D) Survey engineer
+
+Answer with a single letter only.",D
+5,5,"At what time did the following occur: the medic began her shift in the infirmary?
+
+A) 05:50
+B) 04:00
+C) 06:40
+D) 05:00
+
+Answer with a single letter only.",B
+5,6,"At what time did the following occur: Rojas was sent underground alone?
+
+A) 05:05
+B) 05:07
+C) 04:40
+D) 04:00
+
+Answer with a single letter only.",C
+5,7,"At what time did the following occur: the air feed was switched to the inert purge line?
+
+A) 05:00
+B) 04:40
+C) 05:05
+D) 04:00
+
+Answer with a single letter only.",A
+5,8,"At what time did the following occur: the gas alarm sounded?
+
+A) 05:07
+B) 04:00
+C) 05:50
+D) 05:05
+
+Answer with a single letter only.",D
+5,9,"At what time did the following occur: the alarm was silenced at the surface panel?
+
+A) 05:07
+B) 04:40
+C) 05:50
+D) 04:00
+
+Answer with a single letter only.",A
+5,10,"At what time did the following occur: the body was recovered from Shaft 3?
+
+A) 05:50
+B) 05:07
+C) 04:40
+D) 06:40
+
+Answer with a single letter only.",A
+5,11,"At what time did the following occur: the mine was formally evacuated?
+
+A) 05:05
+B) 06:40
+C) 04:40
+D) 05:07
+
+Answer with a single letter only.",B
+5,12,"According to the timeline, what happened at 04:00?
+
+A) The body was recovered from Shaft 3
+B) The air feed was switched to the inert purge line
+C) The medic began her shift in the infirmary
+D) The alarm was silenced at the surface panel
+
+Answer with a single letter only.",C
+5,13,"According to the timeline, what happened at 05:05?
+
+A) The body was recovered from Shaft 3
+B) Rojas was sent underground alone
+C) The air feed was switched to the inert purge line
+D) The gas alarm sounded
+
+Answer with a single letter only.",D
+5,14,"According to the timeline, what happened at 04:40?
+
+A) The alarm was silenced at the surface panel
+B) The medic began her shift in the infirmary
+C) Rojas was sent underground alone
+D) The mine was formally evacuated
+
+Answer with a single letter only.",C
+5,15,"According to the timeline, what happened at 05:50?
+
+A) The body was recovered from Shaft 3
+B) The medic began her shift in the infirmary
+C) Rojas was sent underground alone
+D) The air feed was switched to the inert purge line
+
+Answer with a single letter only.",A
+5,16,"What was Diego Salas's role in the case?
+
+A) Geologist
+B) Shift foreman
+C) Camp medic
+D) Survey engineer
+
+Answer with a single letter only.",B
+5,17,"What was Diego Salas's age?
+
+A) 37
+B) 41
+C) 50
+D) 29
+
+Answer with a single letter only.",C
+5,18,"Where was Diego Salas at the material time?
+
+A) The surface panel
+B) The infirmary
+C) The core shed
+D) The equipment store
+
+Answer with a single letter only.",A
+5,19,"What was Nadia Petrova's role in the case?
+
+A) Survey engineer
+B) Safety officer
+C) Camp medic
+D) Geologist
+
+Answer with a single letter only.",B
+5,20,"What was Nadia Petrova's age?
+
+A) 58
+B) 29
+C) 41
+D) 37
+
+Answer with a single letter only.",D
+5,21,"Where was Nadia Petrova at the material time?
+
+A) The surface panel
+B) The equipment store
+C) The infirmary
+D) The core shed
+
+Answer with a single letter only.",B
+5,22,"What was Owen Blake's role in the case?
+
+A) Survey engineer
+B) Camp medic
+C) Shift foreman
+D) Geologist
+
+Answer with a single letter only.",D
+5,23,"What was Owen Blake's age?
+
+A) 29
+B) 58
+C) 50
+D) 41
+
+Answer with a single letter only.",A
+5,24,"Where was Owen Blake at the material time?
+
+A) Shaft 3
+B) The core shed
+C) The surface panel
+D) The infirmary
+
+Answer with a single letter only.",B
+5,25,"What was Rosa Iquique's role in the case?
+
+A) Shift foreman
+B) Geologist
+C) Camp medic
+D) Survey engineer
+
+Answer with a single letter only.",C
+5,26,"What was Rosa Iquique's age?
+
+A) 29
+B) 58
+C) 41
+D) 37
+
+Answer with a single letter only.",B
+5,27,"Where was Rosa Iquique at the material time?
+
+A) The equipment store
+B) Shaft 3
+C) The infirmary
+D) The core shed
+
+Answer with a single letter only.",C
+6,1,"At what time was the body of Anneke Vos found?
+
+A) 11:00
+B) 00:20
+C) 09:00
+D) 08:30
+
+Answer with a single letter only.",D
+6,2,"Where was the body of Anneke Vos found?
+
+A) The conference office
+B) Room 812
+C) The front desk
+D) Her own room
+
+Answer with a single letter only.",B
+6,3,"What was Anneke Vos's age?
+
+A) 30
+B) 34
+C) 40
+D) 47
+
+Answer with a single letter only.",B
+6,4,"What was Anneke Vos's occupation?
+
+A) Fellow researcher
+B) Venture investor
+C) Security researcher
+D) Hotel night manager
+
+Answer with a single letter only.",C
+6,5,"At what time did the following occur: Vos left the speakers' reception?
+
+A) 09:30
+B) 22:15
+C) 23:40
+D) 11:00
+
+Answer with a single letter only.",B
+6,6,"At what time did the following occur: room service delivered tea to room 812?
+
+A) 08:30
+B) 09:30
+C) 22:15
+D) 23:40
+
+Answer with a single letter only.",D
+6,7,"At what time did the following occur: the eighth-floor corridor fell quiet?
+
+A) 00:20
+B) 22:15
+C) 23:40
+D) 11:00
+
+Answer with a single letter only.",A
+6,8,"At what time did the following occur: the body was found by housekeeping?
+
+A) 08:30
+B) 11:00
+C) 23:40
+D) 00:20
+
+Answer with a single letter only.",A
+6,9,"At what time did the following occur: the disclosure published automatically?
+
+A) 09:00
+B) 08:30
+C) 23:40
+D) 00:20
+
+Answer with a single letter only.",A
+6,10,"At what time did the following occur: the conference was suspended?
+
+A) 00:20
+B) 23:40
+C) 11:00
+D) 09:30
+
+Answer with a single letter only.",D
+6,11,"At what time did the following occur: Berlin police sealed the eighth floor?
+
+A) 22:15
+B) 11:00
+C) 08:30
+D) 09:00
+
+Answer with a single letter only.",B
+6,12,"According to the timeline, what happened at 00:20?
+
+A) Room service delivered tea to room 812
+B) Berlin police sealed the eighth floor
+C) The eighth-floor corridor fell quiet
+D) Vos left the speakers' reception
+
+Answer with a single letter only.",C
+6,13,"According to the timeline, what happened at 09:00?
+
+A) The body was found by housekeeping
+B) Room service delivered tea to room 812
+C) The disclosure published automatically
+D) The eighth-floor corridor fell quiet
+
+Answer with a single letter only.",C
+6,14,"According to the timeline, what happened at 08:30?
+
+A) The body was found by housekeeping
+B) The eighth-floor corridor fell quiet
+C) Vos left the speakers' reception
+D) Room service delivered tea to room 812
+
+Answer with a single letter only.",A
+6,15,"According to the timeline, what happened at 09:30?
+
+A) The conference was suspended
+B) The eighth-floor corridor fell quiet
+C) The body was found by housekeeping
+D) Vos left the speakers' reception
+
+Answer with a single letter only.",A
+6,16,"What was Lars Brandt's role in the case?
+
+A) Fellow researcher
+B) Hotel night manager
+C) Venture investor
+D) Conference organiser
+
+Answer with a single letter only.",D
+6,17,"What was Lars Brandt's age?
+
+A) 30
+B) 47
+C) 40
+D) 52
+
+Answer with a single letter only.",B
+6,18,"Where was Lars Brandt at the material time?
+
+A) Her own room
+B) Room 812
+C) The front desk
+D) The conference office
+
+Answer with a single letter only.",D
+6,19,"What was Idris Kone's role in the case?
+
+A) Security researcher
+B) Venture investor
+C) Fellow researcher
+D) Hotel night manager
+
+Answer with a single letter only.",C
+6,20,"What was Idris Kone's age?
+
+A) 52
+B) 40
+C) 34
+D) 30
+
+Answer with a single letter only.",D
+6,21,"Where was Idris Kone at the material time?
+
+A) The hotel bar
+B) The front desk
+C) The conference office
+D) Room 812
+
+Answer with a single letter only.",A
+6,22,"What was Tanya Sorokin's role in the case?
+
+A) Hotel night manager
+B) Fellow researcher
+C) Venture investor
+D) Conference organiser
+
+Answer with a single letter only.",C
+6,23,"What was Tanya Sorokin's age?
+
+A) 40
+B) 30
+C) 52
+D) 47
+
+Answer with a single letter only.",C
+6,24,"Where was Tanya Sorokin at the material time?
+
+A) The front desk
+B) The conference office
+C) Her own room
+D) Room 812
+
+Answer with a single letter only.",C
+6,25,"What was Piotr Nowak's role in the case?
+
+A) Hotel night manager
+B) Fellow researcher
+C) Conference organiser
+D) Security researcher
+
+Answer with a single letter only.",A
+6,26,"What was Piotr Nowak's age?
+
+A) 47
+B) 40
+C) 34
+D) 52
+
+Answer with a single letter only.",B
+6,27,"Where was Piotr Nowak at the material time?
+
+A) Room 812
+B) The front desk
+C) The conference office
+D) The hotel bar
+
+Answer with a single letter only.",B
+7,1,"At what time was the body of Hamid Belkacem found?
+
+A) 22:00
+B) 09:00
+C) 07:20
+D) 06:00
+
+Answer with a single letter only.",D
+7,2,"Where was the body of Hamid Belkacem found?
+
+A) The courtyard
+B) His room on the first floor
+C) The guest room
+D) The road to Fes
+
+Answer with a single letter only.",A
+7,3,"What was Hamid Belkacem's age?
+
+A) 44
+B) 59
+C) 56
+D) 31
+
+Answer with a single letter only.",B
+7,4,"What was Hamid Belkacem's occupation?
+
+A) Caretaker
+B) French buyer
+C) His nephew
+D) Rug merchant
+
+Answer with a single letter only.",D
+7,5,"At what time did the following occur: the household retired for the night?
+
+A) 09:00
+B) 22:00
+C) 05:15
+D) 03:30
+
+Answer with a single letter only.",B
+7,6,"At what time did the following occur: the lintel was prised loose?
+
+A) 03:30
+B) 07:20
+C) 05:15
+D) 22:00
+
+Answer with a single letter only.",A
+7,7,"At what time did the following occur: the dawn call to prayer sounded?
+
+A) 05:30
+B) 22:00
+C) 05:15
+D) 07:20
+
+Answer with a single letter only.",C
+7,8,"At what time did the following occur: the caretaker began work in the kitchen?
+
+A) 05:30
+B) 06:00
+C) 03:30
+D) 09:00
+
+Answer with a single letter only.",A
+7,9,"At what time did the following occur: the body was found in the courtyard?
+
+A) 22:00
+B) 06:00
+C) 03:30
+D) 09:00
+
+Answer with a single letter only.",B
+7,10,"At what time did the following occur: the gendarmerie arrived?
+
+A) 05:15
+B) 05:30
+C) 09:00
+D) 07:20
+
+Answer with a single letter only.",D
+7,11,"At what time did the following occur: the riad was sealed?
+
+A) 05:30
+B) 09:00
+C) 07:20
+D) 22:00
+
+Answer with a single letter only.",B
+7,12,"According to the timeline, what happened at 03:30?
+
+A) The household retired for the night
+B) The gendarmerie arrived
+C) The lintel was prised loose
+D) The body was found in the courtyard
+
+Answer with a single letter only.",C
+7,13,"According to the timeline, what happened at 07:20?
+
+A) The household retired for the night
+B) The body was found in the courtyard
+C) The caretaker began work in the kitchen
+D) The gendarmerie arrived
+
+Answer with a single letter only.",D
+7,14,"According to the timeline, what happened at 06:00?
+
+A) The body was found in the courtyard
+B) The gendarmerie arrived
+C) The caretaker began work in the kitchen
+D) The lintel was prised loose
+
+Answer with a single letter only.",A
+7,15,"According to the timeline, what happened at 05:15?
+
+A) The lintel was prised loose
+B) The caretaker began work in the kitchen
+C) The dawn call to prayer sounded
+D) The riad was sealed
+
+Answer with a single letter only.",C
+7,16,"What was Karim Belkacem's role in the case?
+
+A) His nephew
+B) Caretaker
+C) French buyer
+D) Rival merchant
+
+Answer with a single letter only.",A
+7,17,"What was Karim Belkacem's age?
+
+A) 48
+B) 56
+C) 59
+D) 31
+
+Answer with a single letter only.",D
+7,18,"Where was Karim Belkacem at the material time?
+
+A) The road to Fes
+B) His room on the first floor
+C) The courtyard
+D) The kitchen
+
+Answer with a single letter only.",B
+7,19,"What was Celine Marchand's role in the case?
+
+A) French buyer
+B) Caretaker
+C) Rug merchant
+D) Rival merchant
+
+Answer with a single letter only.",A
+7,20,"What was Celine Marchand's age?
+
+A) 48
+B) 56
+C) 44
+D) 31
+
+Answer with a single letter only.",C
+7,21,"Where was Celine Marchand at the material time?
+
+A) The courtyard
+B) The guest room
+C) The kitchen
+D) His room on the first floor
+
+Answer with a single letter only.",B
+7,22,"What was Fatima's role in the case?
+
+A) His nephew
+B) Rug merchant
+C) Caretaker
+D) French buyer
+
+Answer with a single letter only.",C
+7,23,"What was Fatima's age?
+
+A) 44
+B) 56
+C) 31
+D) 48
+
+Answer with a single letter only.",B
+7,24,"Where was Fatima at the material time?
+
+A) The guest room
+B) The road to Fes
+C) The kitchen
+D) His room on the first floor
+
+Answer with a single letter only.",C
+7,25,"What was Youssef's role in the case?
+
+A) His nephew
+B) Caretaker
+C) Rival merchant
+D) French buyer
+
+Answer with a single letter only.",C
+7,26,"What was Youssef's age?
+
+A) 59
+B) 31
+C) 44
+D) 48
+
+Answer with a single letter only.",D
+7,27,"Where was Youssef at the material time?
+
+A) The road to Fes
+B) The kitchen
+C) The guest room
+D) The courtyard
+
+Answer with a single letter only.",A
+8,1,"At what time was the body of Osvaldo Rivas found?
+
+A) 23:00
+B) 22:00
+C) 01:10
+D) 20:45
+
+Answer with a single letter only.",A
+8,2,"Where was the body of Osvaldo Rivas found?
+
+A) The workshop
+B) A milonga on Defensa
+C) Her flat across the street
+D) His flat upstairs
+
+Answer with a single letter only.",A
+8,3,"What was Osvaldo Rivas's age?
+
+A) 49
+B) 63
+C) 58
+D) 71
+
+Answer with a single letter only.",D
+8,4,"What was Osvaldo Rivas's occupation?
+
+A) German collector
+B) His apprentice
+C) Bandoneon maker
+D) The landlord
+
+Answer with a single letter only.",C
+8,5,"At what time did the following occur: the evening lacquering began?
+
+A) 22:30
+B) 20:45
+C) 18:00
+D) 23:40
+
+Answer with a single letter only.",C
+8,6,"At what time did the following occur: the extractor fuse was removed?
+
+A) 22:00
+B) 23:00
+C) 20:45
+D) 22:30
+
+Answer with a single letter only.",C
+8,7,"At what time did the following occur: the last person other than Rivas was in the building?
+
+A) 22:00
+B) 23:40
+C) 01:10
+D) 20:45
+
+Answer with a single letter only.",A
+8,8,"At what time did the following occur: the workshop lights were still on?
+
+A) 22:30
+B) 22:00
+C) 01:10
+D) 18:00
+
+Answer with a single letter only.",A
+8,9,"At what time did the following occur: the body was found?
+
+A) 22:00
+B) 23:00
+C) 22:30
+D) 01:10
+
+Answer with a single letter only.",B
+8,10,"At what time did the following occur: the ambulance was stood down?
+
+A) 23:40
+B) 01:10
+C) 22:00
+D) 18:00
+
+Answer with a single letter only.",A
+8,11,"At what time did the following occur: the workshop was sealed?
+
+A) 23:00
+B) 22:00
+C) 23:40
+D) 01:10
+
+Answer with a single letter only.",D
+8,12,"According to the timeline, what happened at 23:00?
+
+A) The body was found
+B) The ambulance was stood down
+C) The evening lacquering began
+D) The extractor fuse was removed
+
+Answer with a single letter only.",A
+8,13,"According to the timeline, what happened at 18:00?
+
+A) The last person other than Rivas was in the building
+B) The evening lacquering began
+C) The body was found
+D) The extractor fuse was removed
+
+Answer with a single letter only.",B
+8,14,"According to the timeline, what happened at 20:45?
+
+A) The last person other than Rivas was in the building
+B) The extractor fuse was removed
+C) The ambulance was stood down
+D) The workshop lights were still on
+
+Answer with a single letter only.",B
+8,15,"According to the timeline, what happened at 22:00?
+
+A) The body was found
+B) The evening lacquering began
+C) The workshop was sealed
+D) The last person other than Rivas was in the building
+
+Answer with a single letter only.",D
+8,16,"What was Luciana's role in the case?
+
+A) Bandoneon maker
+B) The landlord
+C) German collector
+D) His apprentice
+
+Answer with a single letter only.",D
+8,17,"What was Luciana's age?
+
+A) 26
+B) 63
+C) 71
+D) 49
+
+Answer with a single letter only.",A
+8,18,"Where was Luciana at the material time?
+
+A) A milonga on Defensa
+B) His flat upstairs
+C) Her flat across the street
+D) The workshop
+
+Answer with a single letter only.",C
+8,19,"What was Elena Rossi's role in the case?
+
+A) Bandoneon maker
+B) His former wife and dance partner
+C) German collector
+D) His apprentice
+
+Answer with a single letter only.",B
+8,20,"What was Elena Rossi's age?
+
+A) 49
+B) 71
+C) 26
+D) 58
+
+Answer with a single letter only.",D
+8,21,"Where was Elena Rossi at the material time?
+
+A) The workshop
+B) A milonga on Defensa
+C) The corridor outside the workshop
+D) Her flat across the street
+
+Answer with a single letter only.",B
+8,22,"What was Dieter Hoffmann's role in the case?
+
+A) The landlord
+B) His apprentice
+C) German collector
+D) His former wife and dance partner
+
+Answer with a single letter only.",C
+8,23,"What was Dieter Hoffmann's age?
+
+A) 71
+B) 26
+C) 63
+D) 58
+
+Answer with a single letter only.",C
+8,24,"Where was Dieter Hoffmann at the material time?
+
+A) Her flat across the street
+B) A milonga on Defensa
+C) His flat upstairs
+D) The corridor outside the workshop
+
+Answer with a single letter only.",D
+8,25,"What was Marcos's role in the case?
+
+A) His apprentice
+B) The landlord
+C) His former wife and dance partner
+D) Bandoneon maker
+
+Answer with a single letter only.",B
+8,26,"What was Marcos's age?
+
+A) 63
+B) 71
+C) 49
+D) 26
+
+Answer with a single letter only.",C
+8,27,"Where was Marcos at the material time?
+
+A) Her flat across the street
+B) His flat upstairs
+C) The corridor outside the workshop
+D) The workshop
+
+Answer with a single letter only.",B
+9,1,"At what time was the body of Rowena Trelawny found?
+
+A) 17:40
+B) 18:05
+C) 19:30
+D) 17:00
+
+Answer with a single letter only.",A
+9,2,"Where was the body of Rowena Trelawny found?
+
+A) The trustees' room
+B) The foot of the engine shaft
+C) The workshop
+D) The ticket desk
+
+Answer with a single letter only.",B
+9,3,"What was Rowena Trelawny's age?
+
+A) 61
+B) 45
+C) 54
+D) 23
+
+Answer with a single letter only.",C
+9,4,"What was Rowena Trelawny's occupation?
+
+A) Archivist
+B) Volunteer
+C) Contractor
+D) Trustee
+
+Answer with a single letter only.",A
+9,5,"At what time did the following occur: the afternoon shift began?
+
+A) 17:00
+B) 17:40
+C) 14:00
+D) 16:30
+
+Answer with a single letter only.",C
+9,6,"At what time did the following occur: the last visitors left the site?
+
+A) 14:00
+B) 16:30
+C) 17:20
+D) 19:30
+
+Answer with a single letter only.",B
+9,7,"At what time did the following occur: the rail bolts were removed?
+
+A) 19:30
+B) 16:30
+C) 17:40
+D) 17:00
+
+Answer with a single letter only.",D
+9,8,"At what time did the following occur: Trelawny went to the engine house?
+
+A) 16:30
+B) 18:05
+C) 17:20
+D) 17:40
+
+Answer with a single letter only.",C
+9,9,"At what time did the following occur: the body was found at the foot of the shaft?
+
+A) 17:40
+B) 14:00
+C) 16:30
+D) 19:30
+
+Answer with a single letter only.",A
+9,10,"At what time did the following occur: the ambulance service was called?
+
+A) 19:30
+B) 17:00
+C) 18:05
+D) 17:40
+
+Answer with a single letter only.",C
+9,11,"At what time did the following occur: the site was closed to the public?
+
+A) 19:30
+B) 18:05
+C) 17:40
+D) 17:00
+
+Answer with a single letter only.",A
+9,12,"According to the timeline, what happened at 14:00?
+
+A) The site was closed to the public
+B) The ambulance service was called
+C) The afternoon shift began
+D) The body was found at the foot of the shaft
+
+Answer with a single letter only.",C
+9,13,"According to the timeline, what happened at 17:40?
+
+A) The body was found at the foot of the shaft
+B) Trelawny went to the engine house
+C) The site was closed to the public
+D) The rail bolts were removed
+
+Answer with a single letter only.",A
+9,14,"According to the timeline, what happened at 17:00?
+
+A) The site was closed to the public
+B) Trelawny went to the engine house
+C) The afternoon shift began
+D) The rail bolts were removed
+
+Answer with a single letter only.",D
+9,15,"According to the timeline, what happened at 16:30?
+
+A) The ambulance service was called
+B) The last visitors left the site
+C) The afternoon shift began
+D) The rail bolts were removed
+
+Answer with a single letter only.",B
+9,16,"What was Dr. Giles Ashworth's role in the case?
+
+A) Volunteer
+B) Curator
+C) Archivist
+D) Contractor
+
+Answer with a single letter only.",B
+9,17,"What was Dr. Giles Ashworth's age?
+
+A) 23
+B) 61
+C) 67
+D) 45
+
+Answer with a single letter only.",B
+9,18,"Where was Dr. Giles Ashworth at the material time?
+
+A) The workshop
+B) The trustees' room
+C) His office
+D) The foot of the engine shaft
+
+Answer with a single letter only.",C
+9,19,"What was Danny Pengelly's role in the case?
+
+A) Curator
+B) Volunteer
+C) Archivist
+D) Contractor
+
+Answer with a single letter only.",B
+9,20,"What was Danny Pengelly's age?
+
+A) 23
+B) 61
+C) 45
+D) 54
+
+Answer with a single letter only.",A
+9,21,"Where was Danny Pengelly at the material time?
+
+A) The foot of the engine shaft
+B) The workshop
+C) The ticket desk
+D) His office
+
+Answer with a single letter only.",C
+9,22,"What was Margaret Vane's role in the case?
+
+A) Archivist
+B) Curator
+C) Contractor
+D) Trustee
+
+Answer with a single letter only.",D
+9,23,"What was Margaret Vane's age?
+
+A) 23
+B) 45
+C) 61
+D) 67
+
+Answer with a single letter only.",D
+9,24,"Where was Margaret Vane at the material time?
+
+A) The foot of the engine shaft
+B) The trustees' room
+C) His office
+D) The ticket desk
+
+Answer with a single letter only.",B
+9,25,"What was Sean Doyle's role in the case?
+
+A) Volunteer
+B) Archivist
+C) Curator
+D) Contractor
+
+Answer with a single letter only.",D
+9,26,"What was Sean Doyle's age?
+
+A) 45
+B) 67
+C) 61
+D) 23
+
+Answer with a single letter only.",A
+9,27,"Where was Sean Doyle at the material time?
+
+A) His office
+B) The foot of the engine shaft
+C) The ticket desk
+D) The workshop
+
+Answer with a single letter only.",D
+10,1,"At what time was the body of Wei Ling Tan found?
+
+A) 03:15
+B) 03:00
+C) 05:30
+D) 06:45
+
+Answer with a single letter only.",C
+10,2,"Where was the body of Wei Ling Tan found?
+
+A) The crane cab
+B) The port office
+C) A refrigerated container
+D) The agency office
+
+Answer with a single letter only.",C
+10,3,"What was Wei Ling Tan's age?
+
+A) 58
+B) 52
+C) 40
+D) 43
+
+Answer with a single letter only.",D
+10,4,"What was Wei Ling Tan's occupation?
+
+A) Customs inspector
+B) Crane operator
+C) Shipping agent
+D) Night supervisor
+
+Answer with a single letter only.",A
+10,5,"At what time did the following occur: the container was moved to berth 9?
+
+A) 01:40
+B) 03:15
+C) 03:40
+D) 02:30
+
+Answer with a single letter only.",A
+10,6,"At what time did the following occur: a car belonging to the freight owner was seen at the port?
+
+A) 03:40
+B) 06:45
+C) 05:30
+D) 02:30
+
+Answer with a single letter only.",D
+10,7,"At what time did the following occur: the night gang worked the quay?
+
+A) 03:00
+B) 05:30
+C) 01:40
+D) 06:45
+
+Answer with a single letter only.",A
+10,8,"At what time did the following occur: the locking bar was pinned from outside?
+
+A) 03:00
+B) 03:15
+C) 06:45
+D) 03:40
+
+Answer with a single letter only.",B
+10,9,"At what time did the following occur: the reefer temperature alarm sounded and was reset?
+
+A) 01:40
+B) 03:00
+C) 03:40
+D) 05:30
+
+Answer with a single letter only.",C
+10,10,"At what time did the following occur: the body was found inside the container?
+
+A) 02:30
+B) 03:15
+C) 05:30
+D) 03:40
+
+Answer with a single letter only.",C
+10,11,"At what time did the following occur: the port authority impounded the consignment?
+
+A) 01:40
+B) 06:45
+C) 05:30
+D) 03:00
+
+Answer with a single letter only.",B
+10,12,"According to the timeline, what happened at 03:00?
+
+A) A car belonging to the freight owner was seen at the port
+B) The night gang worked the quay
+C) The container was moved to berth 9
+D) The reefer temperature alarm sounded and was reset
+
+Answer with a single letter only.",B
+10,13,"According to the timeline, what happened at 03:40?
+
+A) The night gang worked the quay
+B) The reefer temperature alarm sounded and was reset
+C) The port authority impounded the consignment
+D) The container was moved to berth 9
+
+Answer with a single letter only.",B
+10,14,"According to the timeline, what happened at 05:30?
+
+A) The container was moved to berth 9
+B) The port authority impounded the consignment
+C) The locking bar was pinned from outside
+D) The body was found inside the container
+
+Answer with a single letter only.",D
+10,15,"According to the timeline, what happened at 03:15?
+
+A) The reefer temperature alarm sounded and was reset
+B) The locking bar was pinned from outside
+C) The body was found inside the container
+D) The container was moved to berth 9
+
+Answer with a single letter only.",B
+10,16,"What was Ravi Nair's role in the case?
+
+A) Night supervisor
+B) Shipping agent
+C) Freight owner
+D) Customs inspector
+
+Answer with a single letter only.",B
+10,17,"What was Ravi Nair's age?
+
+A) 58
+B) 43
+C) 52
+D) 35
+
+Answer with a single letter only.",C
+10,18,"Where was Ravi Nair at the material time?
+
+A) The agency office
+B) The crane cab
+C) The quay
+D) The port office
+
+Answer with a single letter only.",A
+10,19,"What was Jonas Lim's role in the case?
+
+A) Crane operator
+B) Shipping agent
+C) Night supervisor
+D) Freight owner
+
+Answer with a single letter only.",A
+10,20,"What was Jonas Lim's age?
+
+A) 52
+B) 40
+C) 43
+D) 35
+
+Answer with a single letter only.",D
+10,21,"Where was Jonas Lim at the material time?
+
+A) A refrigerated container
+B) The port office
+C) The crane cab
+D) The agency office
+
+Answer with a single letter only.",C
+10,22,"What was Mrs. Chua's role in the case?
+
+A) Night supervisor
+B) Crane operator
+C) Shipping agent
+D) Freight owner
+
+Answer with a single letter only.",D
+10,23,"What was Mrs. Chua's age?
+
+A) 35
+B) 40
+C) 52
+D) 58
+
+Answer with a single letter only.",D
+10,24,"Where was Mrs. Chua at the material time?
+
+A) A refrigerated container
+B) The agency office
+C) The port office
+D) The crane cab
+
+Answer with a single letter only.",C
+10,25,"What was Aziz's role in the case?
+
+A) Night supervisor
+B) Shipping agent
+C) Freight owner
+D) Crane operator
+
+Answer with a single letter only.",A
+10,26,"What was Aziz's age?
+
+A) 40
+B) 58
+C) 35
+D) 52
+
+Answer with a single letter only.",A
+10,27,"Where was Aziz at the material time?
+
+A) The crane cab
+B) The quay
+C) The port office
+D) A refrigerated container
+
+Answer with a single letter only.",B
+11,1,"At what time was the body of Etienne Fortier found?
+
+A) 09:00
+B) 01:00
+C) 02:00
+D) 23:00
+
+Answer with a single letter only.",A
+11,2,"Where was the body of Etienne Fortier found?
+
+A) The ice bar
+B) Her office
+C) The plant room
+D) The cold cellar
+
+Answer with a single letter only.",D
+11,3,"What was Etienne Fortier's age?
+
+A) 39
+B) 48
+C) 57
+D) 50
+
+Answer with a single letter only.",B
+11,4,"What was Etienne Fortier's occupation?
+
+A) Guest reviewer
+B) Maintenance lead
+C) Sommelier
+D) Chef
+
+Answer with a single letter only.",C
+11,5,"At what time did the following occur: dinner service ended?
+
+A) 22:00
+B) 01:30
+C) 23:00
+D) 10:15
+
+Answer with a single letter only.",A
+11,6,"At what time did the following occur: the maintenance lead finished his shift?
+
+A) 02:00
+B) 01:30
+C) 23:00
+D) 10:15
+
+Answer with a single letter only.",C
+11,7,"At what time did the following occur: the bar was closed for the night?
+
+A) 09:00
+B) 01:00
+C) 10:15
+D) 02:00
+
+Answer with a single letter only.",B
+11,8,"At what time did the following occur: a figure was seen near the cellar?
+
+A) 09:00
+B) 23:00
+C) 02:00
+D) 01:30
+
+Answer with a single letter only.",D
+11,9,"At what time did the following occur: the last guests left the ice bar?
+
+A) 01:30
+B) 10:15
+C) 23:00
+D) 02:00
+
+Answer with a single letter only.",D
+11,10,"At what time did the following occur: the body was found in the cold cellar?
+
+A) 01:30
+B) 09:00
+C) 02:00
+D) 22:00
+
+Answer with a single letter only.",B
+11,11,"At what time did the following occur: the Surete du Quebec attended?
+
+A) 10:15
+B) 22:00
+C) 01:30
+D) 23:00
+
+Answer with a single letter only.",A
+11,12,"According to the timeline, what happened at 02:00?
+
+A) The Surete du Quebec attended
+B) The last guests left the ice bar
+C) The bar was closed for the night
+D) The body was found in the cold cellar
+
+Answer with a single letter only.",B
+11,13,"According to the timeline, what happened at 23:00?
+
+A) The maintenance lead finished his shift
+B) The body was found in the cold cellar
+C) The Surete du Quebec attended
+D) A figure was seen near the cellar
+
+Answer with a single letter only.",A
+11,14,"According to the timeline, what happened at 22:00?
+
+A) Dinner service ended
+B) A figure was seen near the cellar
+C) The Surete du Quebec attended
+D) The body was found in the cold cellar
+
+Answer with a single letter only.",A
+11,15,"According to the timeline, what happened at 01:30?
+
+A) Dinner service ended
+B) A figure was seen near the cellar
+C) The body was found in the cold cellar
+D) The last guests left the ice bar
+
+Answer with a single letter only.",B
+11,16,"What was Chantal Dubois's role in the case?
+
+A) Hotel manager
+B) Guest reviewer
+C) Chef
+D) Maintenance lead
+
+Answer with a single letter only.",A
+11,17,"What was Chantal Dubois's age?
+
+A) 36
+B) 50
+C) 48
+D) 57
+
+Answer with a single letter only.",B
+11,18,"Where was Chantal Dubois at the material time?
+
+A) The cold cellar
+B) The ice bar
+C) The kitchen
+D) Her office
+
+Answer with a single letter only.",D
+11,19,"What was Marco Pellegrini's role in the case?
+
+A) Chef
+B) Sommelier
+C) Hotel manager
+D) Maintenance lead
+
+Answer with a single letter only.",A
+11,20,"What was Marco Pellegrini's age?
+
+A) 57
+B) 50
+C) 48
+D) 39
+
+Answer with a single letter only.",D
+11,21,"Where was Marco Pellegrini at the material time?
+
+A) The ice bar
+B) The kitchen
+C) The plant room
+D) Her office
+
+Answer with a single letter only.",B
+11,22,"What was Dana Whitfield's role in the case?
+
+A) Sommelier
+B) Hotel manager
+C) Guest reviewer
+D) Chef
+
+Answer with a single letter only.",C
+11,23,"What was Dana Whitfield's age?
+
+A) 50
+B) 57
+C) 36
+D) 48
+
+Answer with a single letter only.",C
+11,24,"Where was Dana Whitfield at the material time?
+
+A) The kitchen
+B) The plant room
+C) The ice bar
+D) Her office
+
+Answer with a single letter only.",C
+11,25,"What was Pierre Gagnon's role in the case?
+
+A) Guest reviewer
+B) Hotel manager
+C) Maintenance lead
+D) Chef
+
+Answer with a single letter only.",C
+11,26,"What was Pierre Gagnon's age?
+
+A) 39
+B) 50
+C) 36
+D) 57
+
+Answer with a single letter only.",D
+11,27,"Where was Pierre Gagnon at the material time?
+
+A) The cold cellar
+B) The ice bar
+C) The plant room
+D) Her office
+
+Answer with a single letter only.",C
+12,1,"At what time was the body of Dr. Grace Wanjiru found?
+
+A) 04:15
+B) 05:30
+C) 06:30
+D) 09:00
+
+Answer with a single letter only.",C
+12,2,"Where was the body of Dr. Grace Wanjiru found?
+
+A) Beside the rhino boma
+B) The boma
+C) Nairobi
+D) The north gate
+
+Answer with a single letter only.",A
+12,3,"What was Dr. Grace Wanjiru's age?
+
+A) 60
+B) 33
+C) 45
+D) 38
+
+Answer with a single letter only.",C
+12,4,"What was Dr. Grace Wanjiru's occupation?
+
+A) Local councillor
+B) Conservancy director
+C) Researcher
+D) Veterinarian
+
+Answer with a single letter only.",D
+12,5,"At what time did the following occur: the drug safe was opened?
+
+A) 09:00
+B) 04:15
+C) 06:30
+D) 04:50
+
+Answer with a single letter only.",B
+12,6,"At what time did the following occur: the dart was reloaded at double strength?
+
+A) 04:50
+B) 05:00
+C) 09:00
+D) 04:15
+
+Answer with a single letter only.",A
+12,7,"At what time did the following occur: the researcher was at the boma taking samples?
+
+A) 09:00
+B) 05:00
+C) 05:30
+D) 04:50
+
+Answer with a single letter only.",B
+12,8,"At what time did the following occur: Wanjiru left the camp on foot?
+
+A) 06:30
+B) 05:00
+C) 05:30
+D) 04:15
+
+Answer with a single letter only.",C
+12,9,"At what time did the following occur: the body was found beside the boma?
+
+A) 04:15
+B) 07:45
+C) 04:50
+D) 06:30
+
+Answer with a single letter only.",D
+12,10,"At what time did the following occur: the wildlife service was notified?
+
+A) 04:50
+B) 04:15
+C) 06:30
+D) 07:45
+
+Answer with a single letter only.",D
+12,11,"At what time did the following occur: the conservancy was closed to visitors?
+
+A) 04:50
+B) 05:00
+C) 07:45
+D) 09:00
+
+Answer with a single letter only.",D
+12,12,"According to the timeline, what happened at 04:15?
+
+A) The dart was reloaded at double strength
+B) The drug safe was opened
+C) The conservancy was closed to visitors
+D) Wanjiru left the camp on foot
+
+Answer with a single letter only.",B
+12,13,"According to the timeline, what happened at 04:50?
+
+A) The wildlife service was notified
+B) The researcher was at the boma taking samples
+C) The dart was reloaded at double strength
+D) The conservancy was closed to visitors
+
+Answer with a single letter only.",C
+12,14,"According to the timeline, what happened at 05:00?
+
+A) The wildlife service was notified
+B) The researcher was at the boma taking samples
+C) The drug safe was opened
+D) The dart was reloaded at double strength
+
+Answer with a single letter only.",B
+12,15,"According to the timeline, what happened at 07:45?
+
+A) Wanjiru left the camp on foot
+B) The wildlife service was notified
+C) The dart was reloaded at double strength
+D) The researcher was at the boma taking samples
+
+Answer with a single letter only.",B
+12,16,"What was Joseph Kimani's role in the case?
+
+A) Ranger sergeant
+B) Conservancy director
+C) Local councillor
+D) Veterinarian
+
+Answer with a single letter only.",A
+12,17,"What was Joseph Kimani's age?
+
+A) 54
+B) 60
+C) 38
+D) 33
+
+Answer with a single letter only.",C
+12,18,"Where was Joseph Kimani at the material time?
+
+A) The north gate
+B) Beside the rhino boma
+C) His home in the village
+D) Nairobi
+
+Answer with a single letter only.",A
+12,19,"What was Alice Mbeki's role in the case?
+
+A) Local councillor
+B) Researcher
+C) Conservancy director
+D) Veterinarian
+
+Answer with a single letter only.",C
+12,20,"What was Alice Mbeki's age?
+
+A) 54
+B) 33
+C) 45
+D) 60
+
+Answer with a single letter only.",A
+12,21,"Where was Alice Mbeki at the material time?
+
+A) Nairobi
+B) The boma
+C) His home in the village
+D) Beside the rhino boma
+
+Answer with a single letter only.",A
+12,22,"What was Tom Bradley's role in the case?
+
+A) Researcher
+B) Conservancy director
+C) Local councillor
+D) Veterinarian
+
+Answer with a single letter only.",A
+12,23,"What was Tom Bradley's age?
+
+A) 60
+B) 33
+C) 45
+D) 38
+
+Answer with a single letter only.",B
+12,24,"Where was Tom Bradley at the material time?
+
+A) His home in the village
+B) Nairobi
+C) Beside the rhino boma
+D) The boma
+
+Answer with a single letter only.",D
+12,25,"What was Peter Otieno's role in the case?
+
+A) Researcher
+B) Ranger sergeant
+C) Veterinarian
+D) Local councillor
+
+Answer with a single letter only.",D
+12,26,"What was Peter Otieno's age?
+
+A) 38
+B) 60
+C) 45
+D) 54
+
+Answer with a single letter only.",B
+12,27,"Where was Peter Otieno at the material time?
+
+A) The north gate
+B) Beside the rhino boma
+C) His home in the village
+D) Nairobi
+
+Answer with a single letter only.",C
+13,1,"At what time was the body of Vaclav Novotny found?
+
+A) 21:00
+B) 23:30
+C) 22:15
+D) 22:00
+
+Answer with a single letter only.",C
+13,2,"Where was the body of Vaclav Novotny found?
+
+A) Her flat in Vinohrady
+B) The front of house
+C) The fly loft
+D) The workshop below the stage
+
+Answer with a single letter only.",C
+13,3,"What was Vaclav Novotny's age?
+
+A) 68
+B) 41
+C) 34
+D) 52
+
+Answer with a single letter only.",A
+13,4,"What was Vaclav Novotny's occupation?
+
+A) His daughter
+B) Austrian collector
+C) Master puppeteer
+D) Theatre director
+
+Answer with a single letter only.",C
+13,5,"At what time did the following occur: the evening performance began?
+
+A) 19:30
+B) 22:50
+C) 23:30
+D) 22:00
+
+Answer with a single letter only.",A
+13,6,"At what time did the following occur: the performance ended and the daughter went home?
+
+A) 21:00
+B) 19:30
+C) 22:00
+D) 22:50
+
+Answer with a single letter only.",A
+13,7,"At what time did the following occur: the counterweight was doubled?
+
+A) 21:40
+B) 22:50
+C) 21:00
+D) 23:30
+
+Answer with a single letter only.",A
+13,8,"At what time did the following occur: the director went up to the fly loft?
+
+A) 19:30
+B) 21:00
+C) 22:00
+D) 22:15
+
+Answer with a single letter only.",C
+13,9,"At what time did the following occur: the body was found?
+
+A) 21:00
+B) 21:40
+C) 19:30
+D) 22:15
+
+Answer with a single letter only.",D
+13,10,"At what time did the following occur: the Prague police were called?
+
+A) 22:50
+B) 23:30
+C) 21:40
+D) 21:00
+
+Answer with a single letter only.",A
+13,11,"At what time did the following occur: the theatre was cleared?
+
+A) 21:40
+B) 22:15
+C) 23:30
+D) 22:50
+
+Answer with a single letter only.",C
+13,12,"According to the timeline, what happened at 22:50?
+
+A) The evening performance began
+B) The Prague police were called
+C) The performance ended and the daughter went home
+D) The theatre was cleared
+
+Answer with a single letter only.",B
+13,13,"According to the timeline, what happened at 21:40?
+
+A) The counterweight was doubled
+B) The director went up to the fly loft
+C) The body was found
+D) The performance ended and the daughter went home
+
+Answer with a single letter only.",A
+13,14,"According to the timeline, what happened at 22:00?
+
+A) The Prague police were called
+B) The director went up to the fly loft
+C) The performance ended and the daughter went home
+D) The evening performance began
+
+Answer with a single letter only.",B
+13,15,"According to the timeline, what happened at 21:00?
+
+A) The body was found
+B) The performance ended and the daughter went home
+C) The evening performance began
+D) The theatre was cleared
+
+Answer with a single letter only.",B
+13,16,"What was Tereza Novotna's role in the case?
+
+A) Master puppeteer
+B) His daughter
+C) Theatre director
+D) Stage technician
+
+Answer with a single letter only.",B
+13,17,"What was Tereza Novotna's age?
+
+A) 57
+B) 52
+C) 41
+D) 34
+
+Answer with a single letter only.",D
+13,18,"Where was Tereza Novotna at the material time?
+
+A) The front of house
+B) The fly loft
+C) The workshop below the stage
+D) Her flat in Vinohrady
+
+Answer with a single letter only.",D
+13,19,"What was Milos's role in the case?
+
+A) His daughter
+B) Austrian collector
+C) Stage technician
+D) Theatre director
+
+Answer with a single letter only.",C
+13,20,"What was Milos's age?
+
+A) 52
+B) 34
+C) 41
+D) 68
+
+Answer with a single letter only.",C
+13,21,"Where was Milos at the material time?
+
+A) The front of house
+B) The fly loft
+C) Her flat in Vinohrady
+D) The workshop below the stage
+
+Answer with a single letter only.",D
+13,22,"What was Frau Berger's role in the case?
+
+A) Theatre director
+B) Austrian collector
+C) His daughter
+D) Master puppeteer
+
+Answer with a single letter only.",B
+13,23,"What was Frau Berger's age?
+
+A) 68
+B) 57
+C) 34
+D) 52
+
+Answer with a single letter only.",B
+13,24,"Where was Frau Berger at the material time?
+
+A) The workshop below the stage
+B) Her flat in Vinohrady
+C) The fly loft
+D) The front of house
+
+Answer with a single letter only.",D
+13,25,"What was Pavel's role in the case?
+
+A) His daughter
+B) Master puppeteer
+C) Stage technician
+D) Theatre director
+
+Answer with a single letter only.",D
+13,26,"What was Pavel's age?
+
+A) 52
+B) 34
+C) 57
+D) 41
+
+Answer with a single letter only.",A
+13,27,"Where was Pavel at the material time?
+
+A) Her flat in Vinohrady
+B) The fly loft
+C) The workshop below the stage
+D) The front of house
+
+Answer with a single letter only.",B
+14,1,"At what time was the body of Dr. Fiona Marsh found?
+
+A) 05:00
+B) 07:00
+C) 05:30
+D) 11:00
+
+Answer with a single letter only.",B
+14,2,"Where was the body of Dr. Fiona Marsh found?
+
+A) The racks
+B) Out on the lease
+C) The oyster lease
+D) The departmental office in Hobart
+
+Answer with a single letter only.",C
+14,3,"What was Dr. Fiona Marsh's age?
+
+A) 39
+B) 46
+C) 28
+D) 57
+
+Answer with a single letter only.",A
+14,4,"What was Dr. Fiona Marsh's occupation?
+
+A) Marine biologist
+B) Neighbouring farmer
+C) Lease holder
+D) Deckhand
+
+Answer with a single letter only.",A
+14,5,"At what time did the following occur: the shucking shed was opened?
+
+A) 05:30
+B) 05:00
+C) 08:20
+D) 04:40
+
+Answer with a single letter only.",D
+14,6,"At what time did the following occur: the waders were cut?
+
+A) 05:30
+B) 07:00
+C) 06:10
+D) 05:00
+
+Answer with a single letter only.",D
+14,7,"At what time did the following occur: a punt was seen near the boundary markers?
+
+A) 07:00
+B) 06:10
+C) 05:30
+D) 05:00
+
+Answer with a single letter only.",C
+14,8,"At what time did the following occur: the tide turned?
+
+A) 06:10
+B) 11:00
+C) 05:00
+D) 08:20
+
+Answer with a single letter only.",A
+14,9,"At what time did the following occur: the body was found on the lease?
+
+A) 05:30
+B) 07:00
+C) 05:00
+D) 11:00
+
+Answer with a single letter only.",B
+14,10,"At what time did the following occur: Tasmania Police attended?
+
+A) 06:10
+B) 07:00
+C) 08:20
+D) 04:40
+
+Answer with a single letter only.",C
+14,11,"At what time did the following occur: the lease was closed pending investigation?
+
+A) 05:30
+B) 08:20
+C) 05:00
+D) 11:00
+
+Answer with a single letter only.",D
+14,12,"According to the timeline, what happened at 05:30?
+
+A) A punt was seen near the boundary markers
+B) The body was found on the lease
+C) Tasmania Police attended
+D) The tide turned
+
+Answer with a single letter only.",A
+14,13,"According to the timeline, what happened at 07:00?
+
+A) The lease was closed pending investigation
+B) The body was found on the lease
+C) The tide turned
+D) Tasmania Police attended
+
+Answer with a single letter only.",B
+14,14,"According to the timeline, what happened at 04:40?
+
+A) A punt was seen near the boundary markers
+B) The shucking shed was opened
+C) The lease was closed pending investigation
+D) The waders were cut
+
+Answer with a single letter only.",B
+14,15,"According to the timeline, what happened at 06:10?
+
+A) The waders were cut
+B) The shucking shed was opened
+C) The lease was closed pending investigation
+D) The tide turned
+
+Answer with a single letter only.",D
+14,16,"What was Bruce Kelleher's role in the case?
+
+A) Deckhand
+B) Aquaculture regulator
+C) Marine biologist
+D) Lease holder
+
+Answer with a single letter only.",D
+14,17,"What was Bruce Kelleher's age?
+
+A) 46
+B) 28
+C) 57
+D) 39
+
+Answer with a single letter only.",C
+14,18,"Where was Bruce Kelleher at the material time?
+
+A) The oyster lease
+B) Out on the lease
+C) The racks
+D) Her own jetty
+
+Answer with a single letter only.",B
+14,19,"What was Nate Okafor's role in the case?
+
+A) Deckhand
+B) Aquaculture regulator
+C) Neighbouring farmer
+D) Marine biologist
+
+Answer with a single letter only.",A
+14,20,"What was Nate Okafor's age?
+
+A) 46
+B) 61
+C) 28
+D) 57
+
+Answer with a single letter only.",C
+14,21,"Where was Nate Okafor at the material time?
+
+A) The racks
+B) The oyster lease
+C) Her own jetty
+D) Out on the lease
+
+Answer with a single letter only.",A
+14,22,"What was Priya Raman's role in the case?
+
+A) Deckhand
+B) Marine biologist
+C) Lease holder
+D) Aquaculture regulator
+
+Answer with a single letter only.",D
+14,23,"What was Priya Raman's age?
+
+A) 61
+B) 57
+C) 46
+D) 39
+
+Answer with a single letter only.",C
+14,24,"Where was Priya Raman at the material time?
+
+A) The departmental office in Hobart
+B) Her own jetty
+C) The racks
+D) The oyster lease
+
+Answer with a single letter only.",A
+14,25,"What was Sue Bannister's role in the case?
+
+A) Lease holder
+B) Aquaculture regulator
+C) Neighbouring farmer
+D) Deckhand
+
+Answer with a single letter only.",C
+14,26,"What was Sue Bannister's age?
+
+A) 28
+B) 61
+C) 39
+D) 57
+
+Answer with a single letter only.",B
+14,27,"Where was Sue Bannister at the material time?
+
+A) Out on the lease
+B) Her own jetty
+C) The departmental office in Hobart
+D) The oyster lease
+
+Answer with a single letter only.",B
+15,1,"At what time was the body of Ines Coutinho found?
+
+A) 08:40
+B) 22:00
+C) 05:00
+D) 08:00
+
+Answer with a single letter only.",D
+15,2,"Where was the body of Ines Coutinho found?
+
+A) His home in Alfama
+B) His hotel
+C) The kiln room
+D) The drying room
+
+Answer with a single letter only.",C
+15,3,"What was Ines Coutinho's age?
+
+A) 55
+B) 49
+C) 24
+D) 63
+
+Answer with a single letter only.",D
+15,4,"What was Ines Coutinho's occupation?
+
+A) Norwegian buyer
+B) Heritage inspector
+C) Tile master
+D) Apprentice
+
+Answer with a single letter only.",C
+15,5,"At what time did the following occur: the overnight firing was set?
+
+A) 19:00
+B) 08:40
+C) 20:30
+D) 05:00
+
+Answer with a single letter only.",A
+15,6,"At what time did the following occur: the flue was packed with rag?
+
+A) 05:00
+B) 10:00
+C) 08:40
+D) 20:30
+
+Answer with a single letter only.",D
+15,7,"At what time did the following occur: the workshop was locked for the night?
+
+A) 05:00
+B) 22:00
+C) 08:00
+D) 08:40
+
+Answer with a single letter only.",B
+15,8,"At what time did the following occur: the kiln reached peak temperature?
+
+A) 10:00
+B) 19:00
+C) 22:00
+D) 05:00
+
+Answer with a single letter only.",D
+15,9,"At what time did the following occur: the body was found in the kiln room?
+
+A) 10:00
+B) 05:00
+C) 08:00
+D) 20:30
+
+Answer with a single letter only.",C
+15,10,"At what time did the following occur: the bombeiros attended?
+
+A) 22:00
+B) 08:40
+C) 19:00
+D) 10:00
+
+Answer with a single letter only.",B
+15,11,"At what time did the following occur: the workshop was sealed?
+
+A) 10:00
+B) 20:30
+C) 19:00
+D) 05:00
+
+Answer with a single letter only.",A
+15,12,"According to the timeline, what happened at 22:00?
+
+A) The body was found in the kiln room
+B) The workshop was locked for the night
+C) The kiln reached peak temperature
+D) The bombeiros attended
+
+Answer with a single letter only.",B
+15,13,"According to the timeline, what happened at 08:00?
+
+A) The body was found in the kiln room
+B) The workshop was locked for the night
+C) The bombeiros attended
+D) The kiln reached peak temperature
+
+Answer with a single letter only.",A
+15,14,"According to the timeline, what happened at 05:00?
+
+A) The kiln reached peak temperature
+B) The bombeiros attended
+C) The body was found in the kiln room
+D) The workshop was locked for the night
+
+Answer with a single letter only.",A
+15,15,"According to the timeline, what happened at 19:00?
+
+A) The workshop was sealed
+B) The overnight firing was set
+C) The workshop was locked for the night
+D) The body was found in the kiln room
+
+Answer with a single letter only.",B
+15,16,"What was Rui Salgado's role in the case?
+
+A) Tile master
+B) Heritage inspector
+C) Business partner
+D) Apprentice
+
+Answer with a single letter only.",C
+15,17,"What was Rui Salgado's age?
+
+A) 24
+B) 55
+C) 41
+D) 63
+
+Answer with a single letter only.",B
+15,18,"Where was Rui Salgado at the material time?
+
+A) His hotel
+B) The municipal office
+C) His home in Alfama
+D) The drying room
+
+Answer with a single letter only.",C
+15,19,"What was Tomas's role in the case?
+
+A) Apprentice
+B) Business partner
+C) Norwegian buyer
+D) Heritage inspector
+
+Answer with a single letter only.",A
+15,20,"What was Tomas's age?
+
+A) 41
+B) 63
+C) 24
+D) 55
+
+Answer with a single letter only.",C
+15,21,"Where was Tomas at the material time?
+
+A) The kiln room
+B) The drying room
+C) His hotel
+D) The municipal office
+
+Answer with a single letter only.",B
+15,22,"What was Dra. Almeida's role in the case?
+
+A) Apprentice
+B) Norwegian buyer
+C) Business partner
+D) Heritage inspector
+
+Answer with a single letter only.",D
+15,23,"What was Dra. Almeida's age?
+
+A) 49
+B) 55
+C) 63
+D) 24
+
+Answer with a single letter only.",A
+15,24,"Where was Dra. Almeida at the material time?
+
+A) The municipal office
+B) His hotel
+C) His home in Alfama
+D) The drying room
+
+Answer with a single letter only.",A
+15,25,"What was Nils Eriksen's role in the case?
+
+A) Tile master
+B) Apprentice
+C) Norwegian buyer
+D) Heritage inspector
+
+Answer with a single letter only.",C
+15,26,"What was Nils Eriksen's age?
+
+A) 55
+B) 63
+C) 24
+D) 41
+
+Answer with a single letter only.",D
+15,27,"Where was Nils Eriksen at the material time?
+
+A) The drying room
+B) His hotel
+C) The kiln room
+D) The municipal office
+
+Answer with a single letter only.",B
+16,1,"At what time was the body of Bekbolat found?
+
+A) 06:00
+B) 04:00
+C) 08:30
+D) 01:00
+
+Answer with a single letter only.",A
+16,2,"Where was the body of Bekbolat found?
+
+A) The second ger
+B) The camp
+C) His ger
+D) The cook ger
+
+Answer with a single letter only.",C
+16,3,"What was Bekbolat's age?
+
+A) 36
+B) 66
+C) 52
+D) 44
+
+Answer with a single letter only.",B
+16,4,"What was Bekbolat's occupation?
+
+A) Rival hunter
+B) Eagle hunter
+C) Camp cook
+D) His son
+
+Answer with a single letter only.",B
+16,5,"At what time did the following occur: the evening meal was served?
+
+A) 08:30
+B) 20:00
+C) 14:00
+D) 06:00
+
+Answer with a single letter only.",B
+16,6,"At what time did the following occur: the stove was banked for the night?
+
+A) 14:00
+B) 08:30
+C) 06:00
+D) 22:30
+
+Answer with a single letter only.",D
+16,7,"At what time did the following occur: water was poured into the firebox?
+
+A) 01:00
+B) 08:30
+C) 22:30
+D) 20:00
+
+Answer with a single letter only.",A
+16,8,"At what time did the following occur: the temperature in the ger fell below freezing?
+
+A) 01:00
+B) 04:00
+C) 08:30
+D) 14:00
+
+Answer with a single letter only.",B
+16,9,"At what time did the following occur: the body was found?
+
+A) 08:30
+B) 01:00
+C) 06:00
+D) 14:00
+
+Answer with a single letter only.",C
+16,10,"At what time did the following occur: a rider was sent to Olgii?
+
+A) 08:30
+B) 06:00
+C) 14:00
+D) 01:00
+
+Answer with a single letter only.",A
+16,11,"At what time did the following occur: the police arrived from Olgii?
+
+A) 08:30
+B) 06:00
+C) 14:00
+D) 22:30
+
+Answer with a single letter only.",C
+16,12,"According to the timeline, what happened at 06:00?
+
+A) Water was poured into the firebox
+B) The stove was banked for the night
+C) The body was found
+D) A rider was sent to Olgii
+
+Answer with a single letter only.",C
+16,13,"According to the timeline, what happened at 08:30?
+
+A) The stove was banked for the night
+B) The temperature in the ger fell below freezing
+C) Water was poured into the firebox
+D) A rider was sent to Olgii
+
+Answer with a single letter only.",D
+16,14,"According to the timeline, what happened at 20:00?
+
+A) The stove was banked for the night
+B) The temperature in the ger fell below freezing
+C) The police arrived from Olgii
+D) The evening meal was served
+
+Answer with a single letter only.",D
+16,15,"According to the timeline, what happened at 22:30?
+
+A) The stove was banked for the night
+B) The evening meal was served
+C) A rider was sent to Olgii
+D) The police arrived from Olgii
+
+Answer with a single letter only.",A
+16,16,"What was Serik's role in the case?
+
+A) Documentary producer
+B) His son
+C) Eagle hunter
+D) Rival hunter
+
+Answer with a single letter only.",B
+16,17,"What was Serik's age?
+
+A) 66
+B) 38
+C) 44
+D) 36
+
+Answer with a single letter only.",D
+16,18,"Where was Serik at the material time?
+
+A) The second ger
+B) His ger
+C) The camp
+D) The film crew's vehicle
+
+Answer with a single letter only.",A
+16,19,"What was Dauren's role in the case?
+
+A) Camp cook
+B) Rival hunter
+C) His son
+D) Eagle hunter
+
+Answer with a single letter only.",B
+16,20,"What was Dauren's age?
+
+A) 44
+B) 36
+C) 38
+D) 52
+
+Answer with a single letter only.",A
+16,21,"Where was Dauren at the material time?
+
+A) The camp
+B) His ger
+C) The cook ger
+D) The film crew's vehicle
+
+Answer with a single letter only.",A
+16,22,"What was Hannah Reed's role in the case?
+
+A) Eagle hunter
+B) Camp cook
+C) His son
+D) Documentary producer
+
+Answer with a single letter only.",D
+16,23,"What was Hannah Reed's age?
+
+A) 36
+B) 38
+C) 52
+D) 44
+
+Answer with a single letter only.",B
+16,24,"Where was Hannah Reed at the material time?
+
+A) The second ger
+B) The camp
+C) The film crew's vehicle
+D) His ger
+
+Answer with a single letter only.",C
+16,25,"What was Aigul's role in the case?
+
+A) Eagle hunter
+B) Rival hunter
+C) Documentary producer
+D) Camp cook
+
+Answer with a single letter only.",D
+16,26,"What was Aigul's age?
+
+A) 36
+B) 38
+C) 52
+D) 66
+
+Answer with a single letter only.",C
+16,27,"Where was Aigul at the material time?
+
+A) The film crew's vehicle
+B) His ger
+C) The cook ger
+D) The second ger
+
+Answer with a single letter only.",C
+17,1,"At what time was the body of Callum Ross found?
+
+A) 04:00
+B) 03:30
+C) 05:30
+D) 03:00
+
+Answer with a single letter only.",A
+17,2,"Where was the body of Callum Ross found?
+
+A) The bridge
+B) The sick bay
+C) The flare deck
+D) The base of the flare stack
+
+Answer with a single letter only.",D
+17,3,"What was Callum Ross's age?
+
+A) 50
+B) 37
+C) 33
+D) 48
+
+Answer with a single letter only.",A
+17,4,"What was Callum Ross's occupation?
+
+A) Safety officer
+B) Rigger
+C) Contractor representative
+D) Medic
+
+Answer with a single letter only.",A
+17,5,"At what time did the following occur: the night inspection round began?
+
+A) 03:15
+B) 03:30
+C) 02:10
+D) 08:00
+
+Answer with a single letter only.",C
+17,6,"At what time did the following occur: the anchor bolt was backed off?
+
+A) 03:15
+B) 03:00
+C) 05:30
+D) 08:00
+
+Answer with a single letter only.",B
+17,7,"At what time did the following occur: the flare deck camera stopped recording?
+
+A) 03:00
+B) 03:30
+C) 03:15
+D) 05:30
+
+Answer with a single letter only.",C
+17,8,"At what time did the following occur: the contractor representative was on the flare deck?
+
+A) 03:15
+B) 03:30
+C) 05:30
+D) 04:00
+
+Answer with a single letter only.",B
+17,9,"At what time did the following occur: the body was found at the base of the flare stack?
+
+A) 03:00
+B) 04:00
+C) 05:30
+D) 03:30
+
+Answer with a single letter only.",B
+17,10,"At what time did the following occur: the platform was shut in?
+
+A) 02:10
+B) 03:15
+C) 05:30
+D) 03:30
+
+Answer with a single letter only.",C
+17,11,"At what time did the following occur: the HSE was notified?
+
+A) 03:00
+B) 02:10
+C) 08:00
+D) 04:00
+
+Answer with a single letter only.",C
+17,12,"According to the timeline, what happened at 08:00?
+
+A) The night inspection round began
+B) The HSE was notified
+C) The body was found at the base of the flare stack
+D) The contractor representative was on the flare deck
+
+Answer with a single letter only.",B
+17,13,"According to the timeline, what happened at 04:00?
+
+A) The night inspection round began
+B) The anchor bolt was backed off
+C) The flare deck camera stopped recording
+D) The body was found at the base of the flare stack
+
+Answer with a single letter only.",D
+17,14,"According to the timeline, what happened at 03:15?
+
+A) The HSE was notified
+B) The platform was shut in
+C) The body was found at the base of the flare stack
+D) The flare deck camera stopped recording
+
+Answer with a single letter only.",D
+17,15,"According to the timeline, what happened at 05:30?
+
+A) The platform was shut in
+B) The night inspection round began
+C) The anchor bolt was backed off
+D) The HSE was notified
+
+Answer with a single letter only.",A
+17,16,"What was Ingrid Solberg's role in the case?
+
+A) Safety officer
+B) Contractor representative
+C) Rigger
+D) Installation manager
+
+Answer with a single letter only.",D
+17,17,"What was Ingrid Solberg's age?
+
+A) 50
+B) 37
+C) 48
+D) 33
+
+Answer with a single letter only.",C
+17,18,"Where was Ingrid Solberg at the material time?
+
+A) The sick bay
+B) The base of the flare stack
+C) The flare deck
+D) The bridge
+
+Answer with a single letter only.",D
+17,19,"What was Deacon Mbatha's role in the case?
+
+A) Rigger
+B) Safety officer
+C) Contractor representative
+D) Installation manager
+
+Answer with a single letter only.",A
+17,20,"What was Deacon Mbatha's age?
+
+A) 37
+B) 33
+C) 50
+D) 56
+
+Answer with a single letter only.",B
+17,21,"Where was Deacon Mbatha at the material time?
+
+A) The sick bay
+B) The base of the flare stack
+C) His bunk
+D) The flare deck
+
+Answer with a single letter only.",C
+17,22,"What was Alan Frost's role in the case?
+
+A) Contractor representative
+B) Installation manager
+C) Rigger
+D) Medic
+
+Answer with a single letter only.",A
+17,23,"What was Alan Frost's age?
+
+A) 48
+B) 56
+C) 33
+D) 37
+
+Answer with a single letter only.",B
+17,24,"Where was Alan Frost at the material time?
+
+A) His bunk
+B) The base of the flare stack
+C) The flare deck
+D) The bridge
+
+Answer with a single letter only.",C
+17,25,"What was Yasmin Haddad's role in the case?
+
+A) Rigger
+B) Medic
+C) Contractor representative
+D) Installation manager
+
+Answer with a single letter only.",B
+17,26,"What was Yasmin Haddad's age?
+
+A) 48
+B) 33
+C) 56
+D) 37
+
+Answer with a single letter only.",D
+17,27,"Where was Yasmin Haddad at the material time?
+
+A) The sick bay
+B) His bunk
+C) The flare deck
+D) The bridge
+
+Answer with a single letter only.",A
+18,1,"At what time was the body of Delphine Boudreaux found?
+
+A) 13:00
+B) 10:50
+C) 11:00
+D) 10:30
+
+Answer with a single letter only.",C
+18,2,"Where was the body of Delphine Boudreaux found?
+
+A) The plant room
+B) The tape vault
+C) The trustees' lounge
+D) The reading room
+
+Answer with a single letter only.",B
+18,3,"What was Delphine Boudreaux's age?
+
+A) 72
+B) 49
+C) 58
+D) 61
+
+Answer with a single letter only.",C
+18,4,"What was Delphine Boudreaux's occupation?
+
+A) Archivist
+B) Director
+C) Building engineer
+D) Donor
+
+Answer with a single letter only.",A
+18,5,"At what time did the following occur: the researcher signed into the vault?
+
+A) 11:25
+B) 10:50
+C) 09:00
+D) 11:00
+
+Answer with a single letter only.",C
+18,6,"At what time did the following occur: the director entered the vault?
+
+A) 10:30
+B) 13:00
+C) 16:00
+D) 10:50
+
+Answer with a single letter only.",A
+18,7,"At what time did the following occur: the suppression system was triggered by hand?
+
+A) 10:50
+B) 09:00
+C) 13:00
+D) 11:00
+
+Answer with a single letter only.",A
+18,8,"At what time did the following occur: the body was found?
+
+A) 11:25
+B) 11:00
+C) 10:50
+D) 09:00
+
+Answer with a single letter only.",B
+18,9,"At what time did the following occur: the fire service ventilated the vault?
+
+A) 09:00
+B) 11:25
+C) 11:00
+D) 13:00
+
+Answer with a single letter only.",B
+18,10,"At what time did the following occur: the archive was closed?
+
+A) 13:00
+B) 11:00
+C) 10:50
+D) 10:30
+
+Answer with a single letter only.",A
+18,11,"At what time did the following occur: the inventory discrepancy was reported?
+
+A) 13:00
+B) 10:30
+C) 10:50
+D) 16:00
+
+Answer with a single letter only.",D
+18,12,"According to the timeline, what happened at 10:30?
+
+A) The suppression system was triggered by hand
+B) The director entered the vault
+C) The inventory discrepancy was reported
+D) The researcher signed into the vault
+
+Answer with a single letter only.",B
+18,13,"According to the timeline, what happened at 09:00?
+
+A) The researcher signed into the vault
+B) The fire service ventilated the vault
+C) The inventory discrepancy was reported
+D) The archive was closed
+
+Answer with a single letter only.",A
+18,14,"According to the timeline, what happened at 11:00?
+
+A) The fire service ventilated the vault
+B) The archive was closed
+C) The suppression system was triggered by hand
+D) The body was found
+
+Answer with a single letter only.",D
+18,15,"According to the timeline, what happened at 10:50?
+
+A) The suppression system was triggered by hand
+B) The director entered the vault
+C) The body was found
+D) The fire service ventilated the vault
+
+Answer with a single letter only.",A
+18,16,"What was Curtis Rhodes's role in the case?
+
+A) Donor
+B) Director
+C) Graduate researcher
+D) Building engineer
+
+Answer with a single letter only.",B
+18,17,"What was Curtis Rhodes's age?
+
+A) 27
+B) 61
+C) 72
+D) 49
+
+Answer with a single letter only.",B
+18,18,"Where was Curtis Rhodes at the material time?
+
+A) The trustees' lounge
+B) The reading room
+C) The tape vault
+D) The vault
+
+Answer with a single letter only.",D
+18,19,"What was Miles Tanaka's role in the case?
+
+A) Director
+B) Building engineer
+C) Graduate researcher
+D) Archivist
+
+Answer with a single letter only.",C
+18,20,"What was Miles Tanaka's age?
+
+A) 58
+B) 72
+C) 49
+D) 27
+
+Answer with a single letter only.",D
+18,21,"Where was Miles Tanaka at the material time?
+
+A) The vault
+B) The trustees' lounge
+C) The reading room
+D) The plant room
+
+Answer with a single letter only.",C
+18,22,"What was Vivienne Arceneaux's role in the case?
+
+A) Donor
+B) Archivist
+C) Graduate researcher
+D) Building engineer
+
+Answer with a single letter only.",A
+18,23,"What was Vivienne Arceneaux's age?
+
+A) 61
+B) 72
+C) 27
+D) 49
+
+Answer with a single letter only.",B
+18,24,"Where was Vivienne Arceneaux at the material time?
+
+A) The vault
+B) The reading room
+C) The tape vault
+D) The trustees' lounge
+
+Answer with a single letter only.",D
+18,25,"What was Roy Lafitte's role in the case?
+
+A) Graduate researcher
+B) Donor
+C) Building engineer
+D) Director
+
+Answer with a single letter only.",C
+18,26,"What was Roy Lafitte's age?
+
+A) 58
+B) 27
+C) 49
+D) 61
+
+Answer with a single letter only.",C
+18,27,"Where was Roy Lafitte at the material time?
+
+A) The tape vault
+B) The trustees' lounge
+C) The reading room
+D) The plant room
+
+Answer with a single letter only.",D
