@@ -17,25 +17,25 @@ public sealed class InferenceClient : IInferenceClient
 
     public async Task<InferenceResult> AskAsync(InferenceRequest request, CancellationToken ct)
     {
-        var payload = new
+        var payload = new Dictionary<string, object?>
         {
-            model = _config.Model,
-            messages = new[]
+            ["model"] = _config.Model,
+            ["messages"] = new[]
             {
                 new { role = "system", content = request.SystemPrompt },
                 new { role = "user",   content = request.UserPrompt }
             },
-            stream = false,
-            think = _config.IsThinkingEnabled,
-            options = new
+            ["stream"] = false,
+            ["think"] = _config.IsThinkingEnabled,
+            ["options"] = new
             {
-                temperature = 0.0,   // without this a rerun is a different experiment
+                temperature = 0.0,
                 seed = 42,
                 top_p = 1.0,
-                num_ctx = 32768,      // Ollama truncates past num_ctx silently, dropping the scenario
-                num_predict = -1
+                num_ctx = 32768,
+                num_predict = request.MaxTokens
             },
-            keep_alive = "30m"       // stops the model unloading between calls
+            ["keep_alive"] = "30m"
         };
 
         var json = JsonSerializer.Serialize(payload);
@@ -58,13 +58,21 @@ public sealed class InferenceClient : IInferenceClient
                 }
 
                 using var doc = JsonDocument.Parse(body);
-                var text = doc.RootElement.TryGetProperty("message", out var message)
-                           && message.TryGetProperty("content", out var c)
-                    ? c.GetString() ?? string.Empty
-                    : string.Empty;
+                var text = string.Empty;
+                string? thinking = null;
+
+                if (doc.RootElement.TryGetProperty("message", out var message))
+                {
+                    if (message.TryGetProperty("content", out var c))
+                        text = c.GetString() ?? string.Empty;
+                    // when think is enabled the trace arrives separately, so Content
+                    // stays clean and no <think> stripping is needed
+                    if (message.TryGetProperty("thinking", out var th))
+                        thinking = th.GetString();
+                }
 
                 sw.Stop();
-                return new InferenceResult(text, true, null, (int)sw.ElapsedMilliseconds, attempt);
+                return new InferenceResult(text, thinking, true, null, (int)sw.ElapsedMilliseconds, attempt);
             }
             catch (OperationCanceledException) when (ct.IsCancellationRequested)
             {

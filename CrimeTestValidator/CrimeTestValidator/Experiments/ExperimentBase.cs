@@ -9,7 +9,6 @@ using CsvHelper;
 using CsvHelper.Configuration;
 
 namespace CrimeTestValidator.Experiments;
-
 public abstract class ExperimentBase : IExperiment
 {
     protected readonly ExperimentConfig Config;
@@ -25,6 +24,8 @@ public abstract class ExperimentBase : IExperiment
 
     protected virtual int MaxConcurrency => 4;
 
+    protected virtual int MaxTokens => -1;
+
     protected abstract void Load();
 
     protected abstract IReadOnlyList<ExperimentTask> BuildTasks();
@@ -36,10 +37,12 @@ public abstract class ExperimentBase : IExperiment
 
         var tasks = BuildTasks();
         var concurrency = Math.Max(1, MaxConcurrency);
-        Console.WriteLine($"{tasks.Count} calls, concurrency {concurrency}.");
+        Console.WriteLine($"{tasks.Count} calls, concurrency {concurrency}, max {MaxTokens} tokens.");
 
         var bag = new ConcurrentBag<(int Order, ExperimentResultDto Result)>();
         var completed = 0;
+        var interval = Math.Max(1, tasks.Count / 20);
+
         var options = new ParallelOptions
         {
             MaxDegreeOfParallelism = concurrency,
@@ -53,7 +56,7 @@ public abstract class ExperimentBase : IExperiment
                 bag.Add((item.Index, Project(item.Task, response)));
 
                 var n = Interlocked.Increment(ref completed);
-                if (n % 25 == 0 || n == tasks.Count)
+                if (n % interval == 0 || n == tasks.Count)
                     Console.WriteLine($"  {n}/{tasks.Count}");
             });
 
@@ -69,6 +72,7 @@ public abstract class ExperimentBase : IExperiment
         QuestionId = task.QuestionId,
         ExpectedAnswer = task.ExpectedAnswer,
         Result = result.Content,
+        Thinking = result.Thinking,
         LatencyMs = result.LatencyMs,
         Attempts = result.Attempts,
         Error = result.Error

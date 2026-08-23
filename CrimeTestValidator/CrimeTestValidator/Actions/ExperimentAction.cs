@@ -31,6 +31,7 @@ public class ExperimentAction
 			ExperimentType.FactualRecall => new FactualRecallExperiment(_config, _inference),
 			ExperimentType.TheoryOfMind  => new TheoryOfMindExperiment(_config, _inference),
 			ExperimentType.LieAbility    => new LieAbilityExperiment(_config, _inference),
+			ExperimentType.Judge         => new JudgeExperiment(_config, _inference),
 			_ => throw new ArgumentOutOfRangeException(nameof(type), type, "No experiment configured.")
 	};
 }

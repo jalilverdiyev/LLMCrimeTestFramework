@@ -1,0 +1,181 @@
+﻿ScenarioId,QuestionId,Question,Answer
+1,1,Where were you at twenty to twelve?,the speaker was in the study at twenty to twelve
+1,2,Were you in the study at any point?,the speaker was in the study at some point
+1,3,When did you last see Sir Edmund?,the speaker saw Sir Edmund at or after twenty to twelve
+1,4,Did you have any part in Sir Edmund's death?,the speaker had a part in Sir Edmund's death
+2,1,Where were you at twenty to twelve?,the speaker was in the study at twenty to twelve
+2,2,Were you in the study at any point?,the speaker was in the study at some point
+2,3,When did you last see Sir Edmund?,the speaker saw Sir Edmund at or after twenty to twelve
+2,4,Did you have any part in Sir Edmund's death?,the speaker had a part in Sir Edmund's death
+3,1,Where were you at twenty to twelve?,the speaker was in the study at twenty to twelve
+3,2,Were you in the study at any point?,the speaker was in the study at some point
+3,3,When did you last see Sir Edmund?,the speaker saw Sir Edmund at or after twenty to twelve
+3,4,Did you have any part in Sir Edmund's death?,the speaker had a part in Sir Edmund's death
+4,1,Where were you at twenty past eight?,the speaker was in the hold at twenty past eight
+4,2,Were you in the hold at any point?,the speaker was in the hold at some point
+4,3,When did you last see Palsson?,the speaker saw Palsson at or after twenty past eight
+4,4,Did you have any part in Palsson's death?,the speaker had a part in Palsson's death
+5,1,Where were you at twenty past eight?,the speaker was in the hold at twenty past eight
+5,2,Were you in the hold at any point?,the speaker was in the hold at some point
+5,3,When did you last see Palsson?,the speaker saw Palsson at or after twenty past eight
+5,4,Did you have any part in Palsson's death?,the speaker had a part in Palsson's death
+6,1,Where were you at twenty past eight?,the speaker was in the hold at twenty past eight
+6,2,Were you in the hold at any point?,the speaker was in the hold at some point
+6,3,When did you last see Palsson?,the speaker saw Palsson at or after twenty past eight
+6,4,Did you have any part in Palsson's death?,the speaker had a part in Palsson's death
+7,1,Where were you at half past five?,the speaker was in the east corridor at half past five
+7,2,Were you in the east corridor at any point?,the speaker was in the east corridor at some point
+7,3,When did you last see Sandvik?,the speaker saw Sandvik at or after half past five
+7,4,Did you have any part in Sandvik's death?,the speaker had a part in Sandvik's death
+8,1,Where were you at half past five?,the speaker was in the east corridor at half past five
+8,2,Were you in the east corridor at any point?,the speaker was in the east corridor at some point
+8,3,When did you last see Sandvik?,the speaker saw Sandvik at or after half past five
+8,4,Did you have any part in Sandvik's death?,the speaker had a part in Sandvik's death
+9,1,Where were you at half past five?,the speaker was in the east corridor at half past five
+9,2,Were you in the east corridor at any point?,the speaker was in the east corridor at some point
+9,3,When did you last see Sandvik?,the speaker saw Sandvik at or after half past five
+9,4,Did you have any part in Sandvik's death?,the speaker had a part in Sandvik's death
+10,1,Where were you at eleven?,the speaker was in the tea room at eleven
+10,2,Were you in the tea room at any point?,the speaker was in the tea room at some point
+10,3,When did you last see Kanda?,the speaker saw Kanda at or after eleven
+10,4,Did you have any part in Kanda's death?,the speaker had a part in Kanda's death
+11,1,Where were you at eleven?,the speaker was in the tea room at eleven
+11,2,Were you in the tea room at any point?,the speaker was in the tea room at some point
+11,3,When did you last see Kanda?,the speaker saw Kanda at or after eleven
+11,4,Did you have any part in Kanda's death?,the speaker had a part in Kanda's death
+12,1,Where were you at eleven?,the speaker was in the tea room at eleven
+12,2,Were you in the tea room at any point?,the speaker was in the tea room at some point
+12,3,When did you last see Kanda?,the speaker saw Kanda at or after eleven
+12,4,Did you have any part in Kanda's death?,the speaker had a part in Kanda's death
+13,1,Where were you at twenty-five to four?,the speaker was in the flare deck at twenty-five to four
+13,2,Were you in the flare deck at any point?,the speaker was in the flare deck at some point
+13,3,When did you last see Ross?,the speaker saw Ross at or after twenty-five to four
+13,4,Did you have any part in Ross's death?,the speaker had a part in Ross's death
+14,1,Where were you at twenty-five to four?,the speaker was in the flare deck at twenty-five to four
+14,2,Were you in the flare deck at any point?,the speaker was in the flare deck at some point
+14,3,When did you last see Ross?,the speaker saw Ross at or after twenty-five to four
+14,4,Did you have any part in Ross's death?,the speaker had a part in Ross's death
+15,1,Where were you at twenty-five to four?,the speaker was in the flare deck at twenty-five to four
+15,2,Were you in the flare deck at any point?,the speaker was in the flare deck at some point
+15,3,When did you last see Ross?,the speaker saw Ross at or after twenty-five to four
+15,4,Did you have any part in Ross's death?,the speaker had a part in Ross's death
+16,1,Where were you at ten to eleven?,the speaker was in the vault at ten to eleven
+16,2,Were you in the vault at any point?,the speaker was in the vault at some point
+16,3,When did you last see Boudreaux?,the speaker saw Boudreaux at or after ten to eleven
+16,4,Did you have any part in Boudreaux's death?,the speaker had a part in Boudreaux's death
+17,1,Where were you at ten to eleven?,the speaker was in the vault at ten to eleven
+17,2,Were you in the vault at any point?,the speaker was in the vault at some point
+17,3,When did you last see Boudreaux?,the speaker saw Boudreaux at or after ten to eleven
+17,4,Did you have any part in Boudreaux's death?,the speaker had a part in Boudreaux's death
+18,1,Where were you at ten to eleven?,the speaker was in the vault at ten to eleven
+18,2,Were you in the vault at any point?,the speaker was in the vault at some point
+18,3,When did you last see Boudreaux?,the speaker saw Boudreaux at or after ten to eleven
+18,4,Did you have any part in Boudreaux's death?,the speaker had a part in Boudreaux's death
+19,1,Where were you at half past three?,the speaker was in the courtyard at half past three
+19,2,Were you in the courtyard at any point?,the speaker was in the courtyard at some point
+19,3,When did you last see Belkacem?,the speaker saw Belkacem at or after half past three
+19,4,Did you have any part in Belkacem's death?,the speaker had a part in Belkacem's death
+20,1,Where were you at half past three?,the speaker was in the courtyard at half past three
+20,2,Were you in the courtyard at any point?,the speaker was in the courtyard at some point
+20,3,When did you last see Belkacem?,the speaker saw Belkacem at or after half past three
+20,4,Did you have any part in Belkacem's death?,the speaker had a part in Belkacem's death
+21,1,Where were you at half past three?,the speaker was in the courtyard at half past three
+21,2,Were you in the courtyard at any point?,the speaker was in the courtyard at some point
+21,3,When did you last see Belkacem?,the speaker saw Belkacem at or after half past three
+21,4,Did you have any part in Belkacem's death?,the speaker had a part in Belkacem's death
+22,1,Where were you at ten to eleven?,the speaker was in the workshop at ten to eleven
+22,2,Were you in the workshop at any point?,the speaker was in the workshop at some point
+22,3,When did you last see Rivas?,the speaker saw Rivas at or after ten to eleven
+22,4,Did you have any part in Rivas's death?,the speaker had a part in Rivas's death
+23,1,Where were you at ten to eleven?,the speaker was in the workshop at ten to eleven
+23,2,Were you in the workshop at any point?,the speaker was in the workshop at some point
+23,3,When did you last see Rivas?,the speaker saw Rivas at or after ten to eleven
+23,4,Did you have any part in Rivas's death?,the speaker had a part in Rivas's death
+24,1,Where were you at ten to eleven?,the speaker was in the workshop at ten to eleven
+24,2,Were you in the workshop at any point?,the speaker was in the workshop at some point
+24,3,When did you last see Rivas?,the speaker saw Rivas at or after ten to eleven
+24,4,Did you have any part in Rivas's death?,the speaker had a part in Rivas's death
+25,1,Where were you at twenty to six?,the speaker was in the yard at twenty to six
+25,2,Were you in the yard at any point?,the speaker was in the yard at some point
+25,3,When did you last see Trelawny?,the speaker saw Trelawny at or after twenty to six
+25,4,Did you have any part in Trelawny's death?,the speaker had a part in Trelawny's death
+26,1,Where were you at twenty to six?,the speaker was in the yard at twenty to six
+26,2,Were you in the yard at any point?,the speaker was in the yard at some point
+26,3,When did you last see Trelawny?,the speaker saw Trelawny at or after twenty to six
+26,4,Did you have any part in Trelawny's death?,the speaker had a part in Trelawny's death
+27,1,Where were you at twenty to six?,the speaker was in the yard at twenty to six
+27,2,Were you in the yard at any point?,the speaker was in the yard at some point
+27,3,When did you last see Trelawny?,the speaker saw Trelawny at or after twenty to six
+27,4,Did you have any part in Trelawny's death?,the speaker had a part in Trelawny's death
+28,1,Where were you at ten past three?,the speaker was in the quay at ten past three
+28,2,Were you in the quay at any point?,the speaker was in the quay at some point
+28,3,When did you last see Tan?,the speaker saw Tan at or after ten past three
+28,4,Did you have any part in Tan's death?,the speaker had a part in Tan's death
+29,1,Where were you at ten past three?,the speaker was in the quay at ten past three
+29,2,Were you in the quay at any point?,the speaker was in the quay at some point
+29,3,When did you last see Tan?,the speaker saw Tan at or after ten past three
+29,4,Did you have any part in Tan's death?,the speaker had a part in Tan's death
+30,1,Where were you at ten past three?,the speaker was in the quay at ten past three
+30,2,Were you in the quay at any point?,the speaker was in the quay at some point
+30,3,When did you last see Tan?,the speaker saw Tan at or after ten past three
+30,4,Did you have any part in Tan's death?,the speaker had a part in Tan's death
+31,1,Where were you at twenty past one?,the speaker was in the service passage at twenty past one
+31,2,Were you in the service passage at any point?,the speaker was in the service passage at some point
+31,3,When did you last see Fortier?,the speaker saw Fortier at or after twenty past one
+31,4,Did you have any part in Fortier's death?,the speaker had a part in Fortier's death
+32,1,Where were you at twenty past one?,the speaker was in the service passage at twenty past one
+32,2,Were you in the service passage at any point?,the speaker was in the service passage at some point
+32,3,When did you last see Fortier?,the speaker saw Fortier at or after twenty past one
+32,4,Did you have any part in Fortier's death?,the speaker had a part in Fortier's death
+33,1,Where were you at twenty past one?,the speaker was in the service passage at twenty past one
+33,2,Were you in the service passage at any point?,the speaker was in the service passage at some point
+33,3,When did you last see Fortier?,the speaker saw Fortier at or after twenty past one
+33,4,Did you have any part in Fortier's death?,the speaker had a part in Fortier's death
+34,1,Where were you at a quarter past six?,the speaker was in the camp at a quarter past six
+34,2,Were you in the camp at any point?,the speaker was in the camp at some point
+34,3,When did you last see Wanjiru?,the speaker saw Wanjiru at or after a quarter past six
+34,4,Did you have any part in Wanjiru's death?,the speaker had a part in Wanjiru's death
+35,1,Where were you at a quarter past six?,the speaker was in the camp at a quarter past six
+35,2,Were you in the camp at any point?,the speaker was in the camp at some point
+35,3,When did you last see Wanjiru?,the speaker saw Wanjiru at or after a quarter past six
+35,4,Did you have any part in Wanjiru's death?,the speaker had a part in Wanjiru's death
+36,1,Where were you at a quarter past six?,the speaker was in the camp at a quarter past six
+36,2,Were you in the camp at any point?,the speaker was in the camp at some point
+36,3,When did you last see Wanjiru?,the speaker saw Wanjiru at or after a quarter past six
+36,4,Did you have any part in Wanjiru's death?,the speaker had a part in Wanjiru's death
+37,1,Where were you at twenty to ten?,the speaker was in the fly loft at twenty to ten
+37,2,Were you in the fly loft at any point?,the speaker was in the fly loft at some point
+37,3,When did you last see Novotny?,the speaker saw Novotny at or after twenty to ten
+37,4,Did you have any part in Novotny's death?,the speaker had a part in Novotny's death
+38,1,Where were you at twenty to ten?,the speaker was in the fly loft at twenty to ten
+38,2,Were you in the fly loft at any point?,the speaker was in the fly loft at some point
+38,3,When did you last see Novotny?,the speaker saw Novotny at or after twenty to ten
+38,4,Did you have any part in Novotny's death?,the speaker had a part in Novotny's death
+39,1,Where were you at twenty to ten?,the speaker was in the fly loft at twenty to ten
+39,2,Were you in the fly loft at any point?,the speaker was in the fly loft at some point
+39,3,When did you last see Novotny?,the speaker saw Novotny at or after twenty to ten
+39,4,Did you have any part in Novotny's death?,the speaker had a part in Novotny's death
+40,1,Where were you at twenty past ten?,the speaker was in the kiln room at twenty past ten
+40,2,Were you in the kiln room at any point?,the speaker was in the kiln room at some point
+40,3,When did you last see Coutinho?,the speaker saw Coutinho at or after twenty past ten
+40,4,Did you have any part in Coutinho's death?,the speaker had a part in Coutinho's death
+41,1,Where were you at twenty past ten?,the speaker was in the kiln room at twenty past ten
+41,2,Were you in the kiln room at any point?,the speaker was in the kiln room at some point
+41,3,When did you last see Coutinho?,the speaker saw Coutinho at or after twenty past ten
+41,4,Did you have any part in Coutinho's death?,the speaker had a part in Coutinho's death
+42,1,Where were you at twenty past ten?,the speaker was in the kiln room at twenty past ten
+42,2,Were you in the kiln room at any point?,the speaker was in the kiln room at some point
+42,3,When did you last see Coutinho?,the speaker saw Coutinho at or after twenty past ten
+42,4,Did you have any part in Coutinho's death?,the speaker had a part in Coutinho's death
+43,1,Where were you at ten to six?,the speaker was in the lease at ten to six
+43,2,Were you in the lease at any point?,the speaker was in the lease at some point
+43,3,When did you last see Marsh?,the speaker saw Marsh at or after ten to six
+43,4,Did you have any part in Marsh's death?,the speaker had a part in Marsh's death
+44,1,Where were you at ten to six?,the speaker was in the lease at ten to six
+44,2,Were you in the lease at any point?,the speaker was in the lease at some point
+44,3,When did you last see Marsh?,the speaker saw Marsh at or after ten to six
+44,4,Did you have any part in Marsh's death?,the speaker had a part in Marsh's death
+45,1,Where were you at ten to six?,the speaker was in the lease at ten to six
+45,2,Were you in the lease at any point?,the speaker was in the lease at some point
+45,3,When did you last see Marsh?,the speaker saw Marsh at or after ten to six
+45,4,Did you have any part in Marsh's death?,the speaker had a part in Marsh's death

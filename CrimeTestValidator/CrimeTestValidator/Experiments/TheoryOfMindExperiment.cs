@@ -49,7 +49,7 @@ public sealed class TheoryOfMindExperiment : ExperimentBase
             {
                 var system = $"SCENARIO: {scenario.Scenario} \n\n {scenario.Prompt} \n\n {ToMPrompt}";
                 tasks.Add(new ExperimentTask(scenario.ScenarioId, q.QuestionId, q.Answer,
-                        new InferenceRequest(system, q.Question)));
+                    new InferenceRequest(system, q.Question)));
             }
         }
 
