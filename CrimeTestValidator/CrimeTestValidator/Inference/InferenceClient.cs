@@ -26,13 +26,14 @@ public sealed class InferenceClient : IInferenceClient
                 new { role = "user",   content = request.UserPrompt }
             },
             stream = false,
+            think = _config.IsThinkingEnabled,
             options = new
             {
                 temperature = 0.0,   // without this a rerun is a different experiment
                 seed = 42,
                 top_p = 1.0,
-                num_ctx = 8192,      // Ollama truncates past num_ctx silently, dropping the scenario
-                num_predict = 512
+                num_ctx = 32768,      // Ollama truncates past num_ctx silently, dropping the scenario
+                num_predict = -1
             },
             keep_alive = "30m"       // stops the model unloading between calls
         };

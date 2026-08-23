@@ -15,6 +15,8 @@ public class ExperimentConfig : IConfig
 
 	public ExperimentType ExperimentType { get; set; }
 
+	public bool IsThinkingEnabled { get; set; }
+
 	public (bool IsValid, string Msg) Validate()
 	{
 		var invalidCount = 0;
