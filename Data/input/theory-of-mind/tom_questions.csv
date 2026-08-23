@@ -5,306 +5,398 @@ A) The study safe
 B) The dispatch box
 C) The desk drawer
 D) The library shelf
+E) The hall bureau
+F) The drawing room cabinet
 
 Answer with a single letter only.",C
-1,2,"Is Sir Edmund alive?
+1,2,"What has become of Sir Edmund?
 
-A) No, he is dead
-B) He has gone up to bed
-C) He has left the house
-D) Yes, he is alive
+A) Dead
+B) Gone up to bed
+C) Away from the house
+D) Alive and well
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",D
-1,3,"Is the telephone working?
+1,3,"What state is the telephone in?
 
-A) Yes, it is working
-B) No, the line is dead
-C) Yes, it is working again
-D) The instrument has been taken away
+A) The line is dead
+B) The instrument taken away
+C) The line cut at the pole
+D) Switched to the spare set
+E) In working order
+F) Ringing out unanswered
 
-Answer with a single letter only.",A
-1,4,"Is the study door locked?
+Answer with a single letter only.",E
+1,4,"What state is the study door in?
 
-A) Yes, it is locked
-B) No, it is unlocked
-C) It has been forced
+A) Locked
+B) Forced
+C) Bolted from the inside
+D) Standing open
+E) Barred
+F) Unlocked
 
-Answer with a single letter only.",B
+Answer with a single letter only.",F
 2,1,"Where is Sir Edmund's will?
 
 A) The study safe
 B) The desk drawer
 C) The library shelf
 D) The dispatch box
+E) The hall bureau
+F) The drawing room cabinet
 
 Answer with a single letter only.",D
-2,2,"Is Sir Edmund alive?
+2,2,"What has become of Sir Edmund?
 
-A) No, he is dead
-B) Yes, he is alive
-C) He has gone up to bed
-D) He has left the house
+A) Alive and well
+B) Gone up to bed
+C) Away from the house
+D) Gone to bed
+E) Dead
+F) Away from the building
+
+Answer with a single letter only.",E
+2,3,"What state is the telephone in?
+
+A) In working order
+B) The instrument taken away
+C) The line cut at the pole
+D) Switched to the spare set
+E) Ringing out unanswered
+F) The line is dead
+
+Answer with a single letter only.",F
+2,4,"What state is the study door in?
+
+A) Unlocked
+B) Locked
+C) Forced
+D) Bolted from the inside
+E) Standing open
+F) Barred
 
 Answer with a single letter only.",A
-2,3,"Is the telephone working?
+3,1,"Where is Sir Edmund's will?
 
-A) Yes, it is working
-B) No, the line is dead
-C) Yes, it is working again
-D) The instrument has been taken away
+A) The desk drawer
+B) The dispatch box
+C) The library shelf
+D) The hall bureau
+E) The study safe
+F) The drawing room cabinet
+
+Answer with a single letter only.",E
+3,2,"What has become of Sir Edmund?
+
+A) Dead
+B) Gone up to bed
+C) Away from the house
+D) Gone to bed
+E) Away from the building
+F) Alive and well
+
+Answer with a single letter only.",F
+3,3,"What state is the telephone in?
+
+A) In working order
+B) The line is dead
+C) The instrument taken away
+D) The line cut at the pole
+E) Switched to the spare set
+F) Ringing out unanswered
+
+Answer with a single letter only.",A
+3,4,"What state is the study door in?
+
+A) Locked
+B) Unlocked
+C) Forced
+D) Bolted from the inside
+E) Standing open
+F) Barred
 
 Answer with a single letter only.",B
-2,4,"Is the study door locked?
+4,1,"Where is Sir Edmund's will?
 
-A) Yes, it is locked
-B) It has been forced
-C) No, it is unlocked
+A) The desk drawer
+B) The dispatch box
+C) The library shelf
+D) The hall bureau
+E) The drawing room cabinet
+F) The study safe
+
+Answer with a single letter only.",F
+4,2,"What has become of Sir Edmund?
+
+A) Alive and well
+B) Dead
+C) Gone up to bed
+D) Away from the house
+E) Gone to bed
+F) Away from the building
+
+Answer with a single letter only.",A
+4,3,"What state is the telephone in?
+
+A) In working order
+B) The line is dead
+C) The instrument taken away
+D) The line cut at the pole
+E) Switched to the spare set
+F) Ringing out unanswered
+
+Answer with a single letter only.",B
+4,4,"What state is the study door in?
+
+A) Unlocked
+B) Forced
+C) Locked
+D) Bolted from the inside
+E) Standing open
+F) Barred
 
 Answer with a single letter only.",C
-3,1,"Where is Sir Edmund's will?
+5,1,"Where is Sir Edmund's will?
 
 A) The study safe
 B) The desk drawer
 C) The dispatch box
 D) The library shelf
+E) The hall bureau
+F) The drawing room cabinet
 
 Answer with a single letter only.",A
-3,2,"Is Sir Edmund alive?
+5,2,"What has become of Sir Edmund?
 
-A) No, he is dead
-B) Yes, he is alive
-C) He has gone up to bed
-D) He has left the house
-
-Answer with a single letter only.",B
-3,3,"Is the telephone working?
-
-A) Yes, it is working
-B) No, the line is dead
-C) Yes, it is working again
-D) The instrument has been taken away
-
-Answer with a single letter only.",C
-3,4,"Is the study door locked?
-
-A) Yes, it is locked
-B) It has been forced
-C) No, it is unlocked
-
-Answer with a single letter only.",D
-4,1,"Where is Sir Edmund's will?
-
-A) The desk drawer
-B) The study safe
-C) The dispatch box
-D) The library shelf
+A) Dead
+B) Alive and well
+C) Gone up to bed
+D) Away from the house
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",B
-4,2,"Is Sir Edmund alive?
+5,3,"What state is the telephone in?
 
-A) No, he is dead
-B) He has gone up to bed
-C) Yes, he is alive
-D) He has left the house
-
-Answer with a single letter only.",C
-4,3,"Is the telephone working?
-
-A) Yes, it is working
-B) Yes, it is working again
-C) The instrument has been taken away
-D) No, the line is dead
-
-Answer with a single letter only.",D
-4,4,"Is the study door locked?
-
-A) Yes, it is locked
-B) No, it is unlocked
-C) It has been forced
-
-Answer with a single letter only.",A
-5,1,"Where is the catch log?
-
-A) The locked cabinet
-B) The observer's satchel
-C) The chart drawer
-D) The mess locker
+A) In working order
+B) The instrument taken away
+C) The line is dead
+D) The line cut at the pole
+E) Switched to the spare set
+F) Ringing out unanswered
 
 Answer with a single letter only.",C
-5,2,"Is Palsson alive?
+5,4,"What state is the study door in?
 
-A) No, he is dead
-B) He has turned in
-C) He is up on the bridge
-D) Yes, he is alive
+A) Unlocked
+B) Forced
+C) Bolted from the inside
+D) Locked
+E) Standing open
+F) Barred
 
 Answer with a single letter only.",D
-5,3,"Are the hold lights burning?
-
-A) Yes, they are burning
-B) No, they are disconnected
-C) They are on the emergency circuit
-
-Answer with a single letter only.",A
-5,4,"What course is the vessel on?
-
-A) Northerly
-B) Turned to port
-C) Northerly again
-D) Hove to
-
-Answer with a single letter only.",B
 6,1,"Where is the catch log?
 
-A) The chart drawer
-B) The locked cabinet
-C) The mess locker
-D) The observer's satchel
-
-Answer with a single letter only.",D
-6,2,"Is Palsson alive?
-
-A) Yes, he is alive
-B) No, he is dead
-C) He has turned in
-D) He is up on the bridge
-
-Answer with a single letter only.",A
-6,3,"Are the hold lights burning?
-
-A) Yes, they are burning
-B) No, they are disconnected
-C) They are on the emergency circuit
+A) The locked cabinet
+B) The chart drawer
+C) The observer's satchel
+D) The mess locker
+E) The engine room locker
+F) The observer cabin shelf
 
 Answer with a single letter only.",B
-6,4,"What course is the vessel on?
+6,2,"What has become of Palsson?
 
-A) Turned to port
-B) Northerly again
-C) Northerly
-D) Hove to
+A) Dead
+B) Turned in
+C) Alive and well
+D) Up on the bridge
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",C
+6,3,"What state are the hold lights in?
+
+A) Disconnected for rewiring
+B) On the emergency circuit
+C) Burning but dimmed
+D) Lit
+E) Out
+F) Dimmed
+
+Answer with a single letter only.",D
+6,4,"What course is the vessel on?
+
+A) Northerly
+B) Hove to
+C) Turned to starboard
+D) Running east
+E) Turned to port
+F) Drifting with the tide
+
+Answer with a single letter only.",E
 7,1,"Where is the catch log?
 
 A) The chart drawer
 B) The locked cabinet
 C) The observer's satchel
 D) The mess locker
-
-Answer with a single letter only.",A
-7,2,"Is Palsson alive?
-
-A) No, he is dead
-B) Yes, he is alive
-C) He has turned in
-D) He is up on the bridge
-
-Answer with a single letter only.",B
-7,3,"Are the hold lights burning?
-
-A) No, they are disconnected
-B) They are on the emergency circuit
-C) Yes, they are burning
+E) The engine room locker
+F) The observer cabin shelf
 
 Answer with a single letter only.",C
+7,2,"What has become of Palsson?
+
+A) Dead
+B) Turned in
+C) Up on the bridge
+D) Alive and well
+E) Gone to bed
+F) Away from the building
+
+Answer with a single letter only.",D
+7,3,"What state are the hold lights in?
+
+A) Lit
+B) On the emergency circuit
+C) Burning but dimmed
+D) Out
+E) Disconnected for rewiring
+F) Dimmed
+
+Answer with a single letter only.",E
 7,4,"What course is the vessel on?
 
 A) Turned to port
-B) Northerly again
-C) Hove to
-D) Northerly
+B) Hove to
+C) Turned to starboard
+D) Running east
+E) Drifting with the tide
+F) Northerly
 
-Answer with a single letter only.",D
+Answer with a single letter only.",F
 8,1,"Where is the catch log?
 
-A) The chart drawer
-B) The locked cabinet
-C) The observer's satchel
-D) The mess locker
-
-Answer with a single letter only.",B
-8,2,"Is Palsson alive?
-
-A) No, he is dead
-B) He has turned in
-C) Yes, he is alive
-D) He is up on the bridge
-
-Answer with a single letter only.",C
-8,3,"Are the hold lights burning?
-
-A) No, they are disconnected
-B) They are on the emergency circuit
-C) Yes, they are burning
+A) The locked cabinet
+B) The observer's satchel
+C) The mess locker
+D) The chart drawer
+E) The engine room locker
+F) The observer cabin shelf
 
 Answer with a single letter only.",D
+8,2,"What has become of Palsson?
+
+A) Dead
+B) Turned in
+C) Up on the bridge
+D) Gone to bed
+E) Alive and well
+F) Away from the building
+
+Answer with a single letter only.",E
+8,3,"What state are the hold lights in?
+
+A) Disconnected for rewiring
+B) On the emergency circuit
+C) Burning but dimmed
+D) Out
+E) Dimmed
+F) Lit
+
+Answer with a single letter only.",F
 8,4,"What course is the vessel on?
 
 A) Northerly
 B) Turned to port
-C) Northerly again
-D) Hove to
+C) Hove to
+D) Turned to starboard
+E) Running east
+F) Drifting with the tide
 
 Answer with a single letter only.",A
-9,1,"Where is the spare store key?
+9,1,"Where is the catch log?
 
-A) The desk drawer
-B) The wall safe
-C) The hook
-D) The generator room bench
+A) The chart drawer
+B) The observer's satchel
+C) The mess locker
+D) The engine room locker
+E) The locked cabinet
+F) The observer cabin shelf
 
-Answer with a single letter only.",C
-9,2,"Is Sandvik alive?
+Answer with a single letter only.",E
+9,2,"What has become of Palsson?
 
-A) No, she is dead
-B) She is out on the ice
-C) She is asleep in her berth
-D) Yes, she is alive
+A) Dead
+B) Turned in
+C) Up on the bridge
+D) Gone to bed
+E) Away from the building
+F) Alive and well
 
-Answer with a single letter only.",D
-9,3,"Are the east corridor lights on?
+Answer with a single letter only.",F
+9,3,"What state are the hold lights in?
 
-A) Yes, they are on
-B) No, they are out
-C) They have gone to red
+A) Lit
+B) Disconnected for rewiring
+C) On the emergency circuit
+D) Burning but dimmed
+E) Out
+F) Dimmed
 
 Answer with a single letter only.",A
-9,4,"Is the ice core store open for use?
+9,4,"What course is the vessel on?
 
-A) No, it is closed until 08:00
-B) Yes, it is open
-C) It is sealed indefinitely
+A) Turned to port
+B) Northerly
+C) Hove to
+D) Turned to starboard
+E) Running east
+F) Drifting with the tide
 
 Answer with a single letter only.",B
-10,1,"Where is the spare store key?
+10,1,"Where is the catch log?
 
-A) The desk drawer
-B) The wall safe
-C) The generator room bench
-D) The hook
+A) The chart drawer
+B) The locked cabinet
+C) The mess locker
+D) The engine room locker
+E) The observer cabin shelf
+F) The observer's satchel
 
-Answer with a single letter only.",D
-10,2,"Is Sandvik alive?
+Answer with a single letter only.",F
+10,2,"What has become of Palsson?
 
-A) Yes, she is alive
-B) No, she is dead
-C) She is out on the ice
-D) She is asleep in her berth
+A) Alive and well
+B) Dead
+C) Turned in
+D) Up on the bridge
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",A
-10,3,"Are the east corridor lights on?
+10,3,"What state are the hold lights in?
 
-A) No, they are out
-B) Yes, they are on
-C) They have gone to red
+A) Disconnected for rewiring
+B) Lit
+C) On the emergency circuit
+D) Burning but dimmed
+E) Out
+F) Dimmed
 
 Answer with a single letter only.",B
-10,4,"Is the ice core store open for use?
+10,4,"What course is the vessel on?
 
-A) No, it is closed until 08:00
-B) It is sealed indefinitely
-C) Yes, it is open
+A) Northerly
+B) Hove to
+C) Turned to port
+D) Turned to starboard
+E) Running east
+F) Drifting with the tide
 
 Answer with a single letter only.",C
 11,1,"Where is the spare store key?
@@ -313,425 +405,2597 @@ A) The hook
 B) The desk drawer
 C) The wall safe
 D) The generator room bench
+E) The comms room tray
+F) The mess cupboard
 
 Answer with a single letter only.",A
-11,2,"Is Sandvik alive?
+11,2,"What has become of Sandvik?
 
-A) No, she is dead
-B) Yes, she is alive
-C) She is out on the ice
-D) She is asleep in her berth
+A) Dead
+B) Alive and well
+C) Out on the ice
+D) Asleep in her berth
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",B
-11,3,"Are the east corridor lights on?
+11,3,"What state are the east corridor lights in?
 
-A) No, they are out
-B) They have gone to red
-C) Yes, they are on
+A) Out
+B) Switched to red
+C) Lit
+D) Flickering
+E) Dimmed
+F) On the emergency circuit
 
 Answer with a single letter only.",C
-11,4,"Is the ice core store open for use?
+11,4,"What is the standing of the ice core store?
 
-A) No, it is closed until 08:00
-B) It is sealed indefinitely
-C) Yes, it is open
+A) Closed until 08:00
+B) Sealed indefinitely
+C) Open to senior staff only
+D) Open for normal use
+E) Closed for the day
+F) Open by permit
 
 Answer with a single letter only.",D
 12,1,"Where is the spare store key?
 
-A) The hook
-B) The wall safe
-C) The desk drawer
+A) The desk drawer
+B) The hook
+C) The wall safe
 D) The generator room bench
+E) The comms room tray
+F) The mess cupboard
 
 Answer with a single letter only.",B
-12,2,"Is Sandvik alive?
+12,2,"What has become of Sandvik?
 
-A) No, she is dead
-B) She is out on the ice
-C) Yes, she is alive
-D) She is asleep in her berth
+A) Dead
+B) Out on the ice
+C) Alive and well
+D) Asleep in her berth
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",C
-12,3,"Are the east corridor lights on?
+12,3,"What state are the east corridor lights in?
 
-A) No, they are out
-B) They have gone to red
-C) Yes, they are on
+A) Out
+B) Switched to red
+C) Flickering
+D) Lit
+E) Dimmed
+F) On the emergency circuit
 
 Answer with a single letter only.",D
-12,4,"Is the ice core store open for use?
+12,4,"What is the standing of the ice core store?
 
-A) Yes, it is open
-B) No, it is closed until 08:00
-C) It is sealed indefinitely
+A) Closed until 08:00
+B) Sealed indefinitely
+C) Open to senior staff only
+D) Closed for the day
+E) Open for normal use
+F) Open by permit
+
+Answer with a single letter only.",E
+13,1,"Where is the spare store key?
+
+A) The desk drawer
+B) The wall safe
+C) The hook
+D) The generator room bench
+E) The comms room tray
+F) The mess cupboard
+
+Answer with a single letter only.",C
+13,2,"What has become of Sandvik?
+
+A) Dead
+B) Out on the ice
+C) Asleep in her berth
+D) Alive and well
+E) Gone to bed
+F) Away from the building
+
+Answer with a single letter only.",D
+13,3,"What state are the east corridor lights in?
+
+A) Out
+B) Switched to red
+C) Flickering
+D) Dimmed
+E) Lit
+F) On the emergency circuit
+
+Answer with a single letter only.",E
+13,4,"What is the standing of the ice core store?
+
+A) Closed until 08:00
+B) Sealed indefinitely
+C) Open to senior staff only
+D) Closed for the day
+E) Open by permit
+F) Open for normal use
+
+Answer with a single letter only.",F
+14,1,"Where is the spare store key?
+
+A) The hook
+B) The desk drawer
+C) The generator room bench
+D) The wall safe
+E) The comms room tray
+F) The mess cupboard
+
+Answer with a single letter only.",D
+14,2,"What has become of Sandvik?
+
+A) Dead
+B) Out on the ice
+C) Asleep in her berth
+D) Gone to bed
+E) Alive and well
+F) Away from the building
+
+Answer with a single letter only.",E
+14,3,"What state are the east corridor lights in?
+
+A) Out
+B) Switched to red
+C) Flickering
+D) Dimmed
+E) On the emergency circuit
+F) Lit
+
+Answer with a single letter only.",F
+14,4,"What is the standing of the ice core store?
+
+A) Open for normal use
+B) Closed until 08:00
+C) Sealed indefinitely
+D) Open to senior staff only
+E) Closed for the day
+F) Open by permit
 
 Answer with a single letter only.",A
-13,1,"Where is the Momoyama tea bowl?
+15,1,"Where is the spare store key?
+
+A) The desk drawer
+B) The wall safe
+C) The generator room bench
+D) The comms room tray
+E) The hook
+F) The mess cupboard
+
+Answer with a single letter only.",E
+15,2,"What has become of Sandvik?
+
+A) Dead
+B) Out on the ice
+C) Asleep in her berth
+D) Gone to bed
+E) Away from the building
+F) Alive and well
+
+Answer with a single letter only.",F
+15,3,"What state are the east corridor lights in?
+
+A) Out
+B) Lit
+C) Switched to red
+D) Flickering
+E) Dimmed
+F) On the emergency circuit
+
+Answer with a single letter only.",A
+15,4,"What is the standing of the ice core store?
+
+A) Open for normal use
+B) Closed until 08:00
+C) Sealed indefinitely
+D) Open to senior staff only
+E) Closed for the day
+F) Open by permit
+
+Answer with a single letter only.",B
+16,1,"Where is the Momoyama tea bowl?
 
 A) The paulownia box
 B) The wrapping cloth
-C) The cabinet
-D) The workshop shelf
+C) The workshop shelf
+D) The front desk drawer
+E) The kitchen chest
+F) The cabinet
 
-Answer with a single letter only.",C
-13,2,"Is Kanda alive?
+Answer with a single letter only.",F
+16,2,"What has become of Kanda?
 
-A) No, he is dead
-B) He has retired
-C) He has left the ryokan
-D) Yes, he is alive
-
-Answer with a single letter only.",D
-13,3,"Is the garden lamp lit?
-
-A) Yes, it is lit
-B) No, it has failed
-C) It has been carried away
+A) Alive and well
+B) Dead
+C) Retired for the night
+D) Away from the ryokan
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",A
-13,4,"Is the garden gate latched?
+16,3,"What state is the garden lamp in?
 
-A) No, it stands open
-B) Yes, it is latched
-C) It has been padlocked
+A) Failed
+B) Lit
+C) Carried away
+D) Burning very low
+E) Out
+F) Dimmed
 
 Answer with a single letter only.",B
-14,1,"Where is the Momoyama tea bowl?
+16,4,"What state is the garden gate in?
+
+A) Standing open
+B) Padlocked
+C) Latched
+D) Propped with a stone
+E) Unlocked
+F) Locked
+
+Answer with a single letter only.",C
+17,1,"Where is the Momoyama tea bowl?
+
+A) The wrapping cloth
+B) The cabinet
+C) The paulownia box
+D) The workshop shelf
+E) The front desk drawer
+F) The kitchen chest
+
+Answer with a single letter only.",A
+17,2,"What has become of Kanda?
+
+A) Dead
+B) Alive and well
+C) Retired for the night
+D) Away from the ryokan
+E) Gone to bed
+F) Away from the building
+
+Answer with a single letter only.",B
+17,3,"What state is the garden lamp in?
+
+A) Failed
+B) Carried away
+C) Lit
+D) Burning very low
+E) Out
+F) Dimmed
+
+Answer with a single letter only.",C
+17,4,"What state is the garden gate in?
+
+A) Standing open
+B) Padlocked
+C) Propped with a stone
+D) Latched
+E) Unlocked
+F) Locked
+
+Answer with a single letter only.",D
+18,1,"Where is the Momoyama tea bowl?
 
 A) The cabinet
 B) The paulownia box
-C) The workshop shelf
-D) The wrapping cloth
-
-Answer with a single letter only.",D
-14,2,"Is Kanda alive?
-
-A) Yes, he is alive
-B) No, he is dead
-C) He has retired
-D) He has left the ryokan
-
-Answer with a single letter only.",A
-14,3,"Is the garden lamp lit?
-
-A) No, it has failed
-B) Yes, it is lit
-C) It has been carried away
-
-Answer with a single letter only.",B
-14,4,"Is the garden gate latched?
-
-A) No, it stands open
-B) It has been padlocked
-C) Yes, it is latched
-
-Answer with a single letter only.",C
-15,1,"Where is the Momoyama tea bowl?
-
-A) The paulownia box
-B) The cabinet
 C) The wrapping cloth
 D) The workshop shelf
-
-Answer with a single letter only.",A
-15,2,"Is Kanda alive?
-
-A) No, he is dead
-B) Yes, he is alive
-C) He has retired
-D) He has left the ryokan
+E) The front desk drawer
+F) The kitchen chest
 
 Answer with a single letter only.",B
-15,3,"Is the garden lamp lit?
+18,2,"What has become of Kanda?
 
-A) No, it has failed
-B) It has been carried away
-C) Yes, it is lit
+A) Dead
+B) Retired for the night
+C) Alive and well
+D) Away from the ryokan
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",C
-15,4,"Is the garden gate latched?
+18,3,"What state is the garden lamp in?
 
-A) No, it stands open
-B) It has been padlocked
-C) Yes, it is latched
+A) Failed
+B) Carried away
+C) Burning very low
+D) Lit
+E) Out
+F) Dimmed
 
 Answer with a single letter only.",D
-16,1,"Where is the Momoyama tea bowl?
+18,4,"What state is the garden gate in?
+
+A) Standing open
+B) Padlocked
+C) Propped with a stone
+D) Unlocked
+E) Latched
+F) Locked
+
+Answer with a single letter only.",E
+19,1,"Where is the Momoyama tea bowl?
 
 A) The cabinet
-B) The wrapping cloth
-C) The paulownia box
+B) The paulownia box
+C) The wrapping cloth
 D) The workshop shelf
-
-Answer with a single letter only.",B
-16,2,"Is Kanda alive?
-
-A) Yes, he is alive
-B) He has retired
-C) No, he is dead
-D) He has left the ryokan
+E) The front desk drawer
+F) The kitchen chest
 
 Answer with a single letter only.",C
-16,3,"Is the garden lamp lit?
+19,2,"What has become of Kanda?
 
-A) No, it has failed
-B) It has been carried away
-C) Yes, it is lit
+A) Alive and well
+B) Retired for the night
+C) Away from the ryokan
+D) Dead
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",D
-16,4,"Is the garden gate latched?
+19,3,"What state is the garden lamp in?
 
-A) Yes, it is latched
-B) No, it stands open
-C) It has been padlocked
+A) Failed
+B) Carried away
+C) Burning very low
+D) Out
+E) Lit
+F) Dimmed
+
+Answer with a single letter only.",E
+19,4,"What state is the garden gate in?
+
+A) Standing open
+B) Padlocked
+C) Propped with a stone
+D) Unlocked
+E) Locked
+F) Latched
+
+Answer with a single letter only.",F
+20,1,"Where is the Momoyama tea bowl?
+
+A) The paulownia box
+B) The wrapping cloth
+C) The workshop shelf
+D) The cabinet
+E) The front desk drawer
+F) The kitchen chest
+
+Answer with a single letter only.",D
+20,2,"What has become of Kanda?
+
+A) Dead
+B) Retired for the night
+C) Away from the ryokan
+D) Gone to bed
+E) Alive and well
+F) Away from the building
+
+Answer with a single letter only.",E
+20,3,"What state is the garden lamp in?
+
+A) Failed
+B) Carried away
+C) Burning very low
+D) Out
+E) Dimmed
+F) Lit
+
+Answer with a single letter only.",F
+20,4,"What state is the garden gate in?
+
+A) Standing open
+B) Latched
+C) Padlocked
+D) Propped with a stone
+E) Unlocked
+F) Locked
 
 Answer with a single letter only.",A
-17,1,"Where is the certification file?
+21,1,"Where is the certification file?
 
 A) The bridge cabinet
 B) The sealed pouch
-C) The manager's safe
-D) The sick bay drawer
+C) The sick bay drawer
+D) The walkway locker
+E) The manager's safe
+F) The cabin safe
 
-Answer with a single letter only.",C
-17,2,"Is Ross alive?
+Answer with a single letter only.",E
+21,2,"What has become of Ross?
 
-A) No, he is dead
-B) He has gone below
-C) He is off shift
-D) Yes, he is alive
+A) Dead
+B) Gone below
+C) Off shift
+D) Gone to bed
+E) Away from the building
+F) Alive and well
 
-Answer with a single letter only.",D
-17,3,"Is the flare deck camera recording?
+Answer with a single letter only.",F
+21,3,"What state is the flare deck camera in?
 
-A) Yes, it is recording
-B) No, it has stopped
-C) It has been turned to face the sea
+A) Recording
+B) Stopped
+C) Turned to face the sea
+D) Removed for repair
+E) Covered over
+F) Powered down
 
 Answer with a single letter only.",A
-17,4,"Is the platform at full production?
+21,4,"What is the production standing of the platform?
 
 A) A shutdown has been ordered for 06:00
-B) Yes, it is at full production
+B) At full production
 C) It has been shut in
-D) It is on standby
+D) On standby
+E) Running reduced
+F) Flaring off
 
 Answer with a single letter only.",B
-18,1,"Where is the certification file?
+22,1,"Where is the certification file?
 
 A) The bridge cabinet
 B) The manager's safe
 C) The sick bay drawer
-D) The sealed pouch
+D) The walkway locker
+E) The cabin safe
+F) The sealed pouch
 
-Answer with a single letter only.",D
-18,2,"Is Ross alive?
+Answer with a single letter only.",F
+22,2,"What has become of Ross?
 
-A) Yes, he is alive
-B) No, he is dead
-C) He has gone below
-D) He is off shift
+A) Alive and well
+B) Dead
+C) Gone below
+D) Off shift
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",A
-18,3,"Is the flare deck camera recording?
+22,3,"What state is the flare deck camera in?
 
-A) No, it has stopped
-B) Yes, it is recording
-C) It has been turned to face the sea
+A) Stopped
+B) Recording
+C) Turned to face the sea
+D) Removed for repair
+E) Covered over
+F) Powered down
 
 Answer with a single letter only.",B
-18,4,"Is the platform at full production?
+22,4,"What is the production standing of the platform?
 
 A) A shutdown has been ordered for 06:00
 B) It has been shut in
-C) Yes, it is at full production
-D) It is on standby
+C) At full production
+D) On standby
+E) Running reduced
+F) Flaring off
 
 Answer with a single letter only.",C
-19,1,"Where is the certification file?
+23,1,"Where is the certification file?
 
 A) The bridge cabinet
 B) The manager's safe
 C) The sealed pouch
 D) The sick bay drawer
+E) The walkway locker
+F) The cabin safe
 
 Answer with a single letter only.",A
-19,2,"Is Ross alive?
+23,2,"What has become of Ross?
 
-A) Yes, he is alive
-B) No, he is dead
-C) He has gone below
-D) He is off shift
+A) Alive and well
+B) Dead
+C) Gone below
+D) Off shift
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",B
-19,3,"Is the flare deck camera recording?
+23,3,"What state is the flare deck camera in?
 
-A) No, it has stopped
-B) It has been turned to face the sea
-C) Yes, it is recording
+A) Stopped
+B) Turned to face the sea
+C) Recording
+D) Removed for repair
+E) Covered over
+F) Powered down
 
 Answer with a single letter only.",C
-19,4,"Is the platform at full production?
+23,4,"What is the production standing of the platform?
 
 A) A shutdown has been ordered for 06:00
 B) It has been shut in
-C) It is on standby
-D) Yes, it is at full production
+C) On standby
+D) At full production
+E) Running reduced
+F) Flaring off
 
 Answer with a single letter only.",D
-20,1,"Where is the certification file?
+24,1,"Where is the certification file?
 
 A) The manager's safe
 B) The bridge cabinet
 C) The sealed pouch
 D) The sick bay drawer
+E) The walkway locker
+F) The cabin safe
 
 Answer with a single letter only.",B
-20,2,"Is Ross alive?
+24,2,"What has become of Ross?
 
-A) No, he is dead
-B) He has gone below
-C) Yes, he is alive
-D) He is off shift
+A) Dead
+B) Gone below
+C) Alive and well
+D) Off shift
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",C
-20,3,"Is the flare deck camera recording?
+24,3,"What state is the flare deck camera in?
 
-A) No, it has stopped
-B) It has been turned to face the sea
-C) Yes, it is recording
+A) Stopped
+B) Turned to face the sea
+C) Removed for repair
+D) Recording
+E) Covered over
+F) Powered down
 
 Answer with a single letter only.",D
-20,4,"Is the platform at full production?
+24,4,"What is the production standing of the platform?
 
-A) It has been shut in
-B) Yes, it is at full production
-C) A shutdown has been ordered for 06:00
-D) It is on standby
+A) At full production
+B) A shutdown has been ordered for 06:00
+C) On standby
+D) Running reduced
+E) It has been shut in
+F) Flaring off
 
-Answer with a single letter only.",A
-21,1,"Where is the Bolden cylinder?
+Answer with a single letter only.",E
+25,1,"Where is the certification file?
+
+A) The bridge cabinet
+B) The manager's safe
+C) The sealed pouch
+D) The sick bay drawer
+E) The walkway locker
+F) The cabin safe
+
+Answer with a single letter only.",C
+25,2,"What has become of Ross?
+
+A) Alive and well
+B) Gone below
+C) Off shift
+D) Dead
+E) Gone to bed
+F) Away from the building
+
+Answer with a single letter only.",D
+25,3,"What state is the flare deck camera in?
+
+A) Stopped
+B) Turned to face the sea
+C) Removed for repair
+D) Covered over
+E) Recording
+F) Powered down
+
+Answer with a single letter only.",E
+25,4,"What is the production standing of the platform?
+
+A) At full production
+B) It has been shut in
+C) On standby
+D) Running reduced
+E) Flaring off
+F) A shutdown has been ordered for 06:00
+
+Answer with a single letter only.",F
+26,1,"Where is the Bolden cylinder?
 
 A) The vault cabinet
 B) The transit tube
-C) The archive case
-D) The reading room desk
-
-Answer with a single letter only.",C
-21,2,"Is Boudreaux alive?
-
-A) Yes, she is alive
-B) She has gone home
-C) She is in the reading room
-D) No, she is dead
+C) The reading room desk
+D) The archive case
+E) The plant room cupboard
+F) The lounge cabinet
 
 Answer with a single letter only.",D
-21,3,"Is the vault suppression system armed?
+26,2,"What has become of Boudreaux?
 
-A) No, it has discharged
-B) Yes, it is armed
-C) It has been isolated for service
+A) Alive and well
+B) Gone home
+C) In the reading room
+D) Gone to bed
+E) Dead
+F) Away from the building
+
+Answer with a single letter only.",E
+26,3,"What state is the vault suppression system in?
+
+A) Armed
+B) Isolated for service
+C) Replaced with a new unit
+D) Under test
+E) Disarmed
+F) Discharged
+
+Answer with a single letter only.",F
+26,4,"What is the standing of the reading room?
+
+A) Open for normal use
+B) Closed for the morning
+C) Open by appointment only
+D) Shut for the day
+E) Open to staff only
+F) Closed for cleaning
 
 Answer with a single letter only.",A
-21,4,"Is the reading room open?
-
-A) No, it is closed
-B) Yes, it is open
-C) Yes, it is open again
-D) It is open by appointment only
-
-Answer with a single letter only.",B
-22,1,"Where is the Bolden cylinder?
+27,1,"Where is the Bolden cylinder?
 
 A) The vault cabinet
 B) The archive case
 C) The reading room desk
-D) The transit tube
+D) The plant room cupboard
+E) The transit tube
+F) The lounge cabinet
 
-Answer with a single letter only.",D
-22,2,"Is Boudreaux alive?
+Answer with a single letter only.",E
+27,2,"What has become of Boudreaux?
 
-A) Yes, she is alive
-B) No, she is dead
-C) She has gone home
-D) She is in the reading room
+A) Dead
+B) Gone home
+C) In the reading room
+D) Gone to bed
+E) Away from the building
+F) Alive and well
+
+Answer with a single letter only.",F
+27,3,"What state is the vault suppression system in?
+
+A) Armed
+B) Discharged
+C) Isolated for service
+D) Replaced with a new unit
+E) Under test
+F) Disarmed
 
 Answer with a single letter only.",A
-22,3,"Is the vault suppression system armed?
+27,4,"What is the standing of the reading room?
 
-A) No, it has discharged
-B) Yes, it is armed
-C) It has been isolated for service
+A) Open for normal use
+B) Closed for the morning
+C) Open by appointment only
+D) Shut for the day
+E) Open to staff only
+F) Closed for cleaning
 
 Answer with a single letter only.",B
-22,4,"Is the reading room open?
+28,1,"Where is the Bolden cylinder?
 
-A) Yes, it is open
-B) Yes, it is open again
-C) No, it is closed
-D) It is open by appointment only
+A) The archive case
+B) The transit tube
+C) The reading room desk
+D) The plant room cupboard
+E) The lounge cabinet
+F) The vault cabinet
+
+Answer with a single letter only.",F
+28,2,"What has become of Boudreaux?
+
+A) Alive and well
+B) Dead
+C) Gone home
+D) In the reading room
+E) Gone to bed
+F) Away from the building
+
+Answer with a single letter only.",A
+28,3,"What state is the vault suppression system in?
+
+A) Discharged
+B) Armed
+C) Isolated for service
+D) Replaced with a new unit
+E) Under test
+F) Disarmed
+
+Answer with a single letter only.",B
+28,4,"What is the standing of the reading room?
+
+A) Closed for the morning
+B) Open by appointment only
+C) Open for normal use
+D) Shut for the day
+E) Open to staff only
+F) Closed for cleaning
 
 Answer with a single letter only.",C
-23,1,"Where is the Bolden cylinder?
+29,1,"Where is the Bolden cylinder?
 
 A) The vault cabinet
 B) The archive case
 C) The transit tube
 D) The reading room desk
+E) The plant room cupboard
+F) The lounge cabinet
 
 Answer with a single letter only.",A
-23,2,"Is Boudreaux alive?
+29,2,"What has become of Boudreaux?
 
-A) No, she is dead
-B) Yes, she is alive
-C) She has gone home
-D) She is in the reading room
+A) Dead
+B) Alive and well
+C) Gone home
+D) In the reading room
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",B
-23,3,"Is the vault suppression system armed?
+29,3,"What state is the vault suppression system in?
 
-A) No, it has discharged
-B) It has been isolated for service
-C) Yes, it is armed
+A) Discharged
+B) Isolated for service
+C) Armed
+D) Replaced with a new unit
+E) Under test
+F) Disarmed
 
 Answer with a single letter only.",C
-23,4,"Is the reading room open?
+29,4,"What is the standing of the reading room?
 
-A) Yes, it is open
-B) No, it is closed
-C) It is open by appointment only
-D) Yes, it is open again
+A) Closed for the morning
+B) Open by appointment only
+C) Shut for the day
+D) Open for normal use
+E) Open to staff only
+F) Closed for cleaning
 
 Answer with a single letter only.",D
-24,1,"Where is the Bolden cylinder?
+30,1,"Where is the Bolden cylinder?
 
-A) The archive case
-B) The vault cabinet
+A) The vault cabinet
+B) The archive case
 C) The transit tube
 D) The reading room desk
+E) The plant room cupboard
+F) The lounge cabinet
 
 Answer with a single letter only.",B
-24,2,"Is Boudreaux alive?
+30,2,"What has become of Boudreaux?
 
-A) No, she is dead
-B) She has gone home
-C) Yes, she is alive
-D) She is in the reading room
+A) Dead
+B) Gone home
+C) Alive and well
+D) In the reading room
+E) Gone to bed
+F) Away from the building
 
 Answer with a single letter only.",C
-24,3,"Is the vault suppression system armed?
+30,3,"What state is the vault suppression system in?
 
-A) No, it has discharged
-B) It has been isolated for service
-C) Yes, it is armed
+A) Discharged
+B) Isolated for service
+C) Replaced with a new unit
+D) Armed
+E) Under test
+F) Disarmed
 
 Answer with a single letter only.",D
-24,4,"Is the reading room open?
+30,4,"What is the standing of the reading room?
 
-A) Yes, it is open again
-B) Yes, it is open
-C) No, it is closed
-D) It is open by appointment only
+A) Open for normal use
+B) Open by appointment only
+C) Shut for the day
+D) Open to staff only
+E) Closed for the morning
+F) Closed for cleaning
+
+Answer with a single letter only.",E
+31,1,"Where are the Beni Ourain rugs?
+
+A) The cedar press
+B) The strapped bale
+C) The store chest
+D) The guest room alcove
+E) The courtyard bench
+F) The kitchen recess
+
+Answer with a single letter only.",C
+31,2,"What has become of Belkacem?
+
+A) Alive and well
+B) Gone to bed
+C) Away from the building
+D) Dead
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+31,3,"What state is the courtyard lantern in?
+
+A) Lit
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Out
+F) Flickering
+
+Answer with a single letter only.",E
+31,4,"What state is the street door in?
+
+A) Standing open
+B) Unlocked
+C) Locked
+D) Bolted
+E) Chained
+F) Barred
+
+Answer with a single letter only.",F
+32,1,"Where are the Beni Ourain rugs?
+
+A) The cedar press
+B) The strapped bale
+C) The guest room alcove
+D) The store chest
+E) The courtyard bench
+F) The kitchen recess
+
+Answer with a single letter only.",D
+32,2,"What has become of Belkacem?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+32,3,"What state is the courtyard lantern in?
+
+A) Lit
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Flickering
+F) Out
+
+Answer with a single letter only.",F
+32,4,"What state is the street door in?
+
+A) Barred
+B) Standing open
+C) Unlocked
+D) Locked
+E) Bolted
+F) Chained
 
 Answer with a single letter only.",A
+33,1,"Where are the Beni Ourain rugs?
+
+A) The cedar press
+B) The strapped bale
+C) The guest room alcove
+D) The courtyard bench
+E) The store chest
+F) The kitchen recess
+
+Answer with a single letter only.",E
+33,2,"What has become of Belkacem?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+33,3,"What state is the courtyard lantern in?
+
+A) Lit
+B) Out
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",A
+33,4,"What state is the street door in?
+
+A) Standing open
+B) Barred
+C) Unlocked
+D) Locked
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",B
+34,1,"Where are the Beni Ourain rugs?
+
+A) The cedar press
+B) The strapped bale
+C) The guest room alcove
+D) The courtyard bench
+E) The kitchen recess
+F) The store chest
+
+Answer with a single letter only.",F
+34,2,"What has become of Belkacem?
+
+A) Alive and well
+B) Dead
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+34,3,"What state is the courtyard lantern in?
+
+A) Out
+B) Lit
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",B
+34,4,"What state is the street door in?
+
+A) Standing open
+B) Unlocked
+C) Barred
+D) Locked
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",C
+35,1,"Where are the Beni Ourain rugs?
+
+A) The store chest
+B) The cedar press
+C) The strapped bale
+D) The guest room alcove
+E) The courtyard bench
+F) The kitchen recess
+
+Answer with a single letter only.",A
+35,2,"What has become of Belkacem?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+35,3,"What state is the courtyard lantern in?
+
+A) Out
+B) Dimmed
+C) Lit
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+35,4,"What state is the street door in?
+
+A) Standing open
+B) Unlocked
+C) Locked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",D
+36,1,"Where is the 1938 instrument?
+
+A) The glass case
+B) The packing crate
+C) The fitted trunk
+D) The front room sideboard
+E) The varnish room rack
+F) The corridor locker
+
+Answer with a single letter only.",B
+36,2,"What has become of Rivas?
+
+A) Alive and well
+B) Gone to bed
+C) Dead
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+36,3,"What state is the extractor fan in?
+
+A) Stopped
+B) Fuse pulled
+C) Running slow
+D) Running
+E) Belt slipped
+F) Switched to hand control
+
+Answer with a single letter only.",D
+36,4,"What state is the street shutter in?
+
+A) Down
+B) Unlocked
+C) Locked
+D) Standing open
+E) Raised
+F) Barred
+
+Answer with a single letter only.",E
+37,1,"Where is the 1938 instrument?
+
+A) The glass case
+B) The packing crate
+C) The fitted trunk
+D) The front room sideboard
+E) The varnish room rack
+F) The corridor locker
+
+Answer with a single letter only.",C
+37,2,"What has become of Rivas?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Alive and well
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+37,3,"What state is the extractor fan in?
+
+A) Running
+B) Fuse pulled
+C) Running slow
+D) Belt slipped
+E) Stopped
+F) Switched to hand control
+
+Answer with a single letter only.",E
+37,4,"What state is the street shutter in?
+
+A) Down
+B) Unlocked
+C) Locked
+D) Standing open
+E) Barred
+F) Raised
+
+Answer with a single letter only.",F
+38,1,"Where is the 1938 instrument?
+
+A) The glass case
+B) The fitted trunk
+C) The front room sideboard
+D) The packing crate
+E) The varnish room rack
+F) The corridor locker
+
+Answer with a single letter only.",D
+38,2,"What has become of Rivas?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+38,3,"What state is the extractor fan in?
+
+A) Running
+B) Fuse pulled
+C) Running slow
+D) Belt slipped
+E) Switched to hand control
+F) Stopped
+
+Answer with a single letter only.",F
+38,4,"What state is the street shutter in?
+
+A) Down
+B) Raised
+C) Unlocked
+D) Locked
+E) Standing open
+F) Barred
+
+Answer with a single letter only.",A
+39,1,"Where is the 1938 instrument?
+
+A) The fitted trunk
+B) The packing crate
+C) The front room sideboard
+D) The varnish room rack
+E) The glass case
+F) The corridor locker
+
+Answer with a single letter only.",E
+39,2,"What has become of Rivas?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+39,3,"What state is the extractor fan in?
+
+A) Running
+B) Stopped
+C) Fuse pulled
+D) Running slow
+E) Belt slipped
+F) Switched to hand control
+
+Answer with a single letter only.",A
+39,4,"What state is the street shutter in?
+
+A) Raised
+B) Down
+C) Unlocked
+D) Locked
+E) Standing open
+F) Barred
+
+Answer with a single letter only.",B
+40,1,"Where is the 1938 instrument?
+
+A) The glass case
+B) The fitted trunk
+C) The front room sideboard
+D) The varnish room rack
+E) The corridor locker
+F) The packing crate
+
+Answer with a single letter only.",F
+40,2,"What has become of Rivas?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+40,3,"What state is the extractor fan in?
+
+A) Stopped
+B) Running
+C) Fuse pulled
+D) Running slow
+E) Belt slipped
+F) Switched to hand control
+
+Answer with a single letter only.",B
+40,4,"What state is the street shutter in?
+
+A) Raised
+B) Unlocked
+C) Down
+D) Locked
+E) Standing open
+F) Barred
+
+Answer with a single letter only.",C
+41,1,"Where are the Wheal Hester ledgers?
+
+A) The carrying case
+B) The accession cupboard
+C) The deed box
+D) The office shelf
+E) The trustees room press
+F) The workshop bench
+
+Answer with a single letter only.",A
+41,2,"What has become of Trelawny?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+41,3,"What state is the yard floodlight in?
+
+A) Lit
+B) Dimmed
+C) Out
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+41,4,"What state is the engine house gate in?
+
+A) Chained
+B) Unlocked
+C) Locked
+D) Standing open
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",D
+42,1,"Where are the Wheal Hester ledgers?
+
+A) The deed box
+B) The accession cupboard
+C) The carrying case
+D) The office shelf
+E) The trustees room press
+F) The workshop bench
+
+Answer with a single letter only.",B
+42,2,"What has become of Trelawny?
+
+A) Alive and well
+B) Gone to bed
+C) Dead
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+42,3,"What state is the yard floodlight in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Lit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",D
+42,4,"What state is the engine house gate in?
+
+A) Chained
+B) Unlocked
+C) Locked
+D) Barred
+E) Standing open
+F) Bolted
+
+Answer with a single letter only.",E
+43,1,"Where are the Wheal Hester ledgers?
+
+A) The accession cupboard
+B) The carrying case
+C) The deed box
+D) The office shelf
+E) The trustees room press
+F) The workshop bench
+
+Answer with a single letter only.",C
+43,2,"What has become of Trelawny?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Alive and well
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+43,3,"What state is the yard floodlight in?
+
+A) Lit
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Out
+F) Flickering
+
+Answer with a single letter only.",E
+43,4,"What state is the engine house gate in?
+
+A) Chained
+B) Unlocked
+C) Locked
+D) Barred
+E) Bolted
+F) Standing open
+
+Answer with a single letter only.",F
+44,1,"Where are the Wheal Hester ledgers?
+
+A) The deed box
+B) The carrying case
+C) The office shelf
+D) The accession cupboard
+E) The trustees room press
+F) The workshop bench
+
+Answer with a single letter only.",D
+44,2,"What has become of Trelawny?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+44,3,"What state is the yard floodlight in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Flickering
+F) Lit
+
+Answer with a single letter only.",F
+44,4,"What state is the engine house gate in?
+
+A) Standing open
+B) Chained
+C) Unlocked
+D) Locked
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",A
+45,1,"Where are the Wheal Hester ledgers?
+
+A) The accession cupboard
+B) The carrying case
+C) The office shelf
+D) The trustees room press
+E) The deed box
+F) The workshop bench
+
+Answer with a single letter only.",E
+45,2,"What has become of Trelawny?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+45,3,"What state is the yard floodlight in?
+
+A) Out
+B) Lit
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",A
+45,4,"What state is the engine house gate in?
+
+A) Chained
+B) Standing open
+C) Unlocked
+D) Locked
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",B
+46,1,"Where is the manifest?
+
+A) The agency file box
+B) The steel cabinet
+C) The port office tray
+D) The crane cab locker
+E) The supervisor hut drawer
+F) The courier envelope
+
+Answer with a single letter only.",F
+46,2,"What has become of Tan?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+46,3,"What state are the quay floodlights in?
+
+A) Dimmed
+B) Lit
+C) Out
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",B
+46,4,"What state is the container in?
+
+A) Unsealed
+B) Unlocked
+C) Pinned from outside
+D) Locked
+E) Standing open
+F) Barred
+
+Answer with a single letter only.",C
+47,1,"Where is the manifest?
+
+A) The agency file box
+B) The steel cabinet
+C) The courier envelope
+D) The port office tray
+E) The crane cab locker
+F) The supervisor hut drawer
+
+Answer with a single letter only.",A
+47,2,"What has become of Tan?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+47,3,"What state are the quay floodlights in?
+
+A) Lit
+B) Out
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+47,4,"What state is the container in?
+
+A) Pinned from outside
+B) Unlocked
+C) Locked
+D) Unsealed
+E) Standing open
+F) Barred
+
+Answer with a single letter only.",D
+48,1,"Where is the manifest?
+
+A) The agency file box
+B) The courier envelope
+C) The steel cabinet
+D) The port office tray
+E) The crane cab locker
+F) The supervisor hut drawer
+
+Answer with a single letter only.",B
+48,2,"What has become of Tan?
+
+A) Dead
+B) Gone to bed
+C) Alive and well
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+48,3,"What state are the quay floodlights in?
+
+A) Dimmed
+B) Out
+C) On the emergency circuit
+D) Lit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",D
+48,4,"What state is the container in?
+
+A) Pinned from outside
+B) Unlocked
+C) Locked
+D) Standing open
+E) Unsealed
+F) Barred
+
+Answer with a single letter only.",E
+49,1,"Where is the manifest?
+
+A) The steel cabinet
+B) The courier envelope
+C) The agency file box
+D) The port office tray
+E) The crane cab locker
+F) The supervisor hut drawer
+
+Answer with a single letter only.",C
+49,2,"What has become of Tan?
+
+A) Alive and well
+B) Gone to bed
+C) Away from the building
+D) Dead
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+49,3,"What state are the quay floodlights in?
+
+A) Lit
+B) Out
+C) On the emergency circuit
+D) Switched to red
+E) Dimmed
+F) Flickering
+
+Answer with a single letter only.",E
+49,4,"What state is the container in?
+
+A) Unsealed
+B) Unlocked
+C) Locked
+D) Standing open
+E) Barred
+F) Pinned from outside
+
+Answer with a single letter only.",F
+50,1,"Where is the manifest?
+
+A) The agency file box
+B) The courier envelope
+C) The port office tray
+D) The steel cabinet
+E) The crane cab locker
+F) The supervisor hut drawer
+
+Answer with a single letter only.",D
+50,2,"What has become of Tan?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+50,3,"What state are the quay floodlights in?
+
+A) Lit
+B) Out
+C) On the emergency circuit
+D) Switched to red
+E) Flickering
+F) Dimmed
+
+Answer with a single letter only.",F
+50,4,"What state is the container in?
+
+A) Unsealed
+B) Pinned from outside
+C) Unlocked
+D) Locked
+E) Standing open
+F) Barred
+
+Answer with a single letter only.",A
+51,1,"Where is the reserve list?
+
+A) The bar strongbox
+B) The manager's folder
+C) The office pigeonhole
+D) The kitchen drawer
+E) The ledger stand
+F) The plant room cabinet
+
+Answer with a single letter only.",E
+51,2,"What has become of Fortier?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+51,3,"What state are the bar lamps in?
+
+A) Lit
+B) Out
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",A
+51,4,"What state is the cellar door in?
+
+A) Handle removed
+B) Unlocked
+C) Locked
+D) Standing open
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",B
+52,1,"Where is the reserve list?
+
+A) The bar strongbox
+B) The manager's folder
+C) The office pigeonhole
+D) The kitchen drawer
+E) The plant room cabinet
+F) The ledger stand
+
+Answer with a single letter only.",F
+52,2,"What has become of Fortier?
+
+A) Alive and well
+B) Dead
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+52,3,"What state are the bar lamps in?
+
+A) Out
+B) Lit
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",B
+52,4,"What state is the cellar door in?
+
+A) Handle removed
+B) Locked
+C) Unlocked
+D) Standing open
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",C
+53,1,"Where is the reserve list?
+
+A) The ledger stand
+B) The bar strongbox
+C) The manager's folder
+D) The office pigeonhole
+E) The kitchen drawer
+F) The plant room cabinet
+
+Answer with a single letter only.",A
+53,2,"What has become of Fortier?
+
+A) Alive and well
+B) Dead
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+53,3,"What state are the bar lamps in?
+
+A) Out
+B) Dimmed
+C) Lit
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+53,4,"What state is the cellar door in?
+
+A) Handle removed
+B) Locked
+C) Standing open
+D) Unlocked
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",D
+54,1,"Where is the reserve list?
+
+A) The bar strongbox
+B) The ledger stand
+C) The manager's folder
+D) The office pigeonhole
+E) The kitchen drawer
+F) The plant room cabinet
+
+Answer with a single letter only.",B
+54,2,"What has become of Fortier?
+
+A) Dead
+B) Gone to bed
+C) Alive and well
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+54,3,"What state are the bar lamps in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Lit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",D
+54,4,"What state is the cellar door in?
+
+A) Handle removed
+B) Locked
+C) Standing open
+D) Barred
+E) Unlocked
+F) Bolted
+
+Answer with a single letter only.",E
+55,1,"Where is the reserve list?
+
+A) The bar strongbox
+B) The manager's folder
+C) The ledger stand
+D) The office pigeonhole
+E) The kitchen drawer
+F) The plant room cabinet
+
+Answer with a single letter only.",C
+55,2,"What has become of Fortier?
+
+A) Alive and well
+B) Gone to bed
+C) Away from the building
+D) Dead
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+55,3,"What state are the bar lamps in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Lit
+F) Flickering
+
+Answer with a single letter only.",E
+55,4,"What state is the cellar door in?
+
+A) Handle removed
+B) Locked
+C) Standing open
+D) Barred
+E) Bolted
+F) Unlocked
+
+Answer with a single letter only.",F
+56,1,"Where is the dart case?
+
+A) The clinic cabinet
+B) The strong box
+C) The boma shelter
+D) The field bag
+E) The vehicle bay locker
+F) The director house desk
+
+Answer with a single letter only.",D
+56,2,"What has become of Wanjiru?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+56,3,"What state is the camp floodlight in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Flickering
+F) Lit
+
+Answer with a single letter only.",F
+56,4,"What state is the drug store in?
+
+A) Locked
+B) Standing open
+C) Unlocked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",A
+57,1,"Where is the dart case?
+
+A) The clinic cabinet
+B) The strong box
+C) The boma shelter
+D) The vehicle bay locker
+E) The field bag
+F) The director house desk
+
+Answer with a single letter only.",E
+57,2,"What has become of Wanjiru?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+57,3,"What state is the camp floodlight in?
+
+A) Lit
+B) Out
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",A
+57,4,"What state is the drug store in?
+
+A) Standing open
+B) Locked
+C) Unlocked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",B
+58,1,"Where is the dart case?
+
+A) The field bag
+B) The strong box
+C) The boma shelter
+D) The vehicle bay locker
+E) The director house desk
+F) The clinic cabinet
+
+Answer with a single letter only.",F
+58,2,"What has become of Wanjiru?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+58,3,"What state is the camp floodlight in?
+
+A) Lit
+B) Out
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",B
+58,4,"What state is the drug store in?
+
+A) Standing open
+B) Unlocked
+C) Locked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",C
+59,1,"Where is the dart case?
+
+A) The strong box
+B) The clinic cabinet
+C) The field bag
+D) The boma shelter
+E) The vehicle bay locker
+F) The director house desk
+
+Answer with a single letter only.",A
+59,2,"What has become of Wanjiru?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+59,3,"What state is the camp floodlight in?
+
+A) Out
+B) Dimmed
+C) Lit
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+59,4,"What state is the drug store in?
+
+A) Standing open
+B) Unlocked
+C) Barred
+D) Locked
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",D
+60,1,"Where is the dart case?
+
+A) The field bag
+B) The clinic cabinet
+C) The strong box
+D) The boma shelter
+E) The vehicle bay locker
+F) The director house desk
+
+Answer with a single letter only.",B
+60,2,"What has become of Wanjiru?
+
+A) Dead
+B) Gone to bed
+C) Alive and well
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+60,3,"What state is the camp floodlight in?
+
+A) Lit
+B) Dimmed
+C) On the emergency circuit
+D) Out
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",D
+60,4,"What state is the drug store in?
+
+A) Standing open
+B) Unlocked
+C) Barred
+D) Bolted
+E) Locked
+F) Chained
+
+Answer with a single letter only.",E
+61,1,"Where are the Spejbl marionettes?
+
+A) The travelling trunk
+B) The strapped hamper
+C) The property case
+D) The wardrobe rail
+E) The workshop bench
+F) The fly loft rack
+
+Answer with a single letter only.",C
+61,2,"What has become of Novotny?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Alive and well
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+61,3,"What state are the stage working lights in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Lit
+F) Flickering
+
+Answer with a single letter only.",E
+61,4,"What state is the scene dock door in?
+
+A) Bolted
+B) Unlocked
+C) Locked
+D) Barred
+E) Chained
+F) Standing open
+
+Answer with a single letter only.",F
+62,1,"Where are the Spejbl marionettes?
+
+A) The property case
+B) The travelling trunk
+C) The wardrobe rail
+D) The strapped hamper
+E) The workshop bench
+F) The fly loft rack
+
+Answer with a single letter only.",D
+62,2,"What has become of Novotny?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+62,3,"What state are the stage working lights in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Flickering
+F) Lit
+
+Answer with a single letter only.",F
+62,4,"What state is the scene dock door in?
+
+A) Bolted
+B) Standing open
+C) Unlocked
+D) Locked
+E) Barred
+F) Chained
+
+Answer with a single letter only.",A
+63,1,"Where are the Spejbl marionettes?
+
+A) The property case
+B) The strapped hamper
+C) The wardrobe rail
+D) The workshop bench
+E) The travelling trunk
+F) The fly loft rack
+
+Answer with a single letter only.",E
+63,2,"What has become of Novotny?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+63,3,"What state are the stage working lights in?
+
+A) Lit
+B) Out
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",A
+63,4,"What state is the scene dock door in?
+
+A) Bolted
+B) Standing open
+C) Unlocked
+D) Locked
+E) Barred
+F) Chained
+
+Answer with a single letter only.",B
+64,1,"Where are the Spejbl marionettes?
+
+A) The travelling trunk
+B) The strapped hamper
+C) The wardrobe rail
+D) The workshop bench
+E) The fly loft rack
+F) The property case
+
+Answer with a single letter only.",F
+64,2,"What has become of Novotny?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+64,3,"What state are the stage working lights in?
+
+A) Out
+B) Lit
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",B
+64,4,"What state is the scene dock door in?
+
+A) Standing open
+B) Unlocked
+C) Bolted
+D) Locked
+E) Barred
+F) Chained
+
+Answer with a single letter only.",C
+65,1,"Where are the Spejbl marionettes?
+
+A) The strapped hamper
+B) The property case
+C) The travelling trunk
+D) The wardrobe rail
+E) The workshop bench
+F) The fly loft rack
+
+Answer with a single letter only.",A
+65,2,"What has become of Novotny?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+65,3,"What state are the stage working lights in?
+
+A) Out
+B) Dimmed
+C) Lit
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+65,4,"What state is the scene dock door in?
+
+A) Bolted
+B) Unlocked
+C) Locked
+D) Standing open
+E) Barred
+F) Chained
+
+Answer with a single letter only.",D
+66,1,"Where is the Pombaline panel?
+
+A) The crated frame
+B) The drying rack
+C) The shipping case
+D) The office recess
+E) The kiln room shelf
+F) The glaze room bay
+
+Answer with a single letter only.",B
+66,2,"What has become of Coutinho?
+
+A) Dead
+B) Gone to bed
+C) Alive and well
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+66,3,"What state is the kiln room vent in?
+
+A) Open
+B) Half open
+C) Blocked with soot
+D) Packed shut
+E) Taped over
+F) Drawing badly
+
+Answer with a single letter only.",D
+66,4,"What state is the yard gate in?
+
+A) Standing open
+B) Unlocked
+C) Barred
+D) Bolted
+E) Locked
+F) Chained
+
+Answer with a single letter only.",E
+67,1,"Where is the Pombaline panel?
+
+A) The drying rack
+B) The crated frame
+C) The shipping case
+D) The office recess
+E) The kiln room shelf
+F) The glaze room bay
+
+Answer with a single letter only.",C
+67,2,"What has become of Coutinho?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Alive and well
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+67,3,"What state is the kiln room vent in?
+
+A) Open
+B) Half open
+C) Blocked with soot
+D) Taped over
+E) Packed shut
+F) Drawing badly
+
+Answer with a single letter only.",E
+67,4,"What state is the yard gate in?
+
+A) Standing open
+B) Unlocked
+C) Barred
+D) Bolted
+E) Chained
+F) Locked
+
+Answer with a single letter only.",F
+68,1,"Where is the Pombaline panel?
+
+A) The crated frame
+B) The shipping case
+C) The office recess
+D) The drying rack
+E) The kiln room shelf
+F) The glaze room bay
+
+Answer with a single letter only.",D
+68,2,"What has become of Coutinho?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+68,3,"What state is the kiln room vent in?
+
+A) Packed shut
+B) Half open
+C) Blocked with soot
+D) Taped over
+E) Drawing badly
+F) Open
+
+Answer with a single letter only.",F
+68,4,"What state is the yard gate in?
+
+A) Standing open
+B) Locked
+C) Unlocked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",A
+69,1,"Where is the Pombaline panel?
+
+A) The drying rack
+B) The crated frame
+C) The office recess
+D) The kiln room shelf
+E) The shipping case
+F) The glaze room bay
+
+Answer with a single letter only.",E
+69,2,"What has become of Coutinho?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+69,3,"What state is the kiln room vent in?
+
+A) Open
+B) Packed shut
+C) Half open
+D) Blocked with soot
+E) Taped over
+F) Drawing badly
+
+Answer with a single letter only.",A
+69,4,"What state is the yard gate in?
+
+A) Standing open
+B) Locked
+C) Unlocked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",B
+70,1,"Where is the Pombaline panel?
+
+A) The crated frame
+B) The shipping case
+C) The office recess
+D) The kiln room shelf
+E) The glaze room bay
+F) The drying rack
+
+Answer with a single letter only.",F
+70,2,"What has become of Coutinho?
+
+A) Dead
+B) Alive and well
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",A
+70,3,"What state is the kiln room vent in?
+
+A) Packed shut
+B) Open
+C) Half open
+D) Blocked with soot
+E) Taped over
+F) Drawing badly
+
+Answer with a single letter only.",B
+70,4,"What state is the yard gate in?
+
+A) Standing open
+B) Unlocked
+C) Locked
+D) Barred
+E) Bolted
+F) Chained
+
+Answer with a single letter only.",C
+71,1,"Where are the POMS samples?
+
+A) The shed cool box
+B) The sealed esky
+C) The transport bin
+D) The jetty locker
+E) The punt hold
+F) The office fridge
+
+Answer with a single letter only.",A
+71,2,"What has become of Marsh?
+
+A) Alive and well
+B) Dead
+C) Gone to bed
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",B
+71,3,"What state is the jetty light in?
+
+A) Out
+B) Dimmed
+C) Lit
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",C
+71,4,"What state is the shucking shed in?
+
+A) Standing open
+B) Unlocked
+C) Locked
+D) Padlocked
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",D
+72,1,"Where are the POMS samples?
+
+A) The shed cool box
+B) The sealed esky
+C) The transport bin
+D) The jetty locker
+E) The punt hold
+F) The office fridge
+
+Answer with a single letter only.",B
+72,2,"What has become of Marsh?
+
+A) Dead
+B) Gone to bed
+C) Alive and well
+D) Away from the building
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",C
+72,3,"What state is the jetty light in?
+
+A) Out
+B) Dimmed
+C) On the emergency circuit
+D) Lit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",D
+72,4,"What state is the shucking shed in?
+
+A) Padlocked
+B) Unlocked
+C) Locked
+D) Barred
+E) Standing open
+F) Bolted
+
+Answer with a single letter only.",E
+73,1,"Where are the POMS samples?
+
+A) The shed cool box
+B) The sealed esky
+C) The transport bin
+D) The jetty locker
+E) The punt hold
+F) The office fridge
+
+Answer with a single letter only.",C
+73,2,"What has become of Marsh?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Alive and well
+E) Taken ill
+F) Asleep
+
+Answer with a single letter only.",D
+73,3,"What state is the jetty light in?
+
+A) Lit
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Out
+F) Flickering
+
+Answer with a single letter only.",E
+73,4,"What state is the shucking shed in?
+
+A) Standing open
+B) Unlocked
+C) Locked
+D) Barred
+E) Bolted
+F) Padlocked
+
+Answer with a single letter only.",F
+74,1,"Where are the POMS samples?
+
+A) The sealed esky
+B) The transport bin
+C) The jetty locker
+D) The shed cool box
+E) The punt hold
+F) The office fridge
+
+Answer with a single letter only.",D
+74,2,"What has become of Marsh?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Alive and well
+F) Asleep
+
+Answer with a single letter only.",E
+74,3,"What state is the jetty light in?
+
+A) Lit
+B) Dimmed
+C) On the emergency circuit
+D) Switched to red
+E) Flickering
+F) Out
+
+Answer with a single letter only.",F
+74,4,"What state is the shucking shed in?
+
+A) Standing open
+B) Padlocked
+C) Unlocked
+D) Locked
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",A
+75,1,"Where are the POMS samples?
+
+A) The sealed esky
+B) The transport bin
+C) The jetty locker
+D) The punt hold
+E) The shed cool box
+F) The office fridge
+
+Answer with a single letter only.",E
+75,2,"What has become of Marsh?
+
+A) Dead
+B) Gone to bed
+C) Away from the building
+D) Taken ill
+E) Asleep
+F) Alive and well
+
+Answer with a single letter only.",F
+75,3,"What state is the jetty light in?
+
+A) Out
+B) Lit
+C) Dimmed
+D) On the emergency circuit
+E) Switched to red
+F) Flickering
+
+Answer with a single letter only.",A
+75,4,"What state is the shucking shed in?
+
+A) Padlocked
+B) Standing open
+C) Unlocked
+D) Locked
+E) Barred
+F) Bolted
+
+Answer with a single letter only.",B
