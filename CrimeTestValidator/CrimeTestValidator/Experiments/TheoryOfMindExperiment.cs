@@ -20,6 +20,8 @@ public sealed class TheoryOfMindExperiment : ExperimentBase
 
     public override ExperimentType Type => ExperimentType.TheoryOfMind;
 
+    protected override int MaxTokens => 8192;
+
     protected override void Load()
     {
         _scenarios = ReadCsv<ScenarioDto>(Config.ScenariosFile);

@@ -38,6 +38,9 @@ public sealed class InferenceClient : IInferenceClient
             ["keep_alive"] = "30m"
         };
 
+        if(_config.IsThinkingEnabled)
+            payload.Add("reasoning_effort", "medium");
+
         var json = JsonSerializer.Serialize(payload);
         var sw = Stopwatch.StartNew();
         string? lastError = null;
