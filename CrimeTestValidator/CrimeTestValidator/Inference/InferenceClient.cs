@@ -33,7 +33,7 @@ public sealed class InferenceClient : IInferenceClient
                 seed = 42,
                 top_p = 1.0,
                 num_ctx = 32768,
-                num_predict = request.MaxTokens
+                num_predict = _config.Model == "deepseek-r1:8b" ? 4096 : request.MaxTokens
             },
             ["keep_alive"] = "30m"
         };
