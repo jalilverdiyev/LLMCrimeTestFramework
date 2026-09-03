@@ -18,8 +18,6 @@ public sealed class InferenceClient : IInferenceClient
 
     public async Task<InferenceResult> AskAsync(InferenceRequest request, CancellationToken ct)
     {
-        Console.WriteLine($"[AskAsync] Model: {_config.Model}");
-
         var payload = new Dictionary<string, object?>
         {
             ["model"] = _config.Model,
