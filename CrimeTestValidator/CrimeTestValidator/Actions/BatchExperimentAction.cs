@@ -20,8 +20,7 @@ public class BatchExperimentAction
 
 	public async Task RunExperimentsAsync(CancellationToken ct = default)
 	{
-		var extractionPath = Path.Combine(Path.GetTempPath(), $"CrimeTestValidator-{Guid.NewGuid():N}");
-		Directory.CreateDirectory(extractionPath);
+		var extractionPath = CreateExtractionDirectory();
 
 		try
 		{
@@ -45,6 +44,18 @@ public class BatchExperimentAction
 		{
 			Directory.Delete(extractionPath, recursive: true);
 		}
+	}
+
+	private string CreateExtractionDirectory()
+	{
+		var directoryName = $"CrimeTestValidator-{Guid.NewGuid():N}";
+		return CreateDirectory(Path.Combine(Environment.CurrentDirectory, ".batch-extractions", directoryName));
+	}
+
+	private static string CreateDirectory(string path)
+	{
+		Directory.CreateDirectory(path);
+		return path;
 	}
 
 	private void ExtractArchive(string extractionPath)
