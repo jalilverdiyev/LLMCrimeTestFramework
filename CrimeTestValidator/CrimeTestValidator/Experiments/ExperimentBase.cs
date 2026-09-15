@@ -61,10 +61,15 @@ public abstract class ExperimentBase : IExperiment
             });
 
         var ordered = bag.OrderBy(x => x.Order).Select(x => x.Result).ToList();
-        var file = $"{Type.ToString().ToLowerInvariant()}-results-{DateTime.Now:yyyy-MM-dd-HH-mm-ss}.csv";
+        var modelName = SanitizeFileName(Config.Model);
+        var file = $"{Type.ToString().ToLowerInvariant()}-results-{modelName}-{DateTime.Now:yyyy-MM-dd-HH-mm-ss}.csv";
         await WriteResultsAsync(file, ordered, ct);
         Console.WriteLine($"Results saved to: {file}");
     }
+
+    private static string SanitizeFileName(string value) =>
+        string.Concat(value.Select(character =>
+            Path.GetInvalidFileNameChars().Contains(character) ? '_' : character));
 
     private static ExperimentResultDto Project(ExperimentTask task, InferenceResult result) => new()
     {

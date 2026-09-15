@@ -44,6 +44,16 @@ switch ((ActionType)actionNum)
 		await validationAction.RunValidationsAsync();
 		break;
 	}
+	case ActionType.BatchExperiment:
+	{
+		if(args.Length < 2)
+			throw new ArgumentException("Model is mising");
+
+		appConfig.BatchExperimentConfig.Model = args[1];
+		var batchExperimentAction = new BatchExperimentAction(appConfig.BatchExperimentConfig);
+		await batchExperimentAction.RunExperimentsAsync();
+		break;
+	}
 	default:
 		Console.WriteLine("There isn't such action");
 		return;

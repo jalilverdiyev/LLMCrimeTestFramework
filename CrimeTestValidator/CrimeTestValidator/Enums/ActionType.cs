@@ -4,5 +4,6 @@ public enum ActionType
 {
 	None,
 	Experiment,
-	Validate
+	Validate,
+	BatchExperiment
 }

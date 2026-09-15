@@ -28,44 +28,21 @@ public class ValidationAction
 	{
 		var results = new ConcurrentBag<ValidationResultDto>();
 		var failures = new ConcurrentBag<string> { "Expected | Actual \n" };
-		using var answersReader = new StreamReader(_config.AnswersFile);
-		using var answersCsv = new CsvReader(answersReader, CultureInfo.InvariantCulture);
-		var answers = answersCsv
-				.GetRecords<QuestionDto>()
-				.GroupBy(q => q.ScenarioId)
-				.ToDictionary(g => g.Key, g=> g.ToList());
 
 		using var subjectsReader = new StreamReader(_config.SubjectsFile);
 		using var subjectsCsv = new CsvReader(subjectsReader, CultureInfo.InvariantCulture);
-		var subjects = subjectsCsv.GetRecords<ValidationSubjectDto>();
+		var subjects = subjectsCsv.GetRecords<ExperimentResultDto>();
 
 		Console.WriteLine("Starting validations...");
 		Parallel.ForEach(subjects, (subject, _) =>
 		{
-			if(!answers.TryGetValue(subject.ScenarioId, out var scenario))
-			{
-				Console.WriteLine("Couldn't find scenario with id {0}", subject.ScenarioId);
-				results.Add(new(subject.ScenarioId, subject.QuestionId, false));
-				return;
-			}
-
-			var question = scenario.FirstOrDefault(s => s.QuestionId == subject.QuestionId);
-
-			if (question == null)
-			{
-				Console.WriteLine("Couldn't find question with id {0}", subject.QuestionId);
-				results.Add(new(subject.ScenarioId, subject.QuestionId, false));
-				return;
-			}
-
-			var msg = JObject.Parse(subject.Result)["message"]?["content"]?.Value<string>() ?? string.Empty;
-			var actual = TextSanitizer.Sanitize(msg);
-			var expected = TextSanitizer.Sanitize(question.Answer);
-			var isValid = actual.Contains(expected, StringComparison.OrdinalIgnoreCase);
+			var actual = TextSanitizer.Sanitize(subject.Result);
+			var expected = TextSanitizer.Sanitize(subject.ExpectedAnswer ?? string.Empty);
+			var isValid = actual.Contains(expected, StringComparison.InvariantCultureIgnoreCase);
 			results.Add(new (subject.ScenarioId, subject.QuestionId, isValid));
 
 			if(!isValid)
-				failures.Add($"{subject.ScenarioId} : {subject.QuestionId} \n {expected} | {actual}\n\n\n");
+				failures.Add($"{subject.ScenarioId} : {subject.QuestionId} => {expected} | {actual}\n\n\n");
 		});
 
 		var resultsFile = $"validation_results-{DateTime.Now:dd-MM-yyyy-hh-mm-ss}.csv";
